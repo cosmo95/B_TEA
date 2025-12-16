@@ -1,0 +1,102 @@
+Transaction ID,Date,Time,Type,Name,Emoji,Category,Amount,Currency,Local amount,Local currency,Notes and #tags,Address,Receipt,Description,Category split,Money Out,Money In
+tx_0000AxktVbnXN2LEL65Zab,01/09/2025,07:35:27,Pot transfer,Savings Pot,,Savings,10.00,GBP,10.00,GBP,,,,,,,10.00
+tx_0000AxqJNc1sCDwsAcsUyH,03/09/2025,22:18:53,Faster payment,SAHIL DHAGE,,Income,100.00,GBP,100.00,GBP,CHASE,,,CHASE,,,100.00
+tx_0000AxrWZG7SyVnwVZoE8P,04/09/2025,12:21:22,Pot transfer,Savings Pot,,Savings,500.00,GBP,500.00,GBP,,,,,,,500.00
+tx_0000AxrWdXZI2iRarPdCu9,04/09/2025,12:22:08,Monzo-to-Monzo,Apurv Renake,,Expenses,-410.00,GBP,-410.00,GBP,American Express ,,,,,-410.00,
+tx_0000AxvS33GTbusB8h8sfB,06/09/2025,09:49:34,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Friday, 5 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-1.75,
+tx_0000AxxgPigc4eX2SglK4H,07/09/2025,11:39:58,Card payment,Transport for London,🚆,Transport,-2.90,GBP,-2.90,GBP,"Travel charge for Friday, 5 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-2.90,
+tx_0000Axz1RRaAvei5avPciw,08/09/2025,03:10:17,Direct Debit,Southwark Council,,Bills,-122.00,GBP,-122.00,GBP,55771956,,,55771956,,-122.00,
+tx_0000Ay0w2XmYdAdVuR3YuH,09/09/2025,01:19:11,Card payment,Transport for London,🚆,Transport,-13.90,GBP,-13.90,GBP,"Travel charge for Monday, 8 Sep","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-13.90,
+tx_0000Ay3txNpuZ69Fu7Bafk,10/09/2025,11:39:59,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Tuesday, 9 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000Ay5q27lliYCuFX91nu,11/09/2025,10:05:26,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Wednesday, 10 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000Ay83NQ9EGmPhPCEriN,12/09/2025,11:44:22,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Thursday, 11 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000Ay9zAtaFVOxDTavBDO,13/09/2025,10:06:43,Card payment,Transport for London,🚆,Transport,-4.05,GBP,-4.05,GBP,"Travel charge for Friday, 12 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-4.05,
+tx_0000AyFTvCv1v1BCbYHNg1,16/09/2025,01:44:47,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Monday, 15 Sep","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-3.50,
+tx_0000AyIcO66di3Wfv3937z,17/09/2025,14:03:47,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Tuesday, 16 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000AyKisfIwOYm4OQTstW,18/09/2025,14:25:58,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Wednesday, 17 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000AyMYywGjcmCN15tf4j,19/09/2025,11:44:28,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Thursday, 18 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000AyNoTGhntnWQoYBUEV,20/09/2025,02:12:44,Card payment,Transport for London,🚆,Transport,-5.25,GBP,-5.25,GBP,"Travel charge for Friday, 19 Sep","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-5.25,
+tx_0000AySkbK3ftBxURxg67u,22/09/2025,11:22:56,Pot transfer,Savings Pot,,Savings,200.00,GBP,200.00,GBP,,,,,,,200.00
+tx_0000AySkfIIkMZXy5mDy2U,22/09/2025,11:23:39,Monzo-to-Monzo,Apurv Renake,,Family,-200.00,GBP,-200.00,GBP,Gift 🎁,,,,,-200.00,
+tx_0000AyY1OSdfLV38p2RxB3,25/09/2025,00:24:39,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Monday, 22 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000AybIOKnUmVjaiN6JlJ,26/09/2025,14:19:15,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Thursday, 25 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000AybgOd8uyG9GD2Lqin,26/09/2025,18:48:13,Card payment,Govinda's Restaurant,🍽,Eating out,-11.15,GBP,-11.15,GBP,,9 Soho Street,,Govinda's Restaurant   London        GBR,,-11.15,
+tx_0000AyczSdqsMy9JfINvlp,27/09/2025,09:56:33,Card payment,Transport for London,🚆,Transport,-6.40,GBP,-6.40,GBP,"Travel charge for Friday, 26 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-6.40,
+tx_0000AyczwoMPrXdRvlqjmz,27/09/2025,10:02:00,Pot transfer,Savings Pot,,Savings,25.00,GBP,25.00,GBP,,,,,,,25.00
+tx_0000AyfvwjC1G8DiOaykl7,28/09/2025,20:01:18,Faster payment,RANADIVE R,,Transfers,1400.00,GBP,1400.00,GBP,Monzo-FGFJQ,,,Monzo-FGFJQ,,,1400.00
+tx_0000AyfvzSR618UMcosVko,28/09/2025,20:01:48,Pot transfer,Savings Pot,,Savings,-1400.00,GBP,-1400.00,GBP,,,,,,-1400.00,
+tx_0000AyhNf9ZLRjNu8WEtP7,29/09/2025,12:46:35,Card payment,Hobbs Pharmacy Bermond,💊,General,-19.80,GBP,-19.80,GBP,,50 Old Jamaica Road,,HOBBS PHARMACY BERMOND LONDON        GBR,,-19.80,
+tx_0000AyhvCGQsFKqFuxJYqA,29/09/2025,19:02:20,Pot transfer,Savings Pot,,Savings,30.00,GBP,30.00,GBP,,,,,,,30.00
+tx_0000Ayid6SnrjcypJauLmk,30/09/2025,03:14:18,monzo_paid,,,Bills,-7.00,GBP,-7.00,GBP,,,,Perks,,-7.00,
+tx_0000AymoHDZwYW1qnDSsBl,02/10/2025,03:38:21,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Wednesday, 1 Oct","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-1.75,
+tx_0000AytWYOgI5myNjWffZC,05/10/2025,09:22:44,Card payment,Transport for London,🚆,Transport,-4.65,GBP,-4.65,GBP,"Travel charge for Saturday, 4 Oct",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-4.65,
+tx_0000Ayy5F6XnZhbIsJGV6b,07/10/2025,14:10:16,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Monday, 6 Oct",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000AyyUHL29Aibsl665NB,07/10/2025,18:50:48,Pot transfer,Savings Pot,,Savings,130.00,GBP,130.00,GBP,,,,,,,130.00
+tx_0000AyzCTfrhwTScpCuHly,08/10/2025,03:06:03,Direct Debit,Southwark Council,,Bills,-122.00,GBP,-122.00,GBP,55771956,,,55771956,,-122.00,
+tx_0000Az0AF4fJRrxi3TsBIv,08/10/2025,14:15:43,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Tuesday, 7 Oct",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-1.75,
+tx_0000Az1nYqXBmtNmGDcBVq,09/10/2025,09:11:00,Pot transfer,Savings Pot,,Savings,400.00,GBP,400.00,GBP,,,,,,,400.00
+tx_0000Az1ncwjMgwcx9Knbs1,09/10/2025,09:11:44,Monzo-to-Monzo,Apurv Renake,,General,-400.00,GBP,-400.00,GBP,Credit card ,,,,,-400.00,
+tx_0000Az410JuCNjVrnB2h4T,10/10/2025,10:51:02,Faster payment,RANADIVE R,,Transfers,80.00,GBP,80.00,GBP,Monzo-FGFJQ,,,Monzo-FGFJQ,,,80.00
+tx_0000Az414BFkUeEgGrAarS,10/10/2025,10:51:45,Pot transfer,Savings Pot,,Savings,-80.00,GBP,-80.00,GBP,,,,,,-80.00,
+tx_0000Az4JKtMi3Df9WOuoa1,10/10/2025,14:16:27,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Thursday, 9 Oct",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000Az4YBH1Ujetr05Ks77,10/10/2025,17:02:48,Card payment,Tesco,🍏 ,Groceries,-18.65,GBP,-18.65,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-18.65,
+tx_0000Az5MuZ4zRc9ibNlH7p,11/10/2025,02:31:14,Card payment,Transport for London,🚆,Transport,-7.00,GBP,-7.00,GBP,"Travel charge for Friday, 10 Oct","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-7.00,
+tx_0000AzAYlDVkR6sy96axWu,13/10/2025,14:37:33,Pot transfer,Savings Pot,,Savings,20.00,GBP,20.00,GBP,,,,,,,20.00
+tx_0000AzCbWfvPCURUEdaIfy,14/10/2025,14:17:58,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Monday, 13 Oct",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000AzEioaRJQDHqst3RES,15/10/2025,14:49:04,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Tuesday, 14 Oct",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000AzIwtItKGiD0EgTT0P,17/10/2025,15:45:38,Card payment,Transport for London,🚆,Transport,-5.80,GBP,-5.80,GBP,"Travel charge for Thursday, 16 Oct",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-5.80,
+tx_0000AzJ74vBlDfDMI3lk7V,17/10/2025,17:39:47,Card payment,Seelans Superstore,🍎,Groceries,-28.25,GBP,-28.25,GBP,,332-338 High Street North,,SEELANS SUPERSTORE     London        GBR,,-28.25,
+tx_0000AzJ83ZijeTQC4hudzl,17/10/2025,17:50:44,Card payment,Chennai Store Uk,,Bills,-5.96,GBP,-5.96,GBP,,294 High Street North,,CHENNAI STORE UK       LONDON        GBR,,-5.96,
+tx_0000AzJD9btB0CTLjDwdog,17/10/2025,18:47:51,Card payment,Taste Of India Pure Ve,🍴,Eating out,-14.70,GBP,-14.70,GBP,,293-295 High Street North,,TASTE OF INDIA PURE VE London        GBR,,-14.70,
+tx_0000AzJEVPuwIDaLQAt4T3,17/10/2025,19:03:00,Card payment,S S Lakshmi Enterprise,,General,-2.00,GBP,-2.00,GBP,,241c High Street North,,S S LAKSHMI ENTERPRISE Eastham       GBR,,-2.00,
+tx_0000AzJtXtBYXgHaV7jqIk,18/10/2025,02:42:51,Card payment,Transport for London,🚆,Transport,-7.90,GBP,-7.90,GBP,"Travel charge for Friday, 17 Oct","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-7.90,
+tx_0000AzKFQnHOIdf6I87kgN,18/10/2025,06:48:05,Pot transfer,Savings Pot,,Savings,78.00,GBP,78.00,GBP,,,,,,,78.00
+tx_0000AzThn2LxU0gSN1jLG5,22/10/2025,20:18:14,Card payment,Uber,🚖,Transport,0.00,GBP,0.00,GBP,Active card check,Aldgate Tower First Floor,,Uber UK Rides          London        GBR,,0.00,
+tx_0000AzThr5aVOmJn4Atyan,22/10/2025,20:18:59,Card payment,Uber Eats,🍽,Eating out,-16.80,GBP,-16.80,GBP,,Aldgate Tower First Floor,,UBER   * EATS PENDING  London        GBR,,-16.80,
+tx_0000AzXOH35y4ECjtVNN0F,24/10/2025,14:58:25,Card payment,Tesco,🍏 ,Groceries,-4.65,GBP,-4.65,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-4.65,
+tx_0000AzXT32o6qCm2W1xcuZ,24/10/2025,15:51:54,Pot transfer,Savings Pot,,Savings,25.00,GBP,25.00,GBP,,,,,,,25.00
+tx_0000AzXVMKpiFGpABELMaQ,24/10/2025,16:17:48,Card payment,Swiggy,🍲,Eating out,-8.79,GBP,-1026.00,INR,,Ground Floor No 55 Sy No 8 14 I J Block Embas,,RAZ*Swiggy             Bangalore     IND,,-8.79,
+tx_0000AzXVmrMVvRqPkK6oi4,24/10/2025,16:22:36,Card payment,Pay Bundl Technologies,🍽,Eating out,-4.71,GBP,-550.00,INR,,112515 Ktroad Vijayawada,,PAY*Bundl technologies VIJAYAWADA    IND,,-4.71,
+tx_0000AzZP7yUSJ925V3zSC1,25/10/2025,14:17:24,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Friday, 24 Oct",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000AzezdcglT8JiIjZFib,28/10/2025,07:00:03,Faster payment,RANADIVE R,,Transfers,1400.00,GBP,1400.00,GBP,Monzo-FGFJQ,,,Monzo-FGFJQ,,,1400.00
+tx_0000Azezgkzx1zEpmB7T1N,28/10/2025,07:00:37,Pot transfer,Savings Pot,,Savings,-1400.00,GBP,-1400.00,GBP,,,,,,-1400.00,
+tx_0000AzgUQhVPXXGZkeMTiN,29/10/2025,00:19:47,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Monday, 27 Oct",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000AziYm0uTNYpBQhp4mv,30/10/2025,00:17:53,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Tuesday, 28 Oct",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000Azkg19NxEm7OhtESMT,31/10/2025,00:48:29,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Wednesday, 29 Oct",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000AzkssnOaPU0OylkSu1,31/10/2025,03:12:38,monzo_paid,,,Bills,-7.00,GBP,-7.00,GBP,,,,Perks,,-7.00,
+tx_0000AzlCkq38ekvxaueCv4,31/10/2025,06:55:18,Pot transfer,Savings Pot,,Savings,30.00,GBP,30.00,GBP,,,,,,,30.00
+tx_0000AzlKHURchh6Sl3T8hF,31/10/2025,08:18:53,Card payment,Transport for London,🚆,Transport,-5.85,GBP,-5.85,GBP,"Travel charge for Friday, 31 Oct","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-5.85,
+tx_0000AzmyvjldLOes0N6YiH,01/11/2025,03:29:49,overdraft,,,General,-0.01,GBP,-0.01,GBP,This is the charge for your October 2025 overdraft,,,October overdraft fees,,-0.01,
+tx_0000AzoZiwb4DvmljX0CZd,01/11/2025,21:56:48,Card payment,Uber Eats,🍽,Eating out,-14.04,GBP,-14.04,GBP,,Aldgate Tower First Floor,,UBER   * EATS PENDING  London        GBR,,-14.04,
+tx_0000AzoZlMTSz0hZYn7s1K,01/11/2025,21:57:14,Pot transfer,Savings Pot,,Savings,15.00,GBP,15.00,GBP,,,,,,,15.00
+tx_0000B00OHn1Cxbc0nfDzbJ,07/11/2025,14:45:10,Card payment,Tesco,🍏 ,Groceries,-2.30,GBP,-2.30,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-2.30,
+tx_0000B028f19VMqL6fU6KwL,08/11/2025,10:59:31,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Friday, 7 Nov",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000B02FlIRkgD8baw9iDK,08/11/2025,12:19:05,Card payment,Permit Room Portobello,🍽,Eating out,-26.21,GBP,-26.21,GBP,,186 Portobello Road,,Permit Room Portobello London        GBR,,-26.21,
+tx_0000B03UcTdJPdG09Ym8Dz,09/11/2025,02:40:17,Card payment,Transport for London,🚆,Transport,-5.80,GBP,-5.80,GBP,"Travel charge for Saturday, 8 Nov","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-5.80,
+tx_0000B04aO0E2kJkwNWa4Uj,09/11/2025,15:19:36,Pot transfer,Savings Pot,,Savings,160.00,GBP,160.00,GBP,,,,,,,160.00
+tx_0000B05bmxwudlmAL61krz,10/11/2025,03:10:02,Direct Debit,Southwark Council,,Bills,-122.00,GBP,-122.00,GBP,55771956,,,55771956,,-122.00,
+tx_0000B08JQMk15Cbxb8jWWC,11/11/2025,10:28:23,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Monday, 10 Nov",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000B0ANb9a78g0E6OQ9cz,12/11/2025,10:24:35,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Tuesday, 11 Nov",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000B0CTQsKBQtzTLdcd8L,13/11/2025,10:39:23,Card payment,Transport for London,🚆,Transport,-5.25,GBP,-5.25,GBP,"Travel charge for Wednesday, 12 Nov",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-5.25,
+tx_0000B0DrpmXgeziz18EQML,14/11/2025,02:47:31,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Thursday, 13 Nov","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-3.50,
+tx_0000B0EEP2Me1abHDOHacb,14/11/2025,07:00:24,Pot transfer,Savings Pot,,Savings,30.00,GBP,30.00,GBP,,,,,,,30.00
+tx_0000B0FC5FMVz2sSeg8O9K,14/11/2025,18:09:07,Card payment,Tesco,🍏 ,Groceries,-5.70,GBP,-5.70,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-5.70,
+tx_0000B0GhwjhRDBJUQ6QN5W,15/11/2025,11:40:51,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Friday, 14 Nov",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.50,
+tx_0000B0JLbdhYha8ICu2Ikc,16/11/2025,18:14:39,Faster payment,Rakshanda Ranadive,,Transfers,-12.00,GBP,-12.00,GBP,Rakshanda Ranadive,,,Rakshanda Ranadive,,-12.00,
+tx_0000B0JLq2qe0LqNbE3mM6,16/11/2025,18:17:16,Card payment,On That Ass,👕,Shopping,-12.99,GBP,-12.99,GBP,,Graafsebaan 135a,,ONTHATASS              Rosmalen      NLD,,-12.99,
+tx_0000B0JM41z80ivwSnxddz,16/11/2025,18:19:47,Faster payment,RANADIVE R,,Transfers,13.00,GBP,13.00,GBP,Monzo-FGFJQ,,,Monzo-FGFJQ,,,13.00
+tx_0000B0Mp6J9kcRUoeDDESU,18/11/2025,10:29:17,Card payment,Transport for London,🚆,Transport,-11.20,GBP,-11.20,GBP,"Travel charge for Monday, 17 Nov",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-11.20,
+tx_0000B0QIFStXGGXPtTDpj7,20/11/2025,02:40:01,Card payment,Transport for London,🚆,Transport,-3.50,GBP,-3.50,GBP,"Travel charge for Wednesday, 19 Nov","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-3.50,
+tx_0000B0Qe2qrl1UZEjzb4ew,20/11/2025,06:44:15,Faster payment,RANADIVE R,,Transfers,72.00,GBP,72.00,GBP,Monzo-FGFJQ,,,Monzo-FGFJQ,,,72.00
+tx_0000B0RJLsVZEpvUpaaEKn,20/11/2025,14:27:06,Card payment,Gails Stoke Newington,🍽,Eating out,-4.65,GBP,-4.65,GBP,,62 Stoke Newington Church Street,,GAILS STOKE NEWINGTON  London        GBR,,-4.65,
+tx_0000B0T5AFWsoHNIvZehy2,21/11/2025,10:57:33,Card payment,Transport for London,🚆,Transport,-7.00,GBP,-7.00,GBP,"Travel charge for Thursday, 20 Nov",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-7.00,
+tx_0000B0hR3oGCCXA27fX8mQ,28/11/2025,09:08:51,Faster payment,RANADIVE R,,Transfers,1950.00,GBP,1950.00,GBP,Monzo-FGFJQ,,,Monzo-FGFJQ,,,1950.00
+tx_0000B0hR8MY0fD6EPwNjX7,28/11/2025,09:09:40,Pot transfer,Savings Pot,,Savings,-1950.00,GBP,-1950.00,GBP,,,,,,-1950.00,
+tx_0000B0hkBE8GJ3sKqqsuCf,28/11/2025,12:43:05,Card payment,Transport for London,🚆,Transport,-7.00,GBP,-7.00,GBP,"Travel charge for Thursday, 27 Nov",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-7.00,
+tx_0000B0iLH8xKA4gaIpzCeP,28/11/2025,19:38:44,Card payment,Flying Tiger,🛒,General,-4.20,GBP,-4.20,GBP,,22-24 Tottenham Court Road,,FlyingTigerWestfield   London        GBR,,-4.20,
+tx_0000B0ixzFe0S4rDg0LZq6,29/11/2025,02:52:30,Card payment,Transport for London,🚆,Transport,-4.00,GBP,-4.00,GBP,"Travel charge for Friday, 28 Nov","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-4.00,
+tx_0000B0l4i1LxQ9JnpmOfqd,30/11/2025,03:17:15,monzo_paid,,,Bills,-7.00,GBP,-7.00,GBP,,,,Perks,,-7.00,
+tx_0000B0lhkVG76CkeHY4qHp,30/11/2025,10:34:41,Card payment,Transport for London,🚆,Transport,-11.10,GBP,-11.10,GBP,"Travel charge for Saturday, 29 Nov",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-11.10,
+tx_0000B0lvkel1BPCoC5GE8C,30/11/2025,13:11:35,Card payment,Primark,👕,Shopping,-13.00,GBP,-13.00,GBP,,165 - 169 High Street,,PRIMARK                HOUNSLOW      GBR,,-13.00,
+tx_0000B0lw9WWSw7CoiReazz,30/11/2025,13:16:05,Card payment,Primark,👕,Shopping,-51.20,GBP,-51.20,GBP,,165 - 169 High Street,,PRIMARK                HOUNSLOW      GBR,,-51.20,
+tx_0000B0mcDEygJ2KzmMqeYb,30/11/2025,21:07:22,Card payment,Bw Gloucester Robinswo,🏨,Holidays,-8.50,GBP,-8.50,GBP,,Robinswood Hill,,BW GLOUCESTER ROBINSWO   GREAT BRITA GBR,,-8.50,

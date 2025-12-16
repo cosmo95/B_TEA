@@ -1,0 +1,1088 @@
+Transaction ID,Date,Time,Type,Name,Emoji,Category,Amount,Currency,Local amount,Local currency,Notes and #tags,Address,Receipt,Description,Category split,Money Out,Money In
+tx_0000ApdVsZLoVUe8OEPLyD,01-01-2025,11:10:53,Card payment,Tesco,🍏 ,Groceries,-1.45,GBP,-1.45,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-1.45,
+tx_0000ApdoR7T1y4SZkoPBZ4,01-01-2025,14:38:49,Monzo.me / Top-up,,,General,52.94,GBP,52.94,GBP,Internal transfer ,,,Apurv Renake,,,52.94
+tx_0000ApdqD2lmptyegKXmHh,01-01-2025,14:58:41,Pot transfer,Holiday Pot,,Savings,15,GBP,15,GBP,,,,,,,15
+tx_0000ApdqZcWGbHJoZFjn0L,01-01-2025,15:02:46,Card payment,British Gas,🇬🇧💨,Bills,-73,GBP,-73,GBP,,Maidenhead Road,,BRITISH GAS ENERGY     WINDSOR       GBR,,-73,
+tx_0000ApdsZkrzklGlcZlvpB,01-01-2025,15:25:12,Pot transfer,Holiday Pot,,Savings,10,GBP,10,GBP,,,,,,,10
+tx_0000Apdsej4NsDiHHdo6ev,01-01-2025,15:26:06,Card payment,Vistaprint,📖,Shopping,-15.1,GBP,-15.1,GBP,,,,Vistaprint             Venlo         NLD,,-15.1,
+tx_0000Ape9tyjJd7ef2EuNIf,01-01-2025,18:39:20,Card payment,Human Forest,🚗,Transport,0,GBP,0,GBP,Active card check,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,0,
+tx_0000Ape9ucw88u7rWnCRwP,01-01-2025,18:39:27,Card payment,Human Forest,🚗,Transport,-0.6,GBP,-0.6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-0.6,
+tx_0000ApeA0cGVYFpTyRdFGj,01-01-2025,18:40:32,Pot transfer,Holiday Pot,,Savings,10,GBP,10,GBP,,,,,,,10
+tx_0000ApeA0mso4ilT1BGDKd,01-01-2025,18:40:34,Card payment,Human Forest,🚗,Transport,0.6,GBP,0.6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,0.6
+tx_0000ApeA2a8aQvYGV8NYpu,01-01-2025,18:40:54,Card payment,Human Forest,🚗,Transport,-10,GBP,-10,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-10,
+tx_0000AphqyZ6jCRUU8WRY3N,03-01-2025,13:26:07,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Aphr5Z0LyqjyexEh6Y,03-01-2025,13:27:23,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Aphu98xb3SWtuMEuED,03-01-2025,14:01:39,Pot transfer,Holiday Pot,,Savings,15,GBP,15,GBP,,,,,,,15
+tx_0000AphuKPlitwsb4bag9y,03-01-2025,14:03:41,Faster payment,Atharv Yenpure,,Groceries,-13,GBP,-13,GBP,Atharv Revolut,,,Atharv Revolut,,-13,
+tx_0000Aphvhu9OD280DTamoL,03-01-2025,14:19:08,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Aphvon5EskzHYjhiM5,03-01-2025,14:20:23,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ApiG6DbNXSsd5Lat7Z,03-01-2025,18:07:38,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ApiGEWRFOAUdKYbjP8,03-01-2025,18:09:08,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ApinEtxhE5Sk1Xnx0j,04-01-2025,00:18:58,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ApinKmaFZSlM7YcPhZ,04-01-2025,00:20:02,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ApkHyJgpbmPJpk9E1J,04-01-2025,17:38:02,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ApkI9XwUxQUTDspZ4L,04-01-2025,17:40:04,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ApoN0OGmpPMrSrn2EF,06-01-2025,16:53:17,Pot transfer,Holiday Pot,,Savings,10,GBP,10,GBP,,,,,,,10
+tx_0000ApoN1e2dfsTXEblv9N,06-01-2025,16:53:30,Card payment,PizzaExpress,🍕,Eating out,-11.85,GBP,-11.85,GBP,,,,PizzaExpressMobile     Uxbridge      GBR,,-11.85,
+tx_0000ApogfifTn6Dw6XC6b4,06-01-2025,20:33:39,Pot transfer,Holiday Pot,,Savings,20,GBP,20,GBP,,,,,,,20
+tx_0000ApoggkE3U7tXP8lygz,06-01-2025,20:33:50,Card payment,Nagerkovil Arya Bhavan,🍽,Eating out,-18.7,GBP,-18.7,GBP,,17 Charing Cross Road,,NAGERKOVIL ARYA BHAVAN LONDON        GBR,,-18.7,
+tx_0000ApuKGh6TRGUVCX2gGx,09-01-2025,13:50:53,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000ApuKhvIYlpbLFsihhB,09-01-2025,13:55:48,Card payment,Runa,💼,General,-28.8,GBP,-28.8,GBP,,51 Eastcheap,,Runa Network Limited   London        GBR,,-28.8,
+tx_0000ApuTF8Pnp3aMNIe8gr,09-01-2025,15:31:26,Pot transfer,Holiday Pot,,Savings,10,GBP,10,GBP,,,,,,,10
+tx_0000ApuUc3zIYAD02dP6fJ,09-01-2025,15:46:47,Faster payment,Sahil Sonali Dhage,,General,-28,GBP,-28,GBP,Sahil,,,Sahil,,-28,
+tx_0000ApzN2O9gMWXd6CB88A,12-01-2025,00:15:28,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Saturday, 11 Jan","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-1.75,
+tx_0000Aq1GXyig9i85yESRzG,12-01-2025,22:12:10,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Sunday, 12 Jan","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-1.75,
+tx_0000Aq2A0YeRePfpCh8n8T,13-01-2025,08:33:36,Card payment,Transport for London,🚆,Transport,-2.7,GBP,-2.7,GBP,"Travel charge for Sunday, 12 Jan",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-2.7,
+tx_0000Aq5jBvT3Eze4tlLX0L,15-01-2025,01:51:58,Card payment,Vistaprint,📖,Shopping,15.1,GBP,15.1,GBP,,Hudsonweg 8 8,,Vistaprint\Hudsonweg 8 8\Venlo\5928LW    NLDNLD,,,15.1
+tx_0000AqAvA9bdsCdX4WkOJt,17-01-2025,13:59:40,Pot transfer,Holiday Pot,,Savings,40.01,GBP,40.01,GBP,,,,,,,40.01
+tx_0000AqAvyatUgwFH2jfJFC,17-01-2025,14:08:47,Card payment,National Express,🚌,Transport,-24.6,GBP,-24.6,GBP,,"National Express House, Birmingham Coach Station",,National Express Limit Birmingham    GBR,,-24.6,
+tx_0000AqBBeGcTxas68bro8X,17-01-2025,17:04:23,Card payment,Wetherspoon,🍺,Eating out,-1.04,GBP,-1.04,GBP,,,,JD WETHERSPOON         Watford       GBR,,-1.04,
+tx_0000AqBFgxzc4RAwcrBsd0,17-01-2025,17:49:42,Card payment,Sweet One,🍞,Groceries,-4.65,GBP,-4.65,GBP,,168 Stoke Newington Road,,SWEET ONE              LONDON        GBR,,-4.65,
+tx_0000AqBUtw3I61JyQ7CQx0,17-01-2025,20:40:07,Card payment,Chokhi Dhani,🍽,Eating out,-35.48,GBP,-35.48,GBP,,2 Nine Elms Lane,,CHOKHI DHANI           LONDON        GBR,,-35.48,
+tx_0000AqCmmjB9YIks7gK2YT,18-01-2025,11:35:13,Card payment,Transport for London,🚆,Transport,-4.55,GBP,-4.55,GBP,"Travel charge for Friday, 17 Jan",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-4.55,
+tx_0000AqCrmLOKUe578d73dD,18-01-2025,12:31:10,Card payment,Stagecoach,🚌,Transport,-19,GBP,-19,GBP,,Daw Bank,,STAGECOACH             BUS TICKET    GBR,,-19,
+tx_0000AqD0GefGCTXQ4vCUmv,18-01-2025,14:06:17,Card payment,Windy Corner Store,🎁,Shopping,-3.25,GBP,-3.25,GBP,,110 Nelson Road,,WINDY CORNER STORE & C WHITSTABLE    GBR,,-3.25,
+tx_0000AqF6uiEbKmQdrGeoDq,19-01-2025,14:30:11,Card payment,Tesco,🍏 ,Groceries,-5.39,GBP,-5.39,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-5.39,
+tx_0000AqF7aPUFQZXyTOfJuD,19-01-2025,14:37:43,Card payment,Tesco,🍏 ,Groceries,-1.7,GBP,-1.7,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-1.7,
+tx_0000AqHNbLoyWsMclFIIa1,20-01-2025,16:46:35,Card payment,PizzaExpress,🍕,Eating out,-23.2,GBP,-23.2,GBP,,,,PizzaExpressMobile     Uxbridge      GBR,,-23.2,
+tx_0000AqIvo0o9YghJ1yBRbO,21-01-2025,10:44:33,Faster payment,RENAKE A,,Transfers,70,GBP,70,GBP,Monzo-DZNPZ,,,Monzo-DZNPZ,,,70
+tx_0000AqIx8PfyuOVAlpbRYn,21-01-2025,10:59:27,Card payment,Transport for London,🚆,Transport,-3.5,GBP,-3.5,GBP,"Travel charge for Monday, 20 Jan",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.5,
+tx_0000AqaHyIRKMLuTwCQz4b,29-01-2025,19:43:01,Card payment,Runa,💼,General,-22.58,GBP,-22.58,GBP,,51 Eastcheap,,Runa Network Limited   London        GBR,,-22.58,
+tx_0000AqbTYE47OTguioMGzB,30-01-2025,09:27:28,Faster payment,Emre Durmaz,,Personal care,-20,GBP,-20,GBP,Haircut Sam's,,,Haircut Sam's,,-20,
+tx_0000Aqc8fa3A9OL1Uh9N59,30-01-2025,17:08:13,Bacs (Direct Credit),Accor Hotels,,Income,1688.52,GBP,1688.52,GBP,2193    01013514,,,2193    01013514,,,1688.52
+tx_0000Aqc8wJVMuwvc5SFqhW,30-01-2025,17:11:14,Faster payment,Atharv Yenpure,,Rent,-600,GBP,-600,GBP,Feb Rent + Bills,,,Feb Rent + Bills,,-600,
+tx_0000Aqc99cCQitY59Ib0SY,30-01-2025,17:13:38,Pot transfer,Holiday Pot,,Savings,-1000,GBP,-1000,GBP,,,,,,-1000,
+tx_0000AqdDU0qHPCm7GaMQ1C,31-01-2025,05:36:52,monzo_paid,,,Bills,-7,GBP,-7,GBP,,,,Perks,,-7,
+tx_0000AqdoKIN54hauKkRdir,31-01-2025,12:29:41,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000Aqe2wUcdND1hpzhP9Q,31-01-2025,15:13:28,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Aqe32dHC6t2upG1Kfh,31-01-2025,15:14:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Aqepzazx1FizENebFR,01-02-2025,00:23:04,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Aqeq9mxJPtNwKkRWCH,01-02-2025,00:24:55,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AqfBzyF0nh9XNIBZBZ,01-02-2025,04:29:39,overdraft,,,General,-0.07,GBP,-0.07,GBP,This is the charge for your January 2025 overdraft,,,January overdraft fees,,-0.07,
+tx_0000AqgbNlfTtHoSRCgr4b,01-02-2025,20:48:47,Card payment,Vasantha Vilas,🍽,Eating out,-12.45,GBP,-12.45,GBP,,206 High Street North,,Vasantha Vilas         London        GBR,,-12.45,
+tx_0000AqiCPNzGnUGkpIhKNu,02-02-2025,15:18:22,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AqiCZWPCLyCvD7vgCg,02-02-2025,15:20:12,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Aqin200ZTtT3duBETy,02-02-2025,22:08:44,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AqinBniA3W7DuZREZt,02-02-2025,22:10:30,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AqmGaTHwbYDvCCUQ6M,04-02-2025,14:24:02,Faster payment,Apurv Renake,,Savings,-20,GBP,-20,GBP,Revolute Self,,,Revolute Self,,-20,
+tx_0000Aqnn40G4Ugsacqx0xG,05-02-2025,08:02:39,Pot transfer,Holiday Pot,,Savings,100,GBP,100,GBP,,,,,,,100
+tx_0000AqnnF6owR3y95XIZQ9,05-02-2025,08:04:39,Faster payment,Apurv Renake,,Bills,-60,GBP,-60,GBP,Apurv HSBC,,,Apurv HSBC,,-60,
+tx_0000Aqns6Ei4EZSTnQvi9h,05-02-2025,08:59:05,Pot transfer,Holiday Pot,,Savings,70.37,GBP,70.37,GBP,,,,,,,70.37
+tx_0000AqnsDDuRbm3R8WE34j,05-02-2025,09:00:21,Card payment,British Gas,🇬🇧💨,Bills,-87.45,GBP,-87.45,GBP,,Maidenhead Road,,BRITISH GAS ENERGY     WINDSOR       GBR,,-87.45,
+tx_0000AqqVpLQUOUlQuV7D0L,06-02-2025,15:33:39,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000AqqXIT0dNbOWzVq01J,06-02-2025,15:50:07,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AqqXQQFDXiAkLn5nYw,06-02-2025,15:51:33,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AqrGbQdYv2Hebgz0Ub,07-02-2025,00:17:46,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AqrGiPYDM8oyzpJAG1,07-02-2025,00:19:02,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AqsaOevEglWI6FMAaY,07-02-2025,15:34:17,Card payment,Iceland,❄️ ,Groceries,-7.5,GBP,-7.5,GBP,,222-226 Southwark Park Road,,ICELAND                BERMONDSEY    GBR,,-7.5,
+tx_0000Aqsam0tBBNuycPhyRF,07-02-2025,15:38:30,Card payment,Tesco,🍏 ,Groceries,-1,GBP,-1,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-1,
+tx_0000AquHvIVdWxS82ysCrh,08-02-2025,11:16:42,Faster payment,Apurv Renake,,Gifts,-10,GBP,-10,GBP,Revolute Self,,,Revolute Self,,-10,
+tx_0000AquHyNTRWq9Z4nlTgA,08-02-2025,11:17:15,Pot transfer,Holiday Pot,,Savings,10,GBP,10,GBP,,,,,,,10
+tx_0000AqulJ6gk1svdXOjvWc,08-02-2025,16:45:57,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AqulRXxUWVIuLORzKk,08-02-2025,16:47:29,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AqvJUAEkZavrde7lbe,08-02-2025,23:08:55,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AqvJdWGw13zuoHlqHx,08-02-2025,23:10:37,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AqwFug46eYyNElA8Tx,09-02-2025,10:03:36,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AqwG5gcOwAmwLdwleL,09-02-2025,10:05:36,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AqwGSzTqySworZgG04,09-02-2025,10:09:48,Card payment,Tesco,🍏 ,Groceries,-2.84,GBP,-2.84,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-2.84,
+tx_0000AqwGb0hsIbvRoVMw3V,09-02-2025,10:11:15,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AqwGhieNpYlRQiqVMI,09-02-2025,10:12:28,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Aqwi0qxRri9P22lFEy,09-02-2025,15:18:27,Card payment,Klarna,💳,Bills,0,GBP,0,GBP,Active card check,,,KLARNA*KLARNA SHOPPI   LONDON        GBR,,0,
+tx_0000Aqwi2vvoLQcewlZi32,09-02-2025,15:18:50,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000Aqwi5d6CoqWTorROD5,09-02-2025,15:19:19,Card payment,Klarna,💳,Bills,0,GBP,0,GBP,Active card check,,,KLARNA*KLARNA SHOPPI   LONDON        GBR,,0,
+tx_0000AqwiLwmhOfrVcsoOgc,09-02-2025,15:22:16,Card payment,Klarna,💳,Bills,-44,GBP,-44,GBP,,,,Klarna                 WC2B 6NH      GBR,,-44,
+tx_0000AqwoNlvFLvNV20pV0U,09-02-2025,16:29:50,Card payment,Klarna,💳,Bills,44,GBP,0.84,GBP,,,,Klarna                 WC2B 6NH      GBR,,,44
+tx_0000Aqwpepv3qS14fvcM7t,09-02-2025,16:44:07,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000Aqwq0K1V7Af6wqGTnm,09-02-2025,16:48:00,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Aqwq6vgQ0azfRxkGjx,09-02-2025,16:49:12,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AqxLOX2hSS0ndZEP6A,09-02-2025,22:39:44,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AqxLXdRL2eOV1y6Ipl,09-02-2025,22:41:23,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AqxlRuPHdzsSzngT5t,10-02-2025,03:31:40,Card payment,Klarna,💳,Bills,-43.16,GBP,-43.16,GBP,,"Aviation House 125 Kingsway, Holborn, London, Unit",,"Klarna\Aviation House 125 Kingsway, Holborn, London, Unit\WC2B 6NH\WC2B6NH   GBRGBR",,-43.16,
+tx_0000Aqyne94DMEu4zVC2rp,10-02-2025,15:31:00,Pot transfer,Holiday Pot,,Savings,40,GBP,40,GBP,,,,,,,40
+tx_0000AqynwHvFAm4wzsbdon,10-02-2025,15:34:17,Card payment,London Eye,📸,Transport,-36,GBP,-36,GBP,,,,London Eye             London        GBR,,-36,
+tx_0000AqyyrapsWaS3rNOwHl,10-02-2025,17:36:42,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AqyyzTnIaZv9yis6dd,10-02-2025,17:38:06,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AqzVX4hnZUsc4c0Hp3,10-02-2025,23:42:45,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AqzVd4u3kVGMz0Tkx7,10-02-2025,23:43:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Ar0oMAmSjiC8Bpdty6,11-02-2025,14:48:23,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Ar0oWgUxfJbPSMT8D3,11-02-2025,14:50:17,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Ar1YdoGFnWI6EIdoEj,11-02-2025,23:27:00,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Ar1Yl2IC1o2Hm2zgSP,11-02-2025,23:28:19,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Ar5EeEsNcgK45uksJY,13-02-2025,18:01:19,Card payment,Tesco,🍏 ,Groceries,-4.55,GBP,-4.55,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-4.55,
+tx_0000Ar5VDprtg3VeRWpbKD,13-02-2025,21:07:32,Pot transfer,Holiday Pot,,Savings,45,GBP,45,GBP,,,,,,,45
+tx_0000Ar5VEw3GAp3vqB4jhJ,13-02-2025,21:07:44,Card payment,Groupon,💵,Groceries,-40.49,GBP,-40.49,GBP,,,,www.groupon.co.uk      groupon.co.uk IRL,,-40.49,
+tx_0000Ar6RlWS4AWI5UoAds2,14-02-2025,08:03:31,Card payment,Tesco,🍏 ,Groceries,-3.25,GBP,-3.25,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-3.25,
+tx_0000Ar7AefKvEUhdWJJCGQ,14-02-2025,16:26:30,Card payment,Transport for London,🚆,Transport,-2.8,GBP,-2.8,GBP,"Travel charge for Friday, 14 Feb","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-2.8,
+tx_0000Ar7BTJP4XU3Vfjormj,14-02-2025,16:35:40,Card payment,Lola's Cupcakes,🍞,Groceries,-4.3,GBP,-4.3,GBP,,Hampstead High Street,,SP LOLAS CUPCAKES      LONDON        GBR,,-4.3,
+tx_0000Ar7CBdr5rPEkVLmTsB,14-02-2025,16:43:40,Card payment,Tesco,🍏 ,Groceries,-3.5,GBP,-3.5,GBP,,103-107 Waterloo Road,,TESCO STORES 4521      LONDON        GBR,,-3.5,
+tx_0000Ar7SiOBkjFUsCMingH,14-02-2025,19:48:52,Pot transfer,Holiday Pot,,Savings,-12,GBP,-12,GBP,,,,,,-12,
+tx_0000Ar7Sjsb79cE6u1Y0V1,14-02-2025,19:49:08,Card payment,Master Bao,🍽,Eating out,-10.4,GBP,-10.4,GBP,,Fc2005 World Food Court,,SQ *MASTER BAO STRATFO London        GBR,,-10.4,
+tx_0000Ar7SmVULWtrwmbHHjF,14-02-2025,19:49:37,Pot transfer,Holiday Pot,,Savings,30,GBP,30,GBP,,,,,,,30
+tx_0000Ar7TPsgpCZGqS3VnEX,14-02-2025,19:56:44,Pot transfer,Holiday Pot,,Savings,20,GBP,20,GBP,,,,,,,20
+tx_0000Ar7TSoqLxVKNS66tyl,14-02-2025,19:57:16,Card payment,Wing Stop,🍽,Eating out,-9.75,GBP,-9.75,GBP,,Unit Su2056,,WING STOP WESTFIELD ST LONDON        GBR,,-9.75,
+tx_0000ArB0ZbRA573admfDIP,16-02-2025,12:52:23,Card payment,Transport for London,🚆,Transport,-1.8,GBP,-1.8,GBP,"Travel charge for Friday, 14 Feb",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-1.8,
+tx_0000ArBRifiuDDLmGrqR9v,16-02-2025,17:56:34,Card payment,Mor Foods,🍎,General,-11.56,GBP,-11.56,GBP,,100 South Road,,MOR FOODS              SOUTHALL      GBR,,-11.56,
+tx_0000ArDc7HPB9SI5xdPfaT,17-02-2025,19:02:29,Card payment,Tariq Halal Meats,🥩,Groceries,-3.54,GBP,-3.54,GBP,,286 Old Kent Road,,Tariq Halal Meats      London        GBR,,-3.54,
+tx_0000ArDfAgrvEakJRAAx5m,17-02-2025,19:36:43,Pot transfer,Holiday Pot,,Savings,40,GBP,40,GBP,,,,,,,40
+tx_0000ArDfCRvDmFP7Rou32v,17-02-2025,19:37:02,Faster payment,Apurv Renake,,Expenses,-38,GBP,-38,GBP,Apurv HSBC,,,Apurv HSBC,,-38,
+tx_0000ArFS5qS5Ga2EgWoM8A,18-02-2025,16:19:36,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-3,
+tx_0000ArFS8bLbsgIJADA8K9,18-02-2025,16:20:06,Pot transfer,Holiday Pot,,Savings,17,GBP,17,GBP,,,,,,,17
+tx_0000ArFSn5prwj42qfYhv8,18-02-2025,16:27:25,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArFSt0oTX5VnaiTsrx,18-02-2025,16:28:29,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArG2Ul9rgORIGr6sCX,18-02-2025,23:07:29,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArG2g16oiajqIiYCG2,18-02-2025,23:09:31,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArGy5PI9dfat0EVrph,19-02-2025,09:52:47,Pot transfer,Holiday Pot,,Savings,300,GBP,300,GBP,,,,,,,300
+tx_0000ArGyHoyxwpdhmXHCCX,19-02-2025,09:55:02,Monzo-to-Monzo,Rakshanda Ranadive,,General,-100,GBP,-100,GBP,Train Fare,,,,,-100,
+tx_0000ArGz6JGZcvW0BXaSCP,19-02-2025,10:04:09,Faster payment,Remitly UK,,General,-185.3,GBP,-185.3,GBP,R89589976493,,,R89589976493,,-185.3,
+tx_0000ArH0xl9In34V3GNCHB,19-02-2025,10:25:01,Card payment,Grind,☕,Eating out,0,GBP,0,GBP,Active card check,,,GRIND & CO             +442074907490 GBR,,0,
+tx_0000ArH0y6kwSHqzbdLPgA,19-02-2025,10:25:05,Card payment,Grind,☕,Eating out,-31.61,GBP,-31.61,GBP,,,,GRIND & CO             +442074907490 GBR,,-31.61,
+tx_0000ArHXSYQ7MVo8shbBbN,19-02-2025,16:29:09,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-3,
+tx_0000ArHXts4OPhOHF2VJk9,19-02-2025,16:34:05,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArHY1gZJ3jVwGJiQNt,19-02-2025,16:35:30,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArJL96SCJ49eR4W4ZO,20-02-2025,13:20:30,Pot transfer,Holiday Pot,,Savings,40,GBP,40,GBP,,,,,,,40
+tx_0000ArJLEg4PJTtldUDVFC,20-02-2025,13:21:36,Card payment,Google,💻,Entertainment,0,GBP,0,USD,Active card check,,,GOOGLE *ANDROID TEMP   g.co/helppay# USA,,0,
+tx_0000ArJLG6rjApdd1vy8Kw,20-02-2025,13:21:51,Card payment,Klarna,💳,Bills,0,GBP,0,GBP,Active card check,,,KLARNA                 LONDON        GBR,,0,
+tx_0000ArJZE5HJVGRpe2Ej9l,20-02-2025,15:58:22,Card payment,Klarna,💳,Bills,-35.33,GBP,-35.33,GBP,,,,KLARNA*KLARNA SHOPPI   LONDON        GBR,,-35.33,
+tx_0000ArQBCOYjoAAvn9lDVJ,23-02-2025,20:32:07,Pot transfer,Holiday Pot,,Savings,30,GBP,30,GBP,,,,,,,30
+tx_0000ArQBESz4KOvUOiLZ5d,23-02-2025,20:32:29,Card payment,Google,💻,Entertainment,0,GBP,0,USD,Active card check,,,GOOGLE *ANDROID TEMP   cc@google.com USA,,0,
+tx_0000ArQBFf290t6KslU0un,23-02-2025,20:32:42,Card payment,Deliveroo,🍝🦘,Eating out,0,GBP,0,GBP,Active card check,,,DELIVEROO              +442036999977 GBR,,0,
+tx_0000ArQBOSGVr4HZWQWTdx,23-02-2025,20:34:18,Card payment,Deliveroo,🍝🦘,Eating out,-20.4,GBP,-20.4,GBP,,,,DELIVEROO              +442036999977 GBR,,-20.4,
+tx_0000ArRk4TsxoR4HRKBbJC,24-02-2025,14:37:34,Pot transfer,Holiday Pot,,Savings,20,GBP,20,GBP,,,,,,,20
+tx_0000ArRkKfqX6toQdXVbiD,24-02-2025,14:40:30,Pot transfer,Holiday Pot,,Savings,20,GBP,20,GBP,,,,,,,20
+tx_0000ArRlNMo4SKYYzIOXY1,24-02-2025,14:52:12,Card payment,Klarna,💳,Bills,-16,GBP,-16,GBP,,,,Klarna*klarna shoppi   London        GBR,,-16,
+tx_0000ArRv4N3iICQnBzIKZO,24-02-2025,16:40:49,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArRvC3Ygg96XeARdYY,24-02-2025,16:42:12,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArSZ2kaFqxGJ0y49th,25-02-2025,00:08:43,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArSZCvrml7DKu47ZKL,25-02-2025,00:10:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArTy69RaZWAvJsLxEP,25-02-2025,16:24:10,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArTyHNxCxr46tsU0Wp,25-02-2025,16:26:12,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArTyiSRMOOAxEvVo6j,25-02-2025,16:31:06,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArTyp5WXzdIzGJsaJP,25-02-2025,16:32:17,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArXdhFr0NjLBiMiLSb,27-02-2025,10:54:25,Card payment,Klarna,💳,Bills,16,GBP,16,GBP,,,,Klarna*klarna shoppi   London        GBR,,,16
+tx_0000ArYZ67ZW0Rht6ZJRMg,27-02-2025,21:37:36,Bacs (Direct Credit),Accor Hotels,,Income,1439.85,GBP,1439.85,GBP,2193    01013514,,,2193    01013514,,,1439.85
+tx_0000ArYZUUzIb8yyUm0ojJ,27-02-2025,21:42:00,Faster payment,Atharv Yenpure,,Rent,-1050,GBP,-1050,GBP,Feb Rent,,,Feb Rent,,-1050,
+tx_0000ArYZarwo9Av2uCEFUn,27-02-2025,21:43:09,Pot transfer,Holiday Pot,,Savings,-350,GBP,-350,GBP,,,,,,-350,
+tx_0000ArZJQuJh50KsssfoMD,28-02-2025,06:16:47,monzo_paid,,,Bills,-7,GBP,-7,GBP,,,,Perks,,-7,
+tx_0000ArZaTb68glmUOqAiBt,28-02-2025,09:27:45,Card payment,Uber,🚖,Transport,0,GBP,0,GBP,Active card check,Aldgate Tower First Floor,,Uber UK Rides          London        GBR,,0,
+tx_0000ArZaX5khArHaYfA8xN,28-02-2025,09:28:23,Card payment,Uber,🚖,Transport,-17.56,GBP,-17.56,GBP,,2 Leman Street,,UBER * PENDING         London        GBR,,-17.56,
+tx_0000ArZfXegXnFKYFi0hvd,28-02-2025,10:24:31,Card payment,Uber,🚖,Transport,-17.6,GBP,-17.6,GBP,,Aldgate Tower First Floor,,UBER   *TRIP           London        GBR,,-17.6,
+tx_0000ArZfbWywNMeLWGSmvJ,28-02-2025,10:25:13,Card payment,Uber,🚖,Transport,17.56,GBP,17.56,GBP,,2 Leman Street,,UBER * PENDING         London        GBR,,,17.56
+tx_0000ArZvBPkgEVGs20lvHt,28-02-2025,13:19:46,Faster payment,RENAKE A,,Transfers,500,GBP,500,GBP,Internal,,,Internal,,,500
+tx_0000ArZvcEqAuR7vt6E8ji,28-02-2025,13:24:37,Pot transfer,Holiday Pot,,Savings,-500,GBP,-500,GBP,,,,,,-500,
+tx_0000AraIV1h7gXJqEBkrXl,28-02-2025,17:39:22,Card payment,Sutton And Sons,🥩,Shopping,-20,GBP,-20,GBP,,90 Stoke Newington High Street,,Sutton and sons        London        GBR,,-20,
+tx_0000AraTUqDfRqKj0MKFRz,28-02-2025,19:44:15,Card payment,Transport for London,🚆,Transport,-3.8,GBP,-3.8,GBP,"Travel charge for Friday, 28 Feb","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-3.8,
+tx_0000ArcHp75zbOFnLLrsxN,01-03-2025,16:42:53,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArcHyaU3huMaMlrFLe,01-03-2025,16:44:36,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArcwzpxTkrgJzPVHfN,02-03-2025,00:24:14,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArcxAFRZr6T11FEyCA,02-03-2025,00:26:06,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArgA5MmD2xGcWZFH6I,03-03-2025,13:35:01,Card payment,Deliveroo,🍝🦘,Eating out,0,GBP,0,GBP,Active card check,,,DELIVEROO              +442036999977 GBR,,0,
+tx_0000ArgA6LZZ0aD41j4Bur,03-03-2025,13:35:12,Card payment,Deliveroo,🍝🦘,Eating out,-11.58,GBP,-11.58,GBP,,,,DELIVEROO              +442036999977 GBR,,-11.58,
+tx_0000ArgJgYXFBrS5z1d06M,03-03-2025,15:22:35,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArgJrWqDpREqef6u37,03-03-2025,15:24:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArgV8Wqi9RGWpvG0Q5,03-03-2025,17:30:54,Card payment,Deliveroo,🍝🦘,Eating out,11.58,GBP,11.58,GBP,,,,DELIVEROO              +442036999977 GBR,,,11.58
+tx_0000ArgzA433CWTE1vshdZ,03-03-2025,23:07:20,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArgzGQaKK5AdYud4TZ,03-03-2025,23:08:29,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AriR2rFzLsooTIZGin,04-03-2025,15:54:29,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AriRDuiiocOSva4TIq,04-03-2025,15:56:29,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Arj6VaTMvksYKomg2z,04-03-2025,23:39:05,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000Arj8lHikcKOiibakyH,05-03-2025,00:04:19,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Arj8vDEEAs7DCr7Q5D,05-03-2025,00:06:07,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArjqJkDFUHXjn6IUPC,05-03-2025,08:12:22,Faster payment,Apurv Renake,,Bills,-25,GBP,-25,GBP,Gas Elect,,,Gas Elect,,-25,
+tx_0000ArkbbSYcZ0lEbI8N1d,05-03-2025,17:02:12,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Arkbhxt6zTlKZpUBxh,05-03-2025,17:03:23,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArkgmljO7HWf3zmrb8,05-03-2025,18:00:16,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Arkgstmj5L1k8L1N5f,05-03-2025,18:01:23,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArkiyO7tu51JEpvA81,05-03-2025,18:24:47,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Arkj6KH86ceWJATGcr,05-03-2025,18:26:13,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Arkjhaklnshh6oloP3,05-03-2025,18:32:57,Card payment,Tesco,🍏 ,Groceries,-1,GBP,-1,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-1,
+tx_0000ArknrlgePJbMd0RU9J,05-03-2025,19:19:37,Pot transfer,Holiday Pot,,Savings,60,GBP,60,GBP,,,,,,,60
+tx_0000ArkoOA6d9ZAcGKWVyz,05-03-2025,19:25:28,Card payment,British Gas,🇬🇧💨,Bills,-60,GBP,-60,GBP,,Maidenhead Road,,BRITISH GAS ENERGY     WINDSOR       GBR,,-60,
+tx_0000ArmYPidb2aaJQbQmHZ,06-03-2025,15:35:53,Pot transfer,Holiday Pot,,Savings,485,GBP,485,GBP,,,,,,,485
+tx_0000ArmYSBMtBzRkVJItxR,06-03-2025,15:36:20,Faster payment,Apurv Renake,,Family,-485,GBP,-485,GBP,Revolute Self,,,Revolute Self,,-485,
+tx_0000Armj3Xii3BNngsBgqw,06-03-2025,17:35:08,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Armj9iw5GOfdXNJmoj,06-03-2025,17:36:15,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArmmBjAzdjdQcs4MsM,06-03-2025,18:10:14,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArmmInjB7ITy5uPjBB,06-03-2025,18:11:31,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArnCd6yzpkbb9KbhNC,06-03-2025,23:06:31,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArnCkwdACsHS4GB9kI,06-03-2025,23:07:56,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Aro38GdXBbDotTNM5x,07-03-2025,08:54:48,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Aro3H9rljAxBBjj9Iv,07-03-2025,08:56:25,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AroXHow61pC1nR4ohV,07-03-2025,14:32:41,Card payment,Wing Stop,🍽,Eating out,-9.75,GBP,-9.75,GBP,,12 Kingsland High Street,,WING STOP              LONDON        GBR,,-9.75,
+tx_0000AroosVLjVnsJtmEnNx,07-03-2025,17:49:48,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Arop03K9aruQAdMpHO,07-03-2025,17:51:10,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Arr9XmUt34xgzxDauv,08-03-2025,20:50:47,Pot transfer,Holiday Pot,,Savings,86,GBP,86,GBP,,,,,,,86
+tx_0000Arr9g36rATzTYAY03t,08-03-2025,20:52:16,Card payment,Hyderabadi Bawarchi,🍽,Eating out,-3.02,GBP,-3.02,GBP,,9 Ron Leighton Way,,Hyderabadi Bawarchi    London        GBR,,-3.02,
+tx_0000ArsNzZSAjQhhFcVGfB,09-03-2025,11:07:23,Card payment,Poundland,💵,Groceries,-3.5,GBP,-3.5,GBP,,193-221 Southwark Park Road,,POUNDLAND LTD - 2160   BERMONDSEY    GBR,,-3.5,
+tx_0000ArsOaobZMTnPpam7ur,09-03-2025,11:14:07,Card payment,Tesco,🍏 ,Groceries,-2.5,GBP,-2.5,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-2.5,
+tx_0000ArsbgYoqGTgLap7ZeF,09-03-2025,13:40:49,Card payment,Transport for London,🚆,Transport,-3.4,GBP,-3.4,GBP,"Travel charge for Saturday, 8 Mar",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.4,
+tx_0000Arsj9a5lJJkVHgQhSU,09-03-2025,15:04:30,Card payment,Klarna,💳,Bills,-35.67,GBP,-35.67,GBP,,,,Klarna*amazon          London        GBR,,-35.67,
+tx_0000AruLl4s3pRJqNKA7gf,10-03-2025,09:51:47,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000AruMSF8ZXCWRBwfBPF,10-03-2025,09:59:35,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AruMclXbudfaRc31N4,10-03-2025,10:01:29,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AruNMaBAUKk3wqK8Rt,10-03-2025,10:09:45,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AruNW4dWcNJOH3NLSD,10-03-2025,10:11:28,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AruNm5PLWBEzf4hwji,10-03-2025,10:14:22,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AruNxFOCkNNA4VzsJ8,10-03-2025,10:16:12,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Arug93DbceaQcHEcCY,10-03-2025,13:40:13,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArugJUo9tqelgLcoAk,10-03-2025,13:42:06,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArugXU3NVBJykncIs5,10-03-2025,13:44:37,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArugfDLLVvCd5AaOvp,10-03-2025,13:46:01,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArumHuUk1d4cfd9zEX,10-03-2025,14:49:02,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArumQN0PuFhwzJ7UTi,10-03-2025,14:50:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArvPOMzEu1Jf0zOPFi,10-03-2025,22:07:12,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArvPYvwNncjc4zbNhK,10-03-2025,22:09:07,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Arx1B3QiII39vLH6xu,11-03-2025,16:45:18,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Arx1IDzpPHcuE1HsQL,11-03-2025,16:46:36,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Arx1RH6dDLBfSH9FBJ,11-03-2025,16:48:14,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Arx1YmjM27lwXN8oPT,11-03-2025,16:49:35,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArxeaWQTWKYaRysV7b,12-03-2025,00:06:54,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000ArxekuQl7vRBnLxoyR,12-03-2025,00:08:47,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Arxips1tsecLDU0CLx,12-03-2025,00:54:29,Faster payment,Rikitha Sudha,,Eating out,-24,GBP,-24,GBP,8th march Food,,,8th march Food,,-24,
+tx_0000AryiTi7AG4GIS0BtZ4,12-03-2025,12:25:12,Pot transfer,Holiday Pot,,Savings,30,GBP,30,GBP,,,,,,,30
+tx_0000AryiWnsbHQexD6RNrd,12-03-2025,12:25:45,Faster payment,Apurv Renake,,Expenses,-25,GBP,-25,GBP,Revolute Self,,,Revolute Self,,-25,
+tx_0000Arz5u4SC7dMsQX9qwU,12-03-2025,16:47:41,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Arz62CbrgLsDt5yjUv,12-03-2025,16:49:09,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000ArzgXSxGYdubklaQcL,12-03-2025,23:38:11,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Arzgf5wE19MI448znl,12-03-2025,23:39:33,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000As12GoCyg3hgM1HL3h,13-03-2025,15:16:23,Card payment,Tariq Halal Meats,🥩,Groceries,-9.39,GBP,-9.39,GBP,,286 Old Kent Road,,Tariq Halal Meats      London        GBR,,-9.39,
+tx_0000As177r6z0rHEU0HeqI,13-03-2025,16:10:48,Card payment,Runa,💼,General,-44.94,GBP,-44.94,GBP,,51 Eastcheap,,Runa Network Limited   London        GBR,,-44.94,
+tx_0000As19QkArELPp5pRU6T,13-03-2025,16:36:37,Pot transfer,Holiday Pot,,Savings,70,GBP,70,GBP,,,,,,,70
+tx_0000As1GleUYFfE7yl7hI2,13-03-2025,17:58:50,Card payment,Tesco,🍏 ,Groceries,-2.8,GBP,-2.8,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-2.8,
+tx_0000As2TfRbyijCWQVUSJv,14-03-2025,07:58:05,Card payment,Uber,🚖,Transport,-21.74,GBP,-21.74,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,-21.74,
+tx_0000As30xF2PVM5fD9NRVR,14-03-2025,14:11:04,Card payment,Deliveroo,🍝🦘,Eating out,-18.99,GBP,-18.99,GBP,,,,DELIVEROO              +442036999977 GBR,,-18.99,
+tx_0000As312M9oSikNzCfOvx,14-03-2025,14:12:00,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000As317AFSAPve8nABZR,14-03-2025,14:12:52,Card payment,Deliveroo,🍝🦘,Eating out,18.99,GBP,18.99,GBP,,,,DELIVEROO              +442036999977 GBR,,,18.99
+tx_0000As31tVy4iW1djT9L29,14-03-2025,14:21:36,Card payment,Deliveroo,🍝🦘,Eating out,-13.2,GBP,-13.2,GBP,,,,DELIVEROO              +442036999977 GBR,,-13.2,
+tx_0000As7EDkxWfMYdZvvls9,16-03-2025,14:58:34,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000As7Fxg3DLZSH9NETlB,16-03-2025,15:18:04,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000As7G68ObqPWSie6gy1,16-03-2025,15:19:36,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000As7JeFLcntNiwxGzlx,16-03-2025,15:59:23,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000As7JlvIZEL7iz0sS9p,16-03-2025,16:00:46,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000As7M2PstTpRB5Ek5vG,16-03-2025,16:26:09,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000As7MDCPbuVNnGwa2eA,16-03-2025,16:28:06,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000As7Q0jLGZ8zh41oWsj,16-03-2025,17:10:40,Card payment,Deliveroo,🍝🦘,Eating out,-9.74,GBP,-9.74,GBP,,,,DELIVEROO              +442036999977 GBR,,-9.74,
+tx_0000As7wYQu2pEsVGKajMP,16-03-2025,23:15:19,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000As7wh2A6BIY5wdKuor,16-03-2025,23:16:53,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsBKyk0NPKFqcfTanh,18-03-2025,14:33:08,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsBL7h6xXH8Z8zMwsc,18-03-2025,14:34:45,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsC7lA6EUHS0Duj0Mr,18-03-2025,23:39:43,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsC7v2ISLwmF0QkgE5,18-03-2025,23:41:31,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsDbSF7AoCN7qW1ddx,19-03-2025,16:47:10,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Wednesday, 19 Mar","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-1.75,
+tx_0000AsDcQAaikuXRKWZ8wj,19-03-2025,16:58:00,Card payment,Bread Ahead,🥖,Groceries,-9,GBP,-9,GBP,,Cathedral Street,,SQ *BREAD AHEAD LTD    London        GBR,,-9,
+tx_0000AsF7icAOGGgeL3CeLR,20-03-2025,10:23:24,Card payment,London Bridge Railway Station,🚅,Transport,-31.7,GBP,-31.7,GBP,,20 Stainer St,,SE LONDON BRIDGE TO    LONDON-SE1    GBR,,-31.7,
+tx_0000AsFmMjNwq1eGvGAWjB,20-03-2025,17:58:51,Card payment,Primark,👕,Shopping,-18.8,GBP,-18.8,GBP,,169/174 Western Road,,PRIMARK                BRIGHTON      GBR,,-18.8,
+tx_0000AsHFIXY5zkX19iXOYE,21-03-2025,10:57:06,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000AsJEZQE6lFsDKOLeaH,22-03-2025,09:59:01,Monzo-to-Monzo,Rakshanda Ranadive,,General,650,GBP,650,GBP,Catering Call time ,,,,,,650
+tx_0000AsJWMZTsqAHXE1sMLp,22-03-2025,13:18:23,Card payment,Ryanair,✈️,Holidays,-188.58,GBP,-188.58,GBP,,Airside Business Park,,Ryanair                London        GBR,,-188.58,
+tx_0000AsJdVujts4rI4Z4hyz,22-03-2025,14:38:30,Pot transfer,CCT Pot,,Savings,-337,GBP,-337,GBP,,,,,,-337,
+tx_0000AsJkbLdXzfz6igoBka,22-03-2025,15:57:56,Card payment,Klarna,💳,Bills,-34.83,GBP,-34.83,GBP,,,,KLARNA FSUK            LONDON        GBR,,-34.83,
+tx_0000AsLmdW22u6jRFONbPt,23-03-2025,15:30:09,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-3,
+tx_0000AsLnGNs7B35x4U4RXP,23-03-2025,15:37:10,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsLnOgdNIswoPIAKxt,23-03-2025,15:38:41,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsMM7RKURunPt7nSJl,23-03-2025,22:07:44,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsMMHaI5zBc7x6Mesz,23-03-2025,22:09:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsPYrD5LWTbu4OpqPy,25-03-2025,11:14:36,Card payment,PureGym,🏋️‍♂️,Personal care,-28.99,GBP,-28.99,GBP,,,,PureGym Limited        Leeds         GBR,,-28.99,
+tx_0000AsPb8zXynPTO7atofZ,25-03-2025,11:40:13,Card payment,PureGym,🏋️‍♂️,Personal care,-28.99,GBP,-28.99,GBP,,,,PureGym Limited        Leeds         GBR,,-28.99,
+tx_0000AsPrkaXRpA9TMlcPr7,25-03-2025,14:46:18,Card payment,Tesco,🍏 ,Groceries,-3.49,GBP,-3.49,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-3.49,
+tx_0000AsPwWumwErErhqZ4j3,25-03-2025,15:39:51,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000AsQ2XJY2mXAArN3wBt,25-03-2025,16:47:09,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsQ2fDAEOwqx2PZI7F,25-03-2025,16:48:35,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsQfxdzHJAZD7lRqkN,26-03-2025,00:08:55,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsQg7U3z3o5RPnc7vN,26-03-2025,00:10:41,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsRmmUHxv8FcAZOPIH,26-03-2025,13:00:02,Card payment,Iceland,❄️ ,Groceries,-11.35,GBP,-11.35,GBP,,222-226 Southwark Park Road,,ICELAND                BERMONDSEY    GBR,,-11.35,
+tx_0000AsS78606txU3yRpo3d,26-03-2025,16:48:03,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsS7HWQC2Un2qPJhr7,26-03-2025,16:49:45,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsSenhHMVHpM1qxFdB,26-03-2025,23:05:20,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsSev6PNTJDhr6jmi1,26-03-2025,23:06:40,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsU61j5RTG0cbCPrQ9,27-03-2025,15:45:07,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsU69Q2QB3euVIJ11N,27-03-2025,15:46:30,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsUluTYX0nezOPBrqT,27-03-2025,23:34:25,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsUm1YuLVoXbbMlJNR,27-03-2025,23:35:42,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsWKerrAaOwRF3JgK9,28-03-2025,17:38:29,Bacs (Direct Credit),Accor Hotels,,Income,1284.67,GBP,1284.67,GBP,2193    01013514,,,2193    01013514,,,1284.67
+tx_0000AsWKkywFAXRrj0ECjx,28-03-2025,17:39:35,Pot transfer,Holiday Pot,,Savings,-1200,GBP,-1200,GBP,,,,,,-1200,
+tx_0000AsWMpg0NBr3RYiZKKn,28-03-2025,18:02:51,Card payment,Barrio,🍸,Eating out,-16,GBP,-16,GBP,,141-143 Shoreditch High Street,,Barrio Shoreditch      London        GBR,,-16,
+tx_0000AsWaM8wwPPkgZmhKSY,28-03-2025,20:34:23,Card payment,Dishoom,🍽,Eating out,-11.14,GBP,-11.14,GBP,,141-143 Shoreditch High St,,SUNDAY*Dishoom Shoredi London        GBR,,-11.14,
+tx_0000AsWshTubStG4ynGbMD,28-03-2025,23:59:55,Flex,Ryanair,✈️,Holidays,188.58,GBP,188.58,GBP,Returned for Ryanair,,,Flex,,,188.58
+tx_0000AsWsk2C6yUjK2UQr3Z,29-03-2025,00:00:23,Flex,,,Transfers,-63,GBP,-63,GBP,Early payment towards Ryanair,,,Flex,,-63,
+tx_0000AsWssF13BjIH1MFmTq,29-03-2025,00:01:52,Flex,,,Transfers,-63,GBP,-63,GBP,Extra payment,,,Flex,,-63,
+tx_0000AsWt1PYhMNxoD1Fegz,29-03-2025,00:03:31,Pot transfer,CCT Pot,,Savings,-63,GBP,-63,GBP,,,,,,-63,
+tx_0000AsWt4sJusjcvaq5hZ3,29-03-2025,00:04:09,Pot transfer,Holiday Pot,,Savings,500,GBP,500,GBP,,,,,,,500
+tx_0000AsWt8fn7PEeHnSUTEv,29-03-2025,00:04:50,Faster payment,Atharv Yenpure,,Rent,-525,GBP,-525,GBP,Rent April,,,Rent April,,-525,
+tx_0000AsY0RWG3y4iNqYs0ou,29-03-2025,13:01:23,Card payment,Transport for London,🚆,Transport,-3.5,GBP,-3.5,GBP,"Travel charge for Friday, 28 Mar",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.5,
+tx_0000Asa62x3iAsUHJRUC0n,30-03-2025,13:13:36,Card payment,British Gas,🇬🇧💨,Bills,-62,GBP,-62,GBP,,Bgs Finance,,BRITISH GAS            LEEDS         GBR,,-62,
+tx_0000Asa6LBYH1pRl3EkkKY,30-03-2025,13:16:54,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000AsaKQidspDBjufIppT,30-03-2025,15:54:46,Card payment,Klarna,💳,Bills,0,GBP,0,GBP,Active card check,,,KLARNA*KLARNA SHOPPI   LONDON        GBR,,0,
+tx_0000AsaKnneON3mj3tAOht,30-03-2025,15:58:56,Card payment,Klarna,💳,Bills,-15.33,GBP,-15.33,GBP,,,,Klarna*Klarna          London        GBR,,-15.33,
+tx_0000AsbTWAZzTZd0sDFlPV,31-03-2025,05:11:19,monzo_paid,,,Bills,-7,GBP,-7,GBP,,,,Perks,,-7,
+tx_0000AscXKeUP2XFwEbMPyr,31-03-2025,17:28:45,Card payment,Tortilla,🌯,Eating out,-8.4,GBP,-8.4,GBP,,"213 The Balcony, First Floor, Westfield, London",,TORTILLA WESTFIELD STR LONDON        GBR,,-8.4,
+tx_0000Ase149dLBXMf5xPn2v,01-04-2025,10:36:38,Card payment,Transport for London,🚆,Transport,-4.1,GBP,-4.1,GBP,"Travel charge for Monday, 31 Mar",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-4.1,
+tx_0000AseRg4K9yGqWgubNZL,01-04-2025,15:34:49,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000AseRldQStKLPBQ2Eef,01-04-2025,15:35:49,Pot transfer,Holiday Pot,,Savings,52,GBP,52,GBP,,,,,,,52
+tx_0000AseSxsO9BbuGc0jDaz,01-04-2025,15:49:15,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AseT4kwFHeItX7xSt8,01-04-2025,15:50:29,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Asf5c681JklgkjEmdl,01-04-2025,23:02:18,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Asf5jrG8U6QnqUhGlN,01-04-2025,23:03:42,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsgJevqFc2ReeS2I2D,02-04-2025,13:14:24,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsgJm2pS26l9v78K7m,02-04-2025,13:15:41,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsgKqE7k51Pu6Equo5,02-04-2025,13:27:39,Card payment,German Doner Kebab,🍖,Eating out,-5,GBP,-5,GBP,,222-224 Borough High Street,,German Doner Kebab     London        GBR,,-5,
+tx_0000AsgMw6k6dVTkSAbShn,02-04-2025,13:51:07,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsgN5ALOcDbz1NnxMv,02-04-2025,13:52:45,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Ash4nVWxVAMLGZcC2M,02-04-2025,22:02:35,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Ash4w9UKp93uNU8ibR,02-04-2025,22:04:09,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsiSGSzSW9jscPOfon,03-04-2025,14:00:15,Card payment,Tesco,🍏 ,Groceries,-5.34,GBP,-5.34,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-5.34,
+tx_0000AsibefFTUZjrOhwaO5,03-04-2025,15:45:28,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsibmULFvYiHqYv1er,03-04-2025,15:46:53,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsiyvVJ40YGTtk5Y5h,03-04-2025,20:06:13,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Asiz5vPnn7Ot0pfkNF,03-04-2025,20:08:06,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AskEXcIAB458T8vpAo,04-04-2025,10:35:54,Pot transfer,Holiday Pot,,Savings,60,GBP,60,GBP,,,,,,,60
+tx_0000AskEaJeFwzGILZFdqr,04-04-2025,10:36:23,Faster payment,Apurv Renake,,Bills,-51.51,GBP,-51.51,GBP,Gas Elect,,,Gas Elect,,-51.51,
+tx_0000AskIm7d8rIMSJvHmlu,04-04-2025,11:23:20,Card payment,Runa,💼,General,-74.41,GBP,-74.41,GBP,,51 Eastcheap,,Runa Network Limited   London        GBR,,-74.41,
+tx_0000AskIvr4HI8axBrfM5F,04-04-2025,11:25:06,Card payment,Deliveroo,🍝🦘,Eating out,-13.44,GBP,-13.44,GBP,,,,DELIVEROO              +442036999977 GBR,,-13.44,
+tx_0000AsmBj4usBKbIhTnFK5,05-04-2025,09:13:47,Card payment,Transport for London,🚆,Transport,-9.65,GBP,-9.65,GBP,"Travel charge for Saturday, 5 Apr","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-9.65,
+tx_0000AsmF3lV5rdZeXjAlI9,05-04-2025,09:51:08,Pot transfer,Holiday Pot,,Savings,90,GBP,90,GBP,,,,,,,90
+tx_0000AsmM2ggqxkcp4mnInZ,05-04-2025,11:09:22,Card payment,Pho,🍲,Eating out,-13.5,GBP,-13.5,GBP,,Gallery,,Pho Stratford          London        GBR,,-13.5,
+tx_0000Asmd9adFaEJv6zBAUT,05-04-2025,14:21:06,Card payment,Primark,👕,Shopping,-57.1,GBP,-57.1,GBP,,"Stratford, 127- 128 The Arcade",,PRIMARK 671            STRATFORD     GBR,,-57.1,
+tx_0000Asmeb9HGyqEshtuDfF,05-04-2025,14:37:17,Card payment,Wing Stop,🍽,Eating out,-11.25,GBP,-11.25,GBP,,Unit Su2056,,WING STOP WESTFIELD ST LONDON        GBR,,-11.25,
+tx_0000AsmekRYYODg9BlhVT8,05-04-2025,14:38:58,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000Asp4u9LrunMhN8KsE6,06-04-2025,18:41:28,Monzo-to-Monzo,Rakshanda Ranadive,,General,50,GBP,50,GBP,,,,,,,50
+tx_0000Asp56VyfcPHID25Dxi,06-04-2025,18:43:42,Flex,,,Transfers,-50,GBP,-50,GBP,Early payment towards Calzedonia UK,,,Flex,,-50,
+tx_0000Asqji85x3IP4FbOcLb,07-04-2025,13:53:25,Card payment,Uber,🚖,Transport,-18.72,GBP,-18.72,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,-18.72,
+tx_0000AsqsOQLUO1OjJMiNaD,07-04-2025,15:30:42,Pot transfer,Holiday Pot,,Savings,20,GBP,20,GBP,,,,,,,20
+tx_0000AsqtdEfKC8H4LQiUUb,07-04-2025,15:44:35,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsqtkL9KUBgUL9LwUE,07-04-2025,15:45:52,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsrRQlcjk5vbqbLk5h,07-04-2025,22:03:18,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsrRasfaOtFJgapXWL,07-04-2025,22:05:08,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AssszvBX4somdNiyiv,08-04-2025,14:46:54,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-3,
+tx_0000Asst1Ti8CHeKqi6jHX,08-04-2025,14:47:11,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Asst8jLgSCI5SeCJFq,08-04-2025,14:48:30,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsstEifhssQgVMyrrv,08-04-2025,14:49:35,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsstLn8DhVOrfwVRv0,08-04-2025,14:50:51,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AstYdhwxnhaHrBdwX4,08-04-2025,22:33:30,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AstYlSC8GJkTV00enZ,08-04-2025,22:34:54,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AsuJcujxSO5F1CjvZh,09-04-2025,07:20:00,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AsuJnBhVFmMAromF9O,09-04-2025,07:21:51,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Asub4I7sJclCf6IqCP,09-04-2025,10:35:25,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Tuesday, 8 Apr",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-1.75,
+tx_0000AsvN0M2qbBkT2vNg26,09-04-2025,19:32:33,Card payment,Iceland,❄️ ,Groceries,-6.5,GBP,-6.5,GBP,,222-226 Southwark Park Road,,ICELAND                BERMONDSEY    GBR,,-6.5,
+tx_0000Asx2Xqg6193gpLPRcv,10-04-2025,14:52:43,Card payment,Klarna,💳,Bills,-27.4,GBP,-27.4,GBP,,,,Klarna*Amazon          London        GBR,,-27.4,
+tx_0000AsxP5HDmY6TafJTCbp,10-04-2025,19:05:17,Card payment,St James Super Market London,🛒,Groceries,-2.37,GBP,-2.37,GBP,,191 Southwark Park Road,,LOYN LTD               LONDON        GBR,,-2.37,
+tx_0000AsywjSSdff0SczmjJZ,11-04-2025,12:57:01,Faster payment,PATTIPEILOHY,,Income,4.28,GBP,4.28,GBP,Tips,,,Tips,,,4.28
+tx_0000AsyyzHWGJocvIHHezK,11-04-2025,13:22:17,Card payment,Nayax Vending       ,🍫,Eating out,-1.9,GBP,-1.9,GBP,,"Town Centre House, Merrion Centre Merrio",,NYX*LRS                Leeds         GBR,,-1.9,
+tx_0000AszBJ53FaCc2yeEet0,11-04-2025,15:40:19,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-3,
+tx_0000AszBckztqvnMBWId9e,11-04-2025,15:43:53,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AszBn52WBu7LvjIaAb,11-04-2025,15:45:45,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AszosiChu2owdjpywj,11-04-2025,23:03:46,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Aszp2Gd5HNfy0yjPFZ,11-04-2025,23:05:29,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AszpUjOvtsR7JLwMPz,11-04-2025,23:10:38,Card payment,Londoner Kebabs,🍴,Eating out,-20,GBP,-20,GBP,,23 Duke Street Hill,,LONDONER KEBABS        LONDON        GBR,,-20,
+tx_0000At0gAHvdcydz2f9Bw1,12-04-2025,09:00:48,Pot transfer,Holiday Pot,,Savings,80.53,GBP,80.53,GBP,,,,,,,80.53
+tx_0000At1YhNY19VT2taa62j,12-04-2025,19:11:51,Card payment,Tesco,🍏 ,Groceries,-7.8,GBP,-7.8,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-7.8,
+tx_0000At5PKIUzdRsQveXbRB,14-04-2025,15:45:41,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000At5PVCuYkZzkmhhZ8k,14-04-2025,15:47:39,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000At5PfEaBOJGkyEGU8x,14-04-2025,15:49:28,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000At5zqaym3f9cFifpEw,14-04-2025,22:34:54,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000At5zzxHGWU3yM4FN4c,14-04-2025,22:36:36,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000At5zzy85M6JWzsxYP3,14-04-2025,22:36:36,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000At607FaMqugyohQbaM,14-04-2025,22:37:55,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000At7OhORdz0gve7HGRG,15-04-2025,14:48:04,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000At7Osdwwg0sIv2HbUq,15-04-2025,14:50:06,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000At86oNzMTPs3eyvcZt,15-04-2025,23:02:22,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000At86wykveqtJATF5RB,15-04-2025,23:03:55,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000At8p8DkOekhSxqxiJl,16-04-2025,07:18:58,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000At8pEmqr3K5GzZstmb,16-04-2025,07:20:09,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000At9Y5r8OFvdaj8uav3,16-04-2025,15:42:46,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000At9YGoZ898brmp3mYj,16-04-2025,15:44:45,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtA15wOxZN5byksaGY,16-04-2025,21:07:43,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtA1G8q6BIJzRwRBJK,16-04-2025,21:09:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtBQWDQFbLHAbvOdDF,17-04-2025,13:27:19,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtBQdkX8tQk6sjFCJV,17-04-2025,13:28:40,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtDfeW9HkRhFkNFbCE,18-04-2025,15:26:18,Faster payment,A Yenpure,,Income,110,GBP,110,GBP,A Yenpure,,,A Yenpure,,,110
+tx_0000AtDfmAeXYM9mXrPTdp,18-04-2025,15:27:41,Flex,,,Transfers,-108.98,GBP,-108.98,GBP,Early payment towards Ryanair,,,Flex,,-108.98,
+tx_0000AtF6ED2t2hYGOU9H4j,19-04-2025,07:58:48,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000AtF6RPvmRjskrNAWlW,19-04-2025,08:01:11,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtF6ZKtd35ndHnrNXV,19-04-2025,08:02:37,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtIDzaMhROl3Twpjdp,20-04-2025,20:09:56,Card payment,Transport for London,🚆,Transport,-2,GBP,-2,GBP,"Travel charge for Sunday, 20 Apr","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-2,
+tx_0000AtJhPV0T4ujxRvimoL,21-04-2025,13:14:16,Flex,,,Transfers,-23.97,GBP,-23.97,GBP,Early payment towards The Cinema Society,,,Flex,,-23.97,
+tx_0000AtJhTOKJr6h3DDpRJZ,21-04-2025,13:14:58,Flex,,,Transfers,-36,GBP,-36,GBP,Early payment towards Runa,,,Flex,,-36,
+tx_0000AtJhYKxDp1dECUNpR3,21-04-2025,13:15:52,Flex,,,Transfers,-62.58,GBP,-62.58,GBP,Extra payment towards Ryanair,,,Flex,,-62.58,
+tx_0000AtJhc74lMa2cDs2R9t,21-04-2025,13:16:33,Pot transfer,CCT Pot,,Savings,63,GBP,63,GBP,,,,,,,63
+tx_0000AtJhq124d4UTatumFl,21-04-2025,13:19:03,Faster payment,RENAKE A,,Transfers,24,GBP,24,GBP,Monzo-JVXPS,,,Monzo-JVXPS,,,24
+tx_0000AtJiQU7ZxGXqsqcCnZ,21-04-2025,13:25:39,Card payment,Klarna,💳,Bills,-34.83,GBP,-34.83,GBP,,,,KLARNA FSUK            LONDON        GBR,,-34.83,
+tx_0000AtJibWWjLp743xVbRB,21-04-2025,13:27:39,Card payment,Klarna,💳,Bills,-15.18,GBP,-15.18,GBP,,,,KLARNA FSUK            LONDON        GBR,,-15.18,
+tx_0000AtJifZYs0joQ4oA7Gr,21-04-2025,13:28:23,Pot transfer,Holiday Pot,,Savings,100,GBP,100,GBP,,,,,,,100
+tx_0000AtLEeBGkEdna1RSvGF,22-04-2025,07:01:24,Card payment,Transport for London,🚆,Transport,-6.4,GBP,-6.4,GBP,"Travel charge for Monday, 21 Apr",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-6.4,
+tx_0000AtLm7jbiwSdoDtHA2L,22-04-2025,13:16:30,Faster payment,SAHIL DHAGE,,Income,25,GBP,25,GBP,CHASE,,,CHASE,,,25
+tx_0000AtMR30lrnSJcak7cob,22-04-2025,20:55:03,Card payment,Uber,🚖,Transport,0,GBP,0,GBP,Active card check,Aldgate Tower First Floor,,Uber UK Rides          London        GBR,,0,
+tx_0000AtMhKkdI8Tep1Dal3y,22-04-2025,23:57:33,Pot transfer,Holiday Pot,,Savings,150,GBP,150,GBP,,,,,,,150
+tx_0000AtMhTKYOSxqQk5OMHx,22-04-2025,23:59:06,Flex,,,Transfers,-70,GBP,-70,GBP,Early payment towards Bermondsey Barbers,,,Flex,,-70,
+tx_0000AtMlYC1A1vfUPxpV2H,23-04-2025,00:44:48,Flex,,,Transfers,-42.26,GBP,-42.26,GBP,Early payment towards Uber Eats,,,Flex,,-42.26,
+tx_0000AtMlaQ1cvC1eNYxwkD,23-04-2025,00:45:12,Flex,,,Transfers,-9.94,GBP,-9.94,GBP,Early payment towards Uber,,,Flex,,-9.94,
+tx_0000AtOQR6j1bEU0evEZ5V,23-04-2025,19:57:38,Pot transfer,Holiday Pot,,Savings,150,GBP,150,GBP,,,,,,,150
+tx_0000AtOQWCThdbdBoTszOT,23-04-2025,19:58:33,Flex,,,Transfers,-71.88,GBP,-71.88,GBP,Extra payment towards Runa,,,Flex,,-71.88,
+tx_0000AtR1jdIRKB11l1VzCj,25-04-2025,02:04:59,Direct Debit,PureGym,,Personal care,-28.99,GBP,-28.99,GBP,4.60038E+15,,,4.60038E+15,,-28.99,
+tx_0000AtSAwWNhRKNhP2JbeL,25-04-2025,15:22:52,Faster payment,Apurv Renake,,Transfers,-20,GBP,-20,GBP,Apurv HSBC,,,Apurv HSBC,,-20,
+tx_0000AtSKNgX0i0dp2ZZ57Z,25-04-2025,17:08:38,Card payment,Adm Shpk,🏨,Groceries,-21.66,GBP,-2468,ALL,,,,ADM SHPK               SARANDE       ALB,,-21.66,
+tx_0000AtU0uNqHbcIT4XDdX0,26-04-2025,12:39:52,Card payment,Komiteti Gjirokaster S,🍸,Entertainment,-13.02,GBP,-1500,ALL,,Rr E Zejtareve Pazari I Vjeter G,,KOMITETI GJIROKASTER S GJIROKASTER   ALB,,-13.02,
+tx_0000AtUV9e2MfnJAmawyAr,26-04-2025,18:18:46,Card payment,Burger King,🍔👑,Eating out,-21.96,GBP,-2530,ALL,,"Lagjja Nr.1, Hyrja -1, Sarande",,BURGER KING SARANDE    SARANDE       ALB,,-21.96,
+tx_0000AtZpi8WEonwZ3nKQS1,29-04-2025,08:02:40,Card payment,Adrion Bookstore,📚,Entertainment,-11.31,GBP,-1300,ALL,,,,ADRION BOOKSTORE       TIRANE        ALB,,-11.31,
+tx_0000AtafI5vx0G3mFDIf69,29-04-2025,17:40:37,Bacs (Direct Credit),Accor Hotels,,Income,1230.19,GBP,1230.19,GBP,2193    01013514,,,2193    01013514,,,1230.19
+tx_0000AtafTa5pDDE4eG9A8n,29-04-2025,17:42:41,Faster payment,Atharv Yenpure,,Rent,-525,GBP,-525,GBP,Rent May,,,Rent May,,-525,
+tx_0000AtafaDVvYhI7rnyd0L,29-04-2025,17:43:53,Pot transfer,Holiday Pot,,Savings,-700,GBP,-700,GBP,,,,,,-700,
+tx_0000AtbFHnbuj0nAqZEvBq,30-04-2025,00:23:56,Faster payment,SAHIL DHAGE,,Income,50,GBP,50,GBP,CHASE,,,CHASE,,,50
+tx_0000AtbFUqWvBKogaJ5DNq,30-04-2025,00:26:18,Faster payment,SAHIL DHAGE,,Income,1700,GBP,1700,GBP,CHASE,,,CHASE,,,1700
+tx_0000AtbGSzhUDPR8stXhXl,30-04-2025,00:37:10,Pot transfer,CCT Pot,,Savings,-1750,GBP,-1750,GBP,,,,,,-1750,
+tx_0000AtbGUnnNRsordSXQQr,30-04-2025,00:37:30,Pot transfer,Holiday Pot,,Savings,300,GBP,300,GBP,,,,,,,300
+tx_0000AtbGXQhflE6ksy7ffd,30-04-2025,00:37:58,Pot transfer,Holiday Pot,,Savings,200,GBP,200,GBP,,,,,,,200
+tx_0000AtbGlQwvdu9XCrlQAL,30-04-2025,00:40:30,Faster payment,Sahil Dhage,,Transfers,-500,GBP,-500,GBP,Sahil Dhage,,,Sahil Dhage,,-500,
+tx_0000AtbiMPuf9mgWm3YujR,30-04-2025,05:49:43,monzo_paid,,,Bills,-7,GBP,-7,GBP,,,,Perks,,-7,
+tx_0000AtcF1RulofiXyjIKVm,30-04-2025,11:54:54,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Tuesday, 29 Apr",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-1.75,
+tx_0000AtcILMhPDVkAKXWVlJ,30-04-2025,12:32:55,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtcIW27U4S3N4ABHVp,30-04-2025,12:34:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtcJNySLuKGOJPKEc5,30-04-2025,12:44:35,Card payment,Human Forest,🚗,Transport,-1.48,GBP,-1.48,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-1.48,
+tx_0000AtcOSnakEG5IJCsqhN,30-04-2025,13:41:29,Card payment,Paul Crane,🍎,General,-10,GBP,-10,GBP,,,,Paul Crane             Maidstone     GBR,,-10,
+tx_0000AtdfCfh9iHp7lyvSkL,01-05-2025,04:02:37,overdraft,,,General,-0.02,GBP,-0.02,GBP,This is the charge for your April 2025 overdraft,,,April overdraft fees,,-0.02,
+tx_0000AteFJ3Tpn3mx5SFBtR,01-05-2025,11:08:18,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Wednesday, 30 Apr",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-1.75,
+tx_0000AteT3wnhk0VffgmWqh,01-05-2025,13:42:26,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000AteT8DpINjdvIxTAZQ,01-05-2025,13:43:13,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AteTHCOH5d5VaFjeTJ,01-05-2025,13:44:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtfEujWIXqamoa03jG,01-05-2025,22:38:37,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtfF5TXOJ7GRH52CGI,01-05-2025,22:40:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtgiUxmo4XIykv1If4,02-05-2025,15:44:49,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Atgie83nF8CpK4RmJ0,02-05-2025,15:46:29,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtgmlLuiX9P4v5N0jb,02-05-2025,16:32:36,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtgmrxiqsJWjv0yKA5,02-05-2025,16:33:48,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Atgn3uu9B3v7lqNNBK,02-05-2025,16:35:57,Faster payment,SAHIL DHAGE,,Income,500,GBP,500,GBP,CHASE,,,CHASE,,,500
+tx_0000AthEFvjsb9yP0dU0Lh,02-05-2025,21:40:40,Card payment,Amazon,📦,Shopping,0,GBP,0,GBP,Active card check,,,AMAZON EU              AMAZON.CO.UK  GBR,,0,
+tx_0000AthENxTS20mX0Sicqn,02-05-2025,21:42:07,Card payment,Amazon Prime,💻,Shopping,0,GBP,0,GBP,Active card check,,,Amazon Prime           amzn.co.uk/pm GBR,,0,
+tx_0000AthJHnk7nY1O6pkPo5,02-05-2025,22:37:02,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AthJRVKP7Q7Z76284w,02-05-2025,22:38:47,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AthKaaAsZNICqgYjY1,02-05-2025,22:51:38,Pot transfer,Holiday Pot,,Savings,-500,GBP,-500,GBP,,,,,,-500,
+tx_0000Ati6WnpYeMsZo1QmIc,03-05-2025,07:48:47,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Ati6gcfL11gO72kgdN,03-05-2025,07:50:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtiemK7WHDcahMTv4E,03-05-2025,14:12:34,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Atieshz2T08X1nglYf,03-05-2025,14:13:43,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtiqWsCczTULhheew6,03-05-2025,16:24:14,Card payment,Deliveroo,🍝🦘,Eating out,-14.05,GBP,-14.05,GBP,,,,DELIVEROO              +442036999977 GBR,,-14.05,
+tx_0000AtiqobGAipccMOWRko,03-05-2025,16:27:26,Pot transfer,Holiday Pot,,Savings,20,GBP,20,GBP,,,,,,,20
+tx_0000Atj2wXvaC3zFKXijej,03-05-2025,18:43:20,Pot transfer,CCT Pot,,Savings,147,GBP,147,GBP,,,,,,,147
+tx_0000Atj2ylg62chJJYBhJK,03-05-2025,18:43:44,Flex,,,Transfers,-147.05,GBP,-147.05,GBP,Early payment towards Amazon,,,Flex,,-147.05,
+tx_0000AtjQAhmgdrgNN3FYG1,03-05-2025,23:03:36,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtjQHL2VbZPd59zc8o,03-05-2025,23:04:48,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtkAUw2tvImoIZsKC9,04-05-2025,07:42:42,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtkAbipJTClHbtMRmL,04-05-2025,07:43:55,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtkShoEE66lZ1YkCfJ,04-05-2025,11:06:43,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtkSt2eWoDM8wgP2I6,04-05-2025,11:08:44,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtkYGMcdEFpGWG7Qx8,04-05-2025,12:08:59,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtkYMvXOKJblmIHZZa,04-05-2025,12:10:10,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtmcxIFW9Pv9v8wKMD,05-05-2025,12:10:59,Faster payment,Apurv Renake,,Bills,-51,GBP,-51,GBP,Apurv HSBC,,,Apurv HSBC,,-51,
+tx_0000Atmczek3UkEgTDexZh,05-05-2025,12:11:24,Pot transfer,Holiday Pot,,Savings,51.52,GBP,51.52,GBP,,,,,,,51.52
+tx_0000Atmt5UN6YwJis6Y7aT,05-05-2025,15:11:45,Card payment,Uber,🚖,Transport,-5.99,GBP,-5.99,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,-5.99,
+tx_0000AtnVePGrJblUFbe4Nm,05-05-2025,22:23:51,Flex,,,Transfers,-65.93,GBP,-65.93,GBP,Early payment towards Grind,,,Flex,,-65.93,
+tx_0000AtnVfw1D2u0e7v2cz4,05-05-2025,22:24:07,Pot transfer,CCT Pot,,Savings,66,GBP,66,GBP,,,,,,,66
+tx_0000Atov1FXiLHkrlDji6M,06-05-2025,14:42:49,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-3,
+tx_0000Atov5ZEV4pyovIuB4U,06-05-2025,14:43:35,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtovCbGhuJ6m17cFdq,06-05-2025,14:44:52,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtpauKKKLwCgaQUlEn,06-05-2025,22:32:10,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Atpb2UTMW05SMyc7ZR,06-05-2025,22:33:39,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtqdiOngOB3oh696wb,07-05-2025,10:38:20,Card payment,Uber,🚖,Transport,-18.8,GBP,-18.8,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,-18.8,
+tx_0000AtqiNbZ8EStZGvy7Ob,07-05-2025,11:30:36,Card payment,Uber,🚖,Transport,-19.79,GBP,-19.79,GBP,,Aldgate Tower First Floor,,UBER   *TRIP           London        GBR,,-19.79,
+tx_0000AtqiNoSAJfdfLldEnJ,07-05-2025,11:30:39,Card payment,Uber,🚖,Transport,18.8,GBP,18.8,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,,18.8
+tx_0000AtqsDS1ppq0ymq9NuV,07-05-2025,13:20:49,Card payment,Deliveroo,🍝🦘,Eating out,-43.44,GBP,-43.44,GBP,,,,DELIVEROO              +442036999977 GBR,,-43.44,
+tx_0000Atr1azFzMHckRAemNm,07-05-2025,15:05:55,Pot transfer,CCT Pot,,Savings,263,GBP,263,GBP,,,,,,,263
+tx_0000Atr1kTTSNfNfNEAmO1,07-05-2025,15:07:38,Faster payment,Interlude London Ltd,,Finances,-262.5,GBP,-262.5,GBP,CCT event.,,,CCT event.,,-262.5,
+tx_0000Atr4EvurOkgwp6QDwH,07-05-2025,15:35:33,Pot transfer,CCT Pot,,Savings,64,GBP,64,GBP,,,,,,,64
+tx_0000Atr4cLIRCXMKxQEPeT,07-05-2025,15:39:47,Pot transfer,CCT Pot,,Savings,136,GBP,136,GBP,,,,,,,136
+tx_0000Atr4f6UOi4vtXFe8jj,07-05-2025,15:40:17,Flex,,,Transfers,-28.9,GBP,-28.9,GBP,Early payment towards Passion Hair,,,Flex,,-28.9,
+tx_0000Atr4hMxeRHxOGzThzd,07-05-2025,15:40:41,Flex,,,Transfers,-15.2,GBP,-15.2,GBP,Early payment towards TK Maxx,,,Flex,,-15.2,
+tx_0000Atr4ii89DYPGAP9G54,07-05-2025,15:40:56,Flex,,,Transfers,-26.99,GBP,-26.99,GBP,Early payment towards Ryanair,,,Flex,,-26.99,
+tx_0000Atr4kyZH4f5Gv3pT6X,07-05-2025,15:41:20,Flex,,,Transfers,-28.99,GBP,-28.99,GBP,Early payment towards Ryanair,,,Flex,,-28.99,
+tx_0000Atr4mTGMR8Q9DLmbjN,07-05-2025,15:41:36,Flex,,,Transfers,-20,GBP,-20,GBP,Early payment towards British Gas,,,Flex,,-20,
+tx_0000Atr4pmz7ZFWbGHDzXd,07-05-2025,15:42:13,Flex,,,Transfers,-0.3,GBP,-0.3,GBP,Early payment towards Tesco,,,Flex,,-0.3,
+tx_0000Atr4sEWKA6jkZjIuY5,07-05-2025,15:42:39,Flex,,,Transfers,-15.6,GBP,-15.6,GBP,Early payment towards Tesco,,,Flex,,-15.6,
+tx_0000Atr5LHbZlvTv7iHUxe,07-05-2025,15:47:54,Pot transfer,Holiday Pot,,Savings,20,GBP,20,GBP,,,,,,,20
+tx_0000Atr5MVwnvtUcOXzX3R,07-05-2025,15:48:07,Flex,,,Transfers,-4.5,GBP,-4.5,GBP,Early payment towards Akdeniz Bakery,,,Flex,,-4.5,
+tx_0000Atr5NIVBPOQhXYu3CD,07-05-2025,15:48:16,Flex,,,Transfers,-4.65,GBP,-4.65,GBP,Early payment towards Tesco,,,Flex,,-4.65,
+tx_0000AtrBWShLT5vY2P4Z9O,07-05-2025,16:57:09,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Wednesday, 7 May","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-1.75,
+tx_0000AtsbBR5r202s4qA786,08-05-2025,09:19:24,Pot transfer,CCT Pot,,Savings,42,GBP,42,GBP,,,,,,,42
+tx_0000AtsbJER9yGHAGfVia1,08-05-2025,09:20:40,Flex,,,Transfers,-13.5,GBP,-13.5,GBP,Early payment towards Akdeniz Bakery,,,Flex,,-13.5,
+tx_0000AtsbLCfvUaZoPkYhAw,08-05-2025,09:21:09,Flex,,,Transfers,-11,GBP,-11,GBP,Early payment towards The Royal Bake,,,Flex,,-11,
+tx_0000AtsbMCzvmJQ2fnC5K6,08-05-2025,09:21:20,Flex,,,Transfers,-11.9,GBP,-11.9,GBP,Early payment towards Tesco,,,Flex,,-11.9,
+tx_0000AtsbMuVe0HZgcNKNpx,08-05-2025,09:21:28,Flex,,,Transfers,-5,GBP,-5,GBP,Early payment towards Tesco,,,Flex,,-5,
+tx_0000Atsmgy4NZjlF814uKP,08-05-2025,11:28:21,Pot transfer,CCT Pot,,Savings,39,GBP,39,GBP,,,,,,,39
+tx_0000AtsmiZEOtXkGMtA06j,08-05-2025,11:28:38,Flex,,,Transfers,-30,GBP,-30,GBP,Early payment towards Akdeniz Bakery,,,Flex,,-30,
+tx_0000AtsmjHvUifJB10uZw9,08-05-2025,11:28:46,Flex,,,Transfers,-8.89,GBP,-8.89,GBP,Early payment towards Tesco,,,Flex,,-8.89,
+tx_0000AtsqA8BjKk2Glr78qJ,08-05-2025,12:07:14,Card payment,House of MoMo,🍽,Eating out,-34.31,GBP,-34.31,GBP,,52 Boleyn Road,,SQ *HOUSE OF MOMO      London        GBR,,-34.31,
+tx_0000AtsxSF35GQke7AErOD,08-05-2025,13:28:56,Pot transfer,CCT Pot,,Savings,6,GBP,6,GBP,,,,,,,6
+tx_0000AtsxWS4Wmmw5yNLJwX,08-05-2025,13:29:42,Pot transfer,Holiday Pot,,Savings,30,GBP,30,GBP,,,,,,,30
+tx_0000AtsznjIuAf0684wmt0,08-05-2025,13:55:14,Flex,,,Transfers,-6,GBP,-6,GBP,Early payment towards Poundland,,,Flex,,-6,
+tx_0000AttP8IjKfFqie89sav,08-05-2025,18:39:05,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-3,
+tx_0000AttPIYChzK1DnHdiWR,08-05-2025,18:40:56,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AttPSCq4HISUAMngPq,08-05-2025,18:42:41,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AttQxdACYMQx0EcSPK,08-05-2025,18:59:34,Card payment,Voucher Store UK,,General,-51.31,GBP,-51.31,GBP,,,,VoucherStoreUK         Hemel Hempste GBR,,-51.31,
+tx_0000AttS9PAMWMfxpPpKK1,08-05-2025,19:12:54,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AttSK8Pb9YZuMrLBEA,08-05-2025,19:14:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AttcMU5YWtqTxdClUH,08-05-2025,21:07:18,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AttcVEqQZkmQ498W4v,08-05-2025,21:08:53,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Atuj3gu5YLsSBOwQ1B,09-05-2025,09:57:03,Card payment,Uber,🚖,Transport,-18.76,GBP,-18.76,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,-18.76,
+tx_0000Atup67JEwpKFZOvxzu,09-05-2025,11:04:44,Card payment,Uber,🚖,Transport,-21.19,GBP,-21.19,GBP,,Aldgate Tower First Floor,,UBER   *TRIP           London        GBR,,-21.19,
+tx_0000Atup6IDcO3vkpuvZwH,09-05-2025,11:04:46,Card payment,Uber,🚖,Transport,18.76,GBP,18.76,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,,18.76
+tx_0000AtvDTnSkmoJx4sWEqH,09-05-2025,15:37:56,Card payment,Uber,🚖,Transport,-23.93,GBP,-23.93,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,-23.93,
+tx_0000AtvJmkDbfj9YJ8kgm9,09-05-2025,16:48:35,Card payment,Uber,🚖,Transport,-25.44,GBP,-25.44,GBP,,2 Leman Street,,UBER *TRIP HELP.UBER.C London        GBR,,-25.44,
+tx_0000AtvJmvAowQt1V59uc7,09-05-2025,16:48:37,Card payment,Uber,🚖,Transport,23.93,GBP,23.93,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,,23.93
+tx_0000AtvR2dFU3JhOUTx0Lp,09-05-2025,18:09:53,Card payment,Transport for London,🚆,Transport,-7,GBP,-7,GBP,"Travel charge for Thursday, 8 May",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-7,
+tx_0000AtvegsKYhG4KGM0ODR,09-05-2025,20:42:50,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Atveqaip1I8jsXpDSD,09-05-2025,20:44:35,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Atwc9PYceFFSaRXpIo,10-05-2025,07:49:05,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtwcIpIWJdMGQKPXPt,10-05-2025,07:50:47,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtwcJU44kFAIrOy55t,10-05-2025,07:50:54,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtwcSqnrZaPH8zwGSv,10-05-2025,07:52:36,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtxBdVzcmYuqkpREsT,10-05-2025,14:26:42,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtxBnLlBgN7ODSgJYg,10-05-2025,14:28:28,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtxJ3qfFFTobGaq1Cr,10-05-2025,15:49:53,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtxJDZiH7xhw3e70Cn,10-05-2025,15:51:39,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AtxxENQMIckV0pkypt,10-05-2025,23:20:00,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AtxxNC3ZvsXDWDORFZ,10-05-2025,23:21:35,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Atz3sgFMWwYCmZKhyz,11-05-2025,12:09:13,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Saturday, 10 May",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-1.75,
+tx_0000AtzfAi8zuYRpVLFdD7,11-05-2025,19:07:04,Card payment,Tesco,🍏 ,Groceries,-6.7,GBP,-6.7,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-6.7,
+tx_0000Au1Tc9WtOIH6YrORsn,12-05-2025,16:06:59,Pot transfer,CCT Pot,,Savings,98,GBP,98,GBP,,,,,,,98
+tx_0000Au1TnMIkFIeZ1ZdFoI,12-05-2025,16:09:01,Pot transfer,Holiday Pot,,Savings,30,GBP,30,GBP,,,,,,,30
+tx_0000Au1UP46sKUD4Q0P6xd,12-05-2025,16:15:49,Pot transfer,CCT Pot,,Savings,36,GBP,36,GBP,,,,,,,36
+tx_0000Au1UQQqVHdAretF9qF,12-05-2025,16:16:04,Flex,,,Transfers,-36.25,GBP,-36.25,GBP,Early payment towards Tesco,,,Flex,,-36.25,
+tx_0000Au3J53s0niBO0QwNxB,13-05-2025,13:18:23,Monzo-to-Monzo,Rakshanda Ranadive,,General,2070,GBP,2070,GBP,Visa,,,,,,2070
+tx_0000Au3JADxkhhx2GWWDNz,13-05-2025,13:19:19,Card payment,Ihsc0000003608449,,Bills,-2070,GBP,-2070,GBP,,Ukvi,,IHSC0000003608449      UKVI          GBR,,-2070,
+tx_0000Au3JEy51BQYnamCgnR,13-05-2025,13:20:10,Pot transfer,CCT Pot,,Savings,880,GBP,880,GBP,,,,,,,880
+tx_0000Au3JLQ6xsNgP84AN62,13-05-2025,13:21:20,Card payment,UK Borders Agency,🇬🇧 ,Bills,-880,GBP,-880,GBP,,,,UKBA                   LONDON        GBR,,-880,
+tx_0000Au3PHsN7SgQrGSdpYo,13-05-2025,14:27:55,Pot transfer,CCT Pot,,Savings,57,GBP,57,GBP,,,,,,,57
+tx_0000Au3PSdzTGuxUp44KGK,13-05-2025,14:29:52,Faster payment,Atharv Yenpure,,General,-31,GBP,-31,GBP,Balance,,,Balance,,-31,
+tx_0000Au3Ssis03I91ae96MU,13-05-2025,15:08:12,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000Au3TzOxCb99KUHM9BL,13-05-2025,15:20:37,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Au3U6Mmr3KuHanBcGI,13-05-2025,15:21:52,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Au49riFNBAUO0Bc1Z4,13-05-2025,23:09:50,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Au4A1QtaXuE4KsVXls,13-05-2025,23:11:35,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Au7fI7FEXZw35obZcf,15-05-2025,15:46:06,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Au7fRkywATyGottdzd,15-05-2025,15:47:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Au7tWXTPDcXtL1uYpm,15-05-2025,18:25:34,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Au7thXeIuDCAvbghKT,15-05-2025,18:27:33,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Au7tvgttJ1DrRXSMfj,15-05-2025,18:30:07,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Au7u5LbrJrzAw1LLxx,15-05-2025,18:31:52,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Au8586c8czMzh2QGR7,15-05-2025,20:35:37,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Au85FFnordc81eJfu5,15-05-2025,20:36:54,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Au8t2a7L1BpHFLDh2H,16-05-2025,05:54:52,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Au8tDTnWr0e5axCBJj,16-05-2025,05:56:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Au8tgiGEA0e2rud638,16-05-2025,06:02:07,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Au8toTpHiBVCDR0vdR,16-05-2025,06:03:31,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Au9Qz0F5LCR1gIyf6h,16-05-2025,12:15:11,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Au9R6eMEakvmarTR0k,16-05-2025,12:16:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Au9RMJ8JGubovjv9f8,16-05-2025,12:19:24,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Au9RUGDfzIngAG7sAr,16-05-2025,12:20:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuEHldNh6DYTWFsOTR,18-05-2025,20:25:29,Card payment,Barrio,🍸,Eating out,-16.5,GBP,-16.5,GBP,,141-143 Shoreditch High Street,,Barrio Shoreditch      London        GBR,,-16.5,
+tx_0000AuFzIJeLyGPnANWoPy,19-05-2025,16:07:55,Card payment,Google,💻,Entertainment,0,GBP,0,USD,Active card check,,,GOOGLE *PAYMENTS TEMP  cc@google.com IRL,,0,
+tx_0000AuGFjUIu4AripEkGwc,19-05-2025,19:12:07,Card payment,Tesco,🍏 ,Groceries,-0.49,GBP,-0.49,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-0.49,
+tx_0000AuGRoK8aUUtjrU6GrR,19-05-2025,21:27:27,Pot transfer,CCT Pot,,Savings,154,GBP,154,GBP,,,,,,,154
+tx_0000AuGRriEtL0nEOzXf2Q,19-05-2025,21:28:03,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000AuGRvPsVXt5Gon3EN0,19-05-2025,21:28:43,Flex,,,Transfers,-222.41,GBP,-222.41,GBP,"Early payment towards Tesco, The Royal Bake and 2 more",,,Flex,,-222.41,
+tx_0000AuI6m2YLBoS7oKyWRN,20-05-2025,16:41:09,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuI6wu5F1EZbAn4t2w,20-05-2025,16:43:07,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuIZiENcAlIKzLN106,20-05-2025,22:05:24,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuIZqU9pOZw6EoT4b3,20-05-2025,22:06:54,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuIZry19rTfL8Z7Rr7,20-05-2025,22:07:10,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuIa1PnbwLtPIXvFvm,20-05-2025,22:08:52,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuK4Li2n0W684h5tfl,21-05-2025,15:23:24,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000AuK4ljExBNUkNy2JQP,21-05-2025,15:28:06,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuK4unx12P4RTJpmZF,21-05-2025,15:29:45,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuK5fFvrKszXhmaBAf,21-05-2025,15:38:08,Card payment,Tesco,🍏 ,Groceries,-5.95,GBP,-5.95,GBP,,34 Tabard Street,,TESCO STORES 5518      LONDON        GBR,,-5.95,
+tx_0000AuKaMjoH7lYGezFcfZ,21-05-2025,21:22:09,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuKaWCdbJRi2htVh33,21-05-2025,21:23:52,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuM9Zgu2w022oQ8PfG,22-05-2025,15:31:23,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuM9gwqO44biLpP4Zl,22-05-2025,15:32:41,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuMgcYYHjkTSCzuLEw,22-05-2025,21:41:40,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuMgn78O11MXvRgyll,22-05-2025,21:43:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuMgoAPJKf2rkIL442,22-05-2025,21:43:45,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuMgxl7qBTfauCQFHt,22-05-2025,21:45:30,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuNPHEFmVTvnsayAtd,23-05-2025,06:02:02,Card payment,Transport for London,🚆,Transport,-3.5,GBP,-3.5,GBP,"Travel charge for Friday, 23 May","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-3.5,
+tx_0000AuOKTt4qFJpvYqSNBR,23-05-2025,16:43:00,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuOKdU0qI3nf7rbaxW,23-05-2025,16:44:44,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuOcoFFVJryS4NbOK1,23-05-2025,20:08:23,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuOcvYLsh5EvLL4Nec,23-05-2025,20:09:42,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuQ01hTaAulzUsQELb,24-05-2025,12:03:14,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000AuQ8HKVq7WJI7QTIep,24-05-2025,13:35:42,Pot transfer,Holiday Pot,,Savings,100,GBP,100,GBP,,,,,,,100
+tx_0000AuQ8JoytoEebnZIWRt,24-05-2025,13:36:09,Monzo-to-Monzo,Rakshanda Ranadive,,Gifts,-100,GBP,-100,GBP,Gift 🎁,,,,,-100,
+tx_0000AuSNcI5oCQeMLtai0Z,25-05-2025,15:36:59,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuSNisMEHTGteXGJMJ,25-05-2025,15:38:11,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuSNjnbRRZPV8Rs1mT,25-05-2025,15:38:21,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuSNsDQrILwUi0NYDB,25-05-2025,15:39:52,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuSwPg4vCtIPAfckj3,25-05-2025,22:06:53,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuSwaVWmm3VlrvGnZJ,25-05-2025,22:08:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuSwb3DTWMP7PTAhiE,25-05-2025,22:08:56,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuSwkB9TO0Uenj8XbN,25-05-2025,22:10:35,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuUSOOsj38RE9qfeld,26-05-2025,15:39:55,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-6,
+tx_0000AuUSTFxldXCxfmNjQQ,26-05-2025,15:40:48,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuUSan7Ul5Ep430xNJ,26-05-2025,15:42:10,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuUnCZa3Xm3RPtwphC,26-05-2025,19:33:05,Faster payment,Apurv Renake,,Expenses,-5.99,GBP,-5.99,GBP,Revolute Self,,,Revolute Self,,-5.99,
+tx_0000AuV10CFNrz3CrgWtyW,26-05-2025,22:07:43,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuV1BQliDgyKwylxjd,26-05-2025,22:09:45,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuVRk2R1HWBYlhUiIM,27-05-2025,03:07:20,Direct Debit,PureGym,,Personal care,-28.99,GBP,-28.99,GBP,4.60038E+15,,,4.60038E+15,,-28.99,
+tx_0000AuWYHAaWmZcZu2Vm5Z,27-05-2025,15:55:16,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuWYRN5DBJ6HAiUBvu,27-05-2025,15:57:07,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuWurWyxCIAAMOcXMP,27-05-2025,20:08:21,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuWuyYY5lqkITir7zd,27-05-2025,20:09:37,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuYbrHfYcWtaRuhU13,28-05-2025,15:44:50,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuYbyUt9ryebW8AU0P,28-05-2025,15:46:08,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuZFQP5CwdGUx7Igp1,28-05-2025,23:08:11,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuZFZpW02YIYhiFuFP,28-05-2025,23:09:53,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuadU0zF4HHv25KisD,29-05-2025,15:12:27,Card payment,Iceland,❄️ ,Groceries,-1.69,GBP,-1.69,GBP,,222-226 Southwark Park Road,,ICELAND                BERMONDSEY    GBR,,-1.69,
+tx_0000AuadWsQJMZBCSwTyHx,29-05-2025,15:12:59,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuadfD0IjGWXAFfAg6,29-05-2025,15:14:29,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuagZezm2o300exbwy,29-05-2025,15:47:06,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-3,
+tx_0000AuaggK1qObjt60egTJ,29-05-2025,15:48:18,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuagnzqHKhVkoU5quf,29-05-2025,15:49:41,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AubH4CFGaDbwXJED4r,29-05-2025,22:36:00,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AubHE1uRrlPTNOBCJo,29-05-2025,22:37:46,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AubP7IBzj8xIRgq3ov,30-05-2025,00:06:12,Bacs (Direct Credit),Accor Hotels,,Income,1263.8,GBP,1263.8,GBP,2193    01013514,,,2193    01013514,,,1263.8
+tx_0000AubrPU417rah0RGsXz,30-05-2025,05:23:13,Card payment,Klarna,💳,Bills,-15.18,GBP,-15.18,GBP,,,,Klarna*Amazon          London        GBR,,-15.18,
+tx_0000Aud7HSwlBiBp5OIXrQ,30-05-2025,19:55:46,Faster payment,Apurv Renake,,Rent,-525,GBP,-525,GBP,Rent June,,,Rent June,,-525,
+tx_0000Audc4oSkyfhfZXQ0Dy,31-05-2025,01:40:50,Flex,,,Income,26.95,GBP,26.95,GBP,Returned from Flex for Amazon,,,Flex,,,26.95
+tx_0000AudfiLNwo49AFOvvLo,31-05-2025,02:21:36,Card payment,Transport for London,🚆,Transport,-11.6,GBP,-11.6,GBP,"Travel charge for Friday, 30 May","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-11.6,
+tx_0000AudzqeCcj4yRSC66nx,31-05-2025,06:07:12,monzo_paid,,,Bills,-7,GBP,-7,GBP,,,,Perks,,-7,
+tx_0000AueTNmgV6oBlgknCpX,31-05-2025,11:38:08,Pot transfer,Holiday Pot,,Savings,-700,GBP,-700,GBP,,,,,,-700,
+tx_0000Aufy7mVZHugON7oCig,01-06-2025,04:57:18,overdraft,,,General,-0.23,GBP,-0.23,GBP,This is the charge for your May 2025 overdraft,,,May overdraft fees,,-0.23,
+tx_0000AuhIK8XrND6HBolniD,01-06-2025,20:18:21,Pot transfer,CCT Pot,,Savings,-26,GBP,-26,GBP,,,,,,-26,
+tx_0000AuhILLktk9NG6J0dIT,01-06-2025,20:18:34,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000AuhIUMOCkua1iigM65,01-06-2025,20:20:11,Card payment,Look Fantastic,💄,Shopping,0,GBP,0,GBP,Active card check,7-9 Sunbank Lane  Ringway,,lookfantastic          Manchester    GBR,,0,
+tx_0000AuhKO7h6g8pIJag2h1,01-06-2025,20:41:29,Card payment,Look Fantastic,💄,Shopping,-37.36,GBP,-37.36,GBP,,7-9 Sunbank Lane  Ringway,,lookfantastic          Manchester    GBR,,-37.36,
+tx_0000AuiMAIF53iO2W3SMWR,02-06-2025,08:36:06,Faster payment,Remitly UK,,General,-44.88,GBP,-44.88,GBP,R58774681154,,,R58774681154,,-44.88,
+tx_0000AuiMI3XTbpAz3SBivx,02-06-2025,08:37:30,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000AuifghpLMuEyh2C3ZS,02-06-2025,12:14:51,Card payment,Iceland,❄️ ,Groceries,-7,GBP,-7,GBP,,222-226 Southwark Park Road,,ICELAND                BERMONDSEY    GBR,,-7,
+tx_0000AuiwtQMNJxIRlHWflF,02-06-2025,15:27:38,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Auix43uB9DcnTW1iNe,02-06-2025,15:29:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AujRhY7xiFmXTqJIh7,02-06-2025,21:12:51,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AujRrDjaOBEPzB82C1,02-06-2025,21:14:36,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AuoRJUDfYwAswQIRY9,05-06-2025,07:02:03,Pot transfer,Holiday Pot,,Savings,100,GBP,100,GBP,,,,,,,100
+tx_0000AuoRNOJ1UWRFbvg8fM,05-06-2025,07:02:45,Faster payment,Apurv Renake,,Bills,-51.51,GBP,-51.51,GBP,Gas Elect,,,Gas Elect,,-51.51,
+tx_0000AuokB3TV0r8gtLwsjZ,05-06-2025,10:33:26,Card payment,British Gas,🇬🇧💨,Bills,-20,GBP,-20,GBP,,Bgs Finance,,BRITISH GAS            LEEDS         GBR,,-20,
+tx_0000Aup8u2rYX5KSyRXjXf,05-06-2025,15:10:29,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-3,
+tx_0000Aup9O3TSp9RqWoDVx3,05-06-2025,15:15:54,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Aup9XD3CaXbbe0U3TV,05-06-2025,15:17:33,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Auppk3lyafh9HJGgbJ,05-06-2025,23:10:29,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AuppqZ5P55z1NWKSot,05-06-2025,23:11:40,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AurFnMQaTplm99RWQT,06-06-2025,15:37:08,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-3,
+tx_0000AurG7NAtPfb0Fqe0kz,06-06-2025,15:40:45,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AurGIQSHYZJxacNmK1,06-06-2025,15:42:45,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Aurbp9tWFQCgIO7HoT,06-06-2025,19:43:58,Card payment,Tesco,🍏 ,Groceries,-8.25,GBP,-8.25,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-8.25,
+tx_0000Aus8DkXOrF7FiaKt3C,07-06-2025,01:46:58,Flex,,,Income,65.93,GBP,65.93,GBP,Returned from Flex for Grind,,,Flex,,,65.93
+tx_0000AushdBEgEF4zKO0iGo,07-06-2025,08:23:44,Pot transfer,CCT Pot,,Savings,-65,GBP,-65,GBP,,,,,,-65,
+tx_0000Aushs5OuCowXIosrNh,07-06-2025,08:26:26,Card payment,The Cinema Society,,General,-15.98,GBP,-15.98,GBP,,"Unit 3, 5 West Hill Aspley Guise",,THE CINEMA SOCIETY     +441908752260 GBR,,-15.98,
+tx_0000Ausw3pInHh4EVhdSQm,07-06-2025,11:05:26,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Friday, 6 Jun",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-1.75,
+tx_0000AutFaF9McGMjDHxcR7,07-06-2025,14:44:11,Card payment,Primark,👕,Shopping,-69,GBP,-69,GBP,,"Stratford, 127- 128 The Arcade",,PRIMARK 671            STRATFORD     GBR,,-69,
+tx_0000AutS7KXIoJnCpTxg5D,07-06-2025,17:04:37,Card payment,Vasantha Vilas,🍽,Eating out,-13.48,GBP,-13.48,GBP,,206 High Street North,,Vasantha Vilas         London        GBR,,-13.48,
+tx_0000Auv7OYRKf0zI3QG6sL,08-06-2025,12:21:51,Card payment,Transport for London,🚆,Transport,-6.1,GBP,-6.1,GBP,"Travel charge for Saturday, 7 Jun",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-6.1,
+tx_0000AuwsoFEDbJq4NXPnzF,09-06-2025,08:47:33,Card payment,Olympia,🎺,Groceries,-2,GBP,-2,GBP,,Hammersmith Road,,SQ *OLYMPIA            London        GBR,,-2,
+tx_0000AuxeWELOwfKAowb3gI,09-06-2025,17:42:25,Pot transfer,Holiday Pot,,Savings,100,GBP,100,GBP,,,,,,,100
+tx_0000Auz6fEHPXsWJ4ZRW3l,10-06-2025,10:32:30,Card payment,Transport for London,🚆,Transport,-6.4,GBP,-6.4,GBP,"Travel charge for Monday, 9 Jun",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-6.4,
+tx_0000Auzcj6o8Sw6H3y7w70,10-06-2025,16:31:46,Card payment,Bermondsey Barbers,✂️,General,-45,GBP,-45,GBP,,149 Southwark Park Road,,BERMONDSEY BARBERS     LONDON        GBR,,-45,
+tx_0000AuzctKSmY8hHj2lhu0,10-06-2025,16:33:37,Pot transfer,Holiday Pot,,Savings,52.07,GBP,52.07,GBP,,,,,,,52.07
+tx_0000Av1GUtXZBf8ZIy4OQr,11-06-2025,11:32:06,Faster payment,Remitly UK,,General,-88.46,GBP,-88.46,GBP,R73525218279,,,R73525218279,,-88.46,
+tx_0000Av1Gb9D5q95zknTwnJ,11-06-2025,11:33:14,Pot transfer,Holiday Pot,,Savings,100,GBP,100,GBP,,,,,,,100
+tx_0000Av1f1gLJfrA7MnZXIf,11-06-2025,16:06:57,Card payment,Tesco,🍏 ,Groceries,-7.14,GBP,-7.14,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-7.14,
+tx_0000Av4Y0ycU7RdMwn4kyI,13-06-2025,01:32:32,Flex,,,Income,25.88,GBP,25.88,GBP,Returned from Flex for Amazon,,,Flex,,,25.88
+tx_0000Av53AOlnMMbfDnxDA9,13-06-2025,07:21:35,Card payment,Amazon,📦,Shopping,-4.99,GBP,-4.99,GBP,,"1 Principal Pl, Worship St",,amazon.co.uk           14018657948   GBR,,-4.99,
+tx_0000Av54CCumVWbw0v7JI1,13-06-2025,07:33:07,Card payment,Tesco,🍏 ,Groceries,-4,GBP,-4,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-4,
+tx_0000Av5mcNAXOwb7rXEtWd,13-06-2025,15:50:52,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Av5mnL2Zefh3XdFf5I,13-06-2025,15:52:51,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Av6LGUFRtgaRJavade,13-06-2025,22:19:05,Card payment,Rentbrella,,Bills,0,GBP,0,GBP,Active card check,3rd Floor Chancery Housest. Nicholas Way,,RENTBRELLA             5511997689814 GBR,,0,
+tx_0000Av6PIqx4r87mqg0ED5,13-06-2025,23:04:20,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Av6PQ23VyENAvliLcA,13-06-2025,23:05:38,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Av6RCIN2iOOn2nreSn,13-06-2025,23:25:34,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Av6RJjq2zLwYiSyWAr,13-06-2025,23:26:54,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Av7ZC7hdN5ZD1RTo3N,14-06-2025,12:29:53,Pot transfer,CCT Pot,,Savings,-25,GBP,-25,GBP,,,,,,-25,
+tx_0000Av7lKdMuio0RwY9RoX,14-06-2025,14:45:53,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Av7lUVCnvVNyEwEbpZ,14-06-2025,14:47:40,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000Av8LyAu5ZNE30UBa8x,14-06-2025,21:36:24,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000Av8M6ORL7rE7m0dpRZ,14-06-2025,21:37:53,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AvBzYoQmZ46Or36P11,16-06-2025,15:44:09,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AvBzhFRa0zQvfcnVMw,16-06-2025,15:45:41,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AvCaDylMeTt8YkxoWn,16-06-2025,22:34:59,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvCaMZugPayFUhxqM6,16-06-2025,22:36:32,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AvDqRMFsPewafWBK0f,17-06-2025,13:11:23,Pot transfer,Holiday Pot,,Savings,250,GBP,250,GBP,,,,,,,250
+tx_0000AvDqTRLgRguiCu4UqH,17-06-2025,13:11:46,Flex,,,Transfers,-106,GBP,-106,GBP,Early payment towards British Airways-inr,,,Flex,,-106,
+tx_0000AvDqXGO194iOpTsQFt,17-06-2025,13:12:27,Pot transfer,Holiday Pot,,Savings,-150,GBP,-150,GBP,,,,,,-150,
+tx_0000AvE3tsiYbs77ctbvcY,17-06-2025,15:42:12,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AvE42Pc8BbJeSLVvRx,17-06-2025,15:43:45,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AvEhDb5hkeGwmRwLx3,17-06-2025,23:02:46,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AvEhNkpAQ05Dowffph,17-06-2025,23:04:36,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AvHuf1hymLZVXjOVcX,19-06-2025,12:17:31,Pot transfer,Holiday Pot,,Savings,200,GBP,200,GBP,,,,,,,200
+tx_0000AvHugthHXFqveYxTCT,19-06-2025,12:17:52,Flex,,,Transfers,-105.25,GBP,-105.25,GBP,Extra payment towards British Airways-inr,,,Flex,,-105.25,
+tx_0000AvHuhhgzebLe4wFXYP,19-06-2025,12:18:00,Flex,,,Transfers,-85.5,GBP,-85.5,GBP,Early payment towards Foot Locker,,,Flex,,-85.5,
+tx_0000AvHumsJLbLfcVjr5Zi,19-06-2025,12:18:56,Pot transfer,Holiday Pot,,Savings,-20,GBP,-20,GBP,,,,,,-20,
+tx_0000AvHunnBAASSu8jjqmj,19-06-2025,12:19:06,Pot transfer,Holiday Pot,,Savings,40,GBP,40,GBP,,,,,,,40
+tx_0000AvHuypweDytMb1k2Og,19-06-2025,12:21:06,Card payment,Amazon,📦,Shopping,0,GBP,0,GBP,Active card check,,,AMAZON EU              AMAZON.CO.UK  GBR,,0,
+tx_0000AvHv3UoUDc9p2tkFRx,19-06-2025,12:21:56,Card payment,Amazon Prime,💻,Shopping,0,GBP,0,GBP,Active card check,,,Amazon Prime           amzn.co.uk/pm GBR,,0,
+tx_0000AvHvUyzk71nPFapQKy,19-06-2025,12:26:55,Card payment,Amazon,📦,Shopping,-22.97,GBP,-22.97,GBP,,1 Principal Place Worship Street,,AMAZON.CO.UK           LONDON        GBR,,-22.97,
+tx_0000AvI7IeP42oeUpKkA3l,19-06-2025,14:39:09,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-3,
+tx_0000AvI7o2a0CtkjXdPXZy,19-06-2025,14:44:49,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AvI7xiw469q2kxlSyI,19-06-2025,14:46:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AvIIzL6Um4ixns88fq,19-06-2025,16:50:07,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AvIJ7YwXCi13K8RmaZ,19-06-2025,16:51:36,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvIiyWkSalgRlfP9LV,19-06-2025,21:41:18,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,-5,
+tx_0000AvIj5skDD4O9BjQlUX,19-06-2025,21:42:38,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 +442081577491 GBR,,,5
+tx_0000AvIjyc2H2Aqh4U5XMo,19-06-2025,21:52:31,Card payment,Human Forest,🚗,Transport,-1.74,GBP,-1.74,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-1.74,
+tx_0000AvLpEAfBebw1H8XY3f,21-06-2025,09:35:29,Card payment,Transport for London,🚆,Transport,-2.9,GBP,-2.9,GBP,"Travel charge for Saturday, 21 Jun","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-2.9,
+tx_0000AvM938GGF69Xk2z1ur,21-06-2025,13:17:36,Card payment,Veganthai,🍴,Eating out,-12,GBP,-12,GBP,,Chalk Farm Road,,VEGANTHAI              LONDON        GBR,,-12,
+tx_0000AvMCgrDJLNbjX7iuA5,21-06-2025,13:58:23,Card payment,Hans  Gretel,🍴,Eating out,-7,GBP,-7,GBP,,,,SumUp  *HANS   GRETEL  London        GBR,,-7,
+tx_0000AvMJ8osqCUiKu5I6fx,21-06-2025,15:10:40,Card payment,Tesco,🍏 ,Groceries,-6.5,GBP,-6.5,GBP,,159-165 Camden High Street,,TESCO STORES 4910      CAMDEN        GBR,,-6.5,
+tx_0000AvMVHsZ15MYHwz2Cw5,21-06-2025,17:26:46,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvMVSoAJmLIks1kkWi,21-06-2025,17:28:45,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvMVWWGIHnu0SGg62z,21-06-2025,17:29:25,Card payment,Human Forest,🚗,Transport,0,GBP,0,GBP,Active card check,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,0,
+tx_0000AvMVXYAqf6nIBtCh2h,21-06-2025,17:29:36,Card payment,Human Forest,🚗,Transport,-0.6,GBP,-0.6,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-0.6,
+tx_0000AvMVemNQFrhbqUbL2w,21-06-2025,17:30:55,Card payment,Human Forest,🚗,Transport,0.6,GBP,0.6,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,0.6
+tx_0000AvMXV47pbwc0obZyPC,21-06-2025,17:51:34,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvMXX8ldK734nJa2tu,21-06-2025,17:51:56,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvMXcW1QI4GX3B9lzv,21-06-2025,17:52:55,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvMXhg52JzZR0agGIr,21-06-2025,17:53:51,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvMbfR35dWqrjNsKge,21-06-2025,18:38:15,Card payment,Eat Momo,🍽,Eating out,-11.25,GBP,-11.25,GBP,,Bank End 1,,Eat Momo               London        GBR,,-11.25,
+tx_0000AvMqw49nV1vaRbhqL3,21-06-2025,21:29:20,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvMr2ZcnPrQTA6tOnT,21-06-2025,21:30:31,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvMr5zwzzg26NPtbf8,21-06-2025,21:31:08,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvMrDwV2hxPqgje0PZ,21-06-2025,21:32:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvODbkUtNPRKHEUnOT,22-06-2025,13:18:06,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvODk5Vp7x2mc3jxrt,22-06-2025,13:19:36,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvRqO1mOnspDZwyi0n,24-06-2025,07:16:45,Card payment,Tesco,🍏 ,Groceries,-2.45,GBP,-2.45,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-2.45,
+tx_0000AvSZ75zWO6856pGcXy,24-06-2025,15:37:55,Card payment,Human Forest,🚗,Transport,-6,GBP,-6,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-6,
+tx_0000AvSZGHyVCbMccjpxsA,24-06-2025,15:39:34,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvSZNVbytp5X4vhwm3,24-06-2025,15:40:53,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvSey06ZVEhnUi9uAz,24-06-2025,16:43:30,Pot transfer,Holiday Pot,,Savings,80,GBP,80,GBP,,,,,,,80
+tx_0000AvTDBj3R5eDNJKkROL,24-06-2025,23:06:57,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvTDKuOiHlbAJLl8pF,24-06-2025,23:08:36,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvTYVInaW1sj32CYaY,25-06-2025,03:05:47,Direct Debit,PureGym,,Personal care,-28.99,GBP,-28.99,GBP,4.60038E+15,,,4.60038E+15,,-28.99,
+tx_0000AvTwQQxx7XcgQOUzwo,25-06-2025,07:33:50,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvTwbYyVgS3SRw4Bc2,25-06-2025,07:35:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvUdyWQBdkHRobkW2c,25-06-2025,15:41:48,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvUe9EBFncLYLfI3lq,25-06-2025,15:43:44,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvVHwhXpJEfGDR60RN,25-06-2025,23:09:41,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvVI4TdqsqqygODQeH,25-06-2025,23:11:05,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvVI7g7SwrDUyt04On,25-06-2025,23:11:40,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvVIEQF2NeiisFMj7S,25-06-2025,23:12:53,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvVz6YDD9rkCfGn0F8,26-06-2025,07:13:16,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvVzEuImud48Opn6Lh,26-06-2025,07:14:47,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvWdSeV4SMiDNkBsLi,26-06-2025,14:45:28,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvWdYuVVr51Y34wxjV,26-06-2025,14:46:36,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvWe13DR4SkNQ8jjiD,26-06-2025,14:51:41,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvWeBOt5Lo1jGi83mL,26-06-2025,14:53:33,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvXK1R0knQE262Y88X,26-06-2025,22:42:22,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AvXK8cJFBiQXAFcgEr,26-06-2025,22:43:40,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AvYndhCK9eVdfpyrVy,27-06-2025,15:48:56,Card payment,Boots,💊,Personal care,-8.91,GBP,-8.91,GBP,,Canada Square,,BOOTS THE CHEMISTS     CANARY WHARF  GBR,,-8.91,
+tx_0000AvYo3AnTF7PVL8bRhq,27-06-2025,15:53:33,Card payment,Waitrose & Partners,🍏,Groceries,-5,GBP,-5,GBP,,16-19 Canada Square,,WAITROSE               LONDON        GBR,,-5,
+tx_0000AvZDSfozWrpUyPTNUv,27-06-2025,20:38:17,Card payment,Ls Curry On Naanstop R,🍽,Eating out,-43.19,GBP,-43.19,GBP,,Poplar High Street,,LS Curry On Naanstop R London        GBR,,-43.19,
+tx_0000AvabkUzT84miYLBo26,28-06-2025,12:45:08,Card payment,Transport for London,🚆,Transport,-2.1,GBP,-2.1,GBP,"Travel charge for Friday, 27 Jun",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-2.1,
+tx_0000AvabnFUXD6W56NN4ug,28-06-2025,12:45:38,Bacs (Direct Credit),Accor Hotels,,Income,1371.02,GBP,1371.02,GBP,2193    01013514,,,2193    01013514,,,1371.02
+tx_0000AvbEID3a6pDGmmxELC,28-06-2025,19:57:00,Faster payment,Mr Atharv N Yenpure,,Rent,-525,GBP,-525,GBP,Rent July,,,Rent July,,-525,
+tx_0000AvbEPETrDJhAmGuNE4,28-06-2025,19:58:17,Pot transfer,Holiday Pot,,Savings,-790,GBP,-790,GBP,,,,,,-790,
+tx_0000AvcVAfAPbZj9LQzKBl,29-06-2025,10:40:51,Card payment,Transport for London,🚆,Transport,-2,GBP,-2,GBP,"Travel charge for Saturday, 28 Jun",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-2,
+tx_0000AvcrEfkrYjVC89GEPi,29-06-2025,14:48:05,Monzo-to-Monzo,Rakshanda Ranadive,,General,100,GBP,100,GBP,,,,,,,100
+tx_0000AvcrFrVrKRTvwJmhCz,29-06-2025,14:48:18,Pot transfer,🏡 + 💍👰🏻‍♀️ Pot,,Savings,-100,GBP,-100,GBP,,,,,,-100,
+tx_0000AvcrJnALQsQtwCSxyk,29-06-2025,14:49:00,Pot transfer,🏡 + 💍👰🏻‍♀️ Pot,,Savings,-100,GBP,-100,GBP,,,,,,-100,
+tx_0000AvcrQBQK9isMXTK2Yk,29-06-2025,14:50:10,Pot transfer,Holiday Pot,,Savings,100,GBP,100,GBP,,,,,,,100
+tx_0000Avd4NV6DqPGJYJV0Lr,29-06-2025,17:15:21,Card payment,British Gas,🇬🇧💨,Bills,-15,GBP,-15,GBP,,Bgs Finance,,BRITISH GAS            LEEDS         GBR,,-15,
+tx_0000Avd4PamtfMpNUbivi6,29-06-2025,17:15:43,Pot transfer,Holiday Pot,,Savings,20,GBP,20,GBP,,,,,,,20
+tx_0000AveD76VCcZoXzDf2Jt,30-06-2025,06:27:56,monzo_paid,,,Bills,-7,GBP,-7,GBP,,,,Perks,,-7,
+tx_0000Avf6d6iKrdJGGYj7dz,30-06-2025,16:50:00,Card payment,Tesco,🍏 ,Groceries,-4,GBP,-4,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-4,
+tx_0000Avg9PjFpGnH2JTHCan,01-07-2025,04:55:54,overdraft,,,General,-0.01,GBP,-0.01,GBP,This is the charge for your June 2025 overdraft,,,June overdraft fees,,-0.01,
+tx_0000AvhJUcSz7xl8bdXXc1,01-07-2025,18:23:33,Card payment,Tesco,🍏 ,Groceries,-6.25,GBP,-6.25,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-6.25,
+tx_0000AvicWAJqqGs6LmDsFF,02-07-2025,09:31:26,Pot transfer,Holiday Pot,,Savings,12.15,GBP,12.15,GBP,,,,,,,12.15
+tx_0000Avj9uDNKQcAY6Tvph3,02-07-2025,15:45:33,Card payment,Iceland,❄️ ,Groceries,-1.59,GBP,-1.59,GBP,,222-226 Southwark Park Road,,ICELAND                BERMONDSEY    GBR,,-1.59,
+tx_0000Avl5jygoADYlqictt4,03-07-2025,14:08:18,Card payment,Tesco,🍏 ,Groceries,-3.05,GBP,-3.05,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-3.05,
+tx_0000AvnjVURAEHjvjtg8J7,04-07-2025,20:43:18,Card payment,Runa,💼,General,-28.77,GBP,-28.77,GBP,,51 Eastcheap,,Runa Network Limited   London        GBR,,-28.77,
+tx_0000AvpUZIJS8hoI2CDE0n,05-07-2025,17:05:20,Card payment,Iceland,❄️ ,Groceries,-6,GBP,-6,GBP,,222-226 Southwark Park Road,,ICELAND                BERMONDSEY    GBR,,-6,
+tx_0000AvsI0RRJb90i0OUKjx,07-07-2025,01:28:43,Pot transfer,Holiday Pot,,Savings,100,GBP,100,GBP,,,,,,,100
+tx_0000AvsI4eiMBVZmpTNtSb,07-07-2025,01:29:28,Faster payment,Apurv Renake,,Bills,-52,GBP,-52,GBP,Gas Elect,,,Gas Elect,,-52,
+tx_0000AvtMc5TwHKhJFknaFN,07-07-2025,13:55:03,Card payment,The Cinema Society,,General,-11.98,GBP,-11.98,GBP,,"Unit 3, 5 West Hillaspley Guise",,THE CINEMA SOCIETY     MILTON KEYNES GBR,,-11.98,
+tx_0000AvtRWDCt8yfJQgvXVb,07-07-2025,14:50:01,Card payment,Amazon,📦,Shopping,-34.99,GBP,-34.99,GBP,,1 Principal Place Worship Street,,AMAZON.CO.UK           LONDON        GBR,,-34.99,
+tx_0000AvtRh1WYv6VMNjHiC2,07-07-2025,14:51:58,Faster payment,A Yenpure,,Income,35,GBP,35,GBP,A Yenpure,,,A Yenpure,,,35
+tx_0000AvtiCkJi1x2EhNekCH,07-07-2025,17:56:59,Card payment,Transport for London,🚆,Transport,-4.1,GBP,-4.1,GBP,"Travel charge for Monday, 7 Jul","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-4.1,
+tx_0000AvxvrbR4225ZM4NokG,09-07-2025,18:48:53,Card payment,Bism Supermarket LTD,🍎,Groceries,-2.67,GBP,-2.67,GBP,,234 Southwark Park Road,,BISM SUPERMARKET LTD   London        GBR,,-2.67,
+tx_0000AvxwmB9ePqUMSxwGiv,09-07-2025,18:59:06,Card payment,Tesco,🍏 ,Groceries,-3.08,GBP,-3.08,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-3.08,
+tx_0000Aw1HwlRZ1xNYFQDIME,11-07-2025,09:40:27,Pot transfer,Holiday Pot,,Savings,10,GBP,10,GBP,,,,,,,10
+tx_0000Aw1MvMCtsD8vSXVFKM,11-07-2025,10:36:13,Card payment,Transport for London,🚆,Transport,-5.25,GBP,-5.25,GBP,"Travel charge for Thursday, 10 Jul",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-5.25,
+tx_0000Aw3UF9X9n1YiBITogr,12-07-2025,11:07:39,Card payment,The Food Wagon,🍴,Groceries,-5.95,GBP,-5.95,GBP,,The Weld Estate Office,,The Food Wagon         Wareham       GBR,,-5.95,
+tx_0000Aw5gVgFNWBKZpN0Arp,13-07-2025,12:34:32,Card payment,Transport for London,🚆,Transport,-2,GBP,-2,GBP,"Travel charge for Saturday, 12 Jul",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-2,
+tx_0000Aw60JDGbREP20scEdd,13-07-2025,16:16:22,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-3,
+tx_0000Aw60aYHqXUymQ22Qqn,13-07-2025,16:19:31,Card payment,Human Forest,🚗,Transport,-3,GBP,-3,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-3,
+tx_0000Aw621BIuCI6EJ0tJkf,13-07-2025,16:35:32,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000Aw628q8ilkQIO4WJzl,13-07-2025,16:36:55,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000Aw629aXoEonucWsUpV,13-07-2025,16:37:03,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000Aw62A5JLqcJuY2bH29,13-07-2025,16:37:08,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000Aw62J7gQOgr7aDu0oM,13-07-2025,16:38:46,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000Aw66jO3kX83mHYl7SL,13-07-2025,17:28:20,Card payment,The King & Co,🍺,Entertainment,-20.6,GBP,-20.6,GBP,,Catford Tavern - Catford Road,,PORTOBELLO PUB COMPA 1 LONDON        GBR,,-20.6,
+tx_0000Aw6IWHEBowRdSjBRI1,13-07-2025,19:40:26,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000Aw6IYqP00wobZiW7kY,13-07-2025,19:40:53,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000Aw6IeKbr8CwJj8Rfda,13-07-2025,19:41:53,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000Aw6IiESfvomiptFeBV,13-07-2025,19:42:35,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000Aw7CKc00MY3p2NbEtm,14-07-2025,06:05:48,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000Aw7CUMdELxOR9UHhUP,14-07-2025,06:07:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000Aw7CqN7BEnPOeam1BJ,14-07-2025,06:11:32,Card payment,Human Forest,🚗,Transport,-1.9,GBP,-1.9,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-1.9,
+tx_0000Aw7suXNJEF1sCNXDzV,14-07-2025,14:02:54,Faster payment,Christheart Parmar,,Holidays,-67.2,GBP,-67.2,GBP,Christ,,,Christ,,-67.2,
+tx_0000Aw7svu7IA3icpCgCPr,14-07-2025,14:03:09,Pot transfer,Holiday Pot,,Savings,100,GBP,100,GBP,,,,,,,100
+tx_0000Aw81SrxK10AvIdAfkP,14-07-2025,15:38:37,Card payment,Tariq Halal Meats,🥩,Groceries,-6.33,GBP,-6.33,GBP,,286 Old Kent Road,,Tariq Halal Meats      London        GBR,,-6.33,
+tx_0000Aw82XIg2hxVchemZFr,14-07-2025,15:50:45,Card payment,Tesco,🍏 ,Groceries,-13.48,GBP,-13.48,GBP,,107 Dunton Road,,TESCO STORES 3189      SOUTHWARK     GBR,,-13.48,
+tx_0000AwI9B4osBwKquV7v5n,19-07-2025,12:52:17,Faster payment,U Parmar,,Income,500,GBP,500,GBP,Balance,,,friend,,,500
+tx_0000AwIAM3GGQQWXWPyCOH,19-07-2025,13:05:28,Monzo-to-Monzo,Rakshanda Ranadive,,General,-500,GBP,-500,GBP,,,,,,-500,
+tx_0000AwIWQZReuHm8UxGq38,19-07-2025,17:12:48,Card payment,Tesco,🍏 ,Groceries,-15.95,GBP,-15.95,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-15.95,
+tx_0000AwIbtBU1ZgzlLAQhOL,19-07-2025,18:13:59,Faster payment,K Gajjar,,Income,200,GBP,200,GBP,Balance,,,Fund,,,200
+tx_0000AwIs5zb8fpmqHiyEbJ,19-07-2025,21:15:36,Pot transfer,Holiday Pot,,Savings,-200,GBP,-200,GBP,,,,,,-200,
+tx_0000AwLto8r0IwsK4ni8B9,21-07-2025,08:18:55,Card payment,Transport for London,🚆,Transport,-5.25,GBP,-5.25,GBP,"Travel charge for Monday, 21 Jul","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-5.25,
+tx_0000AwM5Z5XrWToYMqQ1BZ,21-07-2025,10:30:39,Card payment,Google,💻,Entertainment,0,GBP,0,GBP,Active card check,,,GOOGLE *WALLET TEMP    CC@GOOGLE.COM IRL,,0,
+tx_0000AwM7XEXhIeeDPzr0yn,21-07-2025,10:52:43,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Sunday, 20 Jul",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-1.75,
+tx_0000AwQnVmoJtVSVBneTch,23-07-2025,17:01:55,Card payment,Tesco,🍏 ,Groceries,-0.72,GBP,-0.72,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-0.72,
+tx_0000AwSiw4QysjtypEzgcF,24-07-2025,15:20:04,Faster payment,Apurv Renake,,Transfers,-10,GBP,-10,GBP,Apurv HSBC,,,Apurv HSBC,,-10,
+tx_0000AwSiwF2DT8xnlCmkTc,24-07-2025,15:20:06,Pot transfer,Holiday Pot,,Savings,20,GBP,20,GBP,,,,,,,20
+tx_0000AwTexiC6KrJLZRnOGw,25-07-2025,02:10:15,Card payment,Amazon,📦,Shopping,34.99,GBP,34.99,GBP,,1 Principal Place Worship Street,,AMAZON* RC45L5E84\1 Principal Place Worship Street\LONDON\EC2A 2FA  LNDGBR,,,34.99
+tx_0000AwTjqLObCUmR7b1bDV,25-07-2025,03:04:57,Direct Debit,PureGym,,Personal care,-28.99,GBP,-28.99,GBP,4.60038E+15,,,4.60038E+15,,-28.99,
+tx_0000AwWeGrgPlMPQCuworp,26-07-2025,12:46:39,Card payment,Transport for London,🚆,Transport,-4.2,GBP,-4.2,GBP,"Travel charge for Friday, 25 Jul",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-4.2,
+tx_0000AwWeOEJW1M326ah3z7,26-07-2025,12:47:59,Pot transfer,Holiday Pot,,Savings,30,GBP,30,GBP,,,,,,,30
+tx_0000AwWeOJRUx7HresindB,26-07-2025,12:47:59,Faster payment,Mr Atharv N Yenpure,,General,-35,GBP,-35,GBP,Amazon Refund,,,Amazon Refund,,-35,
+tx_0000AwaK5UnPINvB04yA9B,28-07-2025,07:19:20,Card payment,Tesco,🍏 ,Groceries,-2.65,GBP,-2.65,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-2.65,
+tx_0000AwbrEhulNhhox68k2E,29-07-2025,01:05:29,Pot transfer,🏡 + 💍👰🏻‍♀️ Pot,,Savings,-100,GBP,-100,GBP,,,,,,-100,
+tx_0000AwdG26RvXetlOCbG7t,29-07-2025,17:18:02,Pot transfer,Holiday Pot,,Savings,100,GBP,100,GBP,,,,,,,100
+tx_0000AweTAoZgrXcF5kbZRK,30-07-2025,07:19:59,Card payment,Tesco,🍏 ,Groceries,-4.39,GBP,-4.39,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-4.39,
+tx_0000AwfHY79GxzBF6vi6DJ,30-07-2025,16:44:27,Bacs (Direct Credit),Accor Hotels,,Income,818.36,GBP,818.36,GBP,2193    01013514,,,2193    01013514,,,818.36
+tx_0000AwfJOimGPNtYYKi7so,30-07-2025,17:05:10,Card payment,Tesco,🍏 ,Groceries,-10.74,GBP,-10.74,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-10.74,
+tx_0000AwfcFSEiR7f1iUPtBZ,30-07-2025,20:36:23,Faster payment,Mr Atharv N Yenpure,,Rent,-525,GBP,-525,GBP,Rent Aug,,,Rent Aug,,-525,
+tx_0000AwfcQ0xgBSkGclZ5mr,30-07-2025,20:38:17,Flex,,,Transfers,-229.67,GBP,-229.67,GBP,"Early payment towards Nike, Tesco and 2 more",,,Flex,,-229.67,
+tx_0000AwgSvu3kZnGnKyQcVu,31-07-2025,06:26:43,monzo_paid,,,Bills,-7,GBP,-7,GBP,,,,Perks,,-7,
+tx_0000AwiHNcPQyzvgw9lst0,01-08-2025,03:26:41,overdraft,,,General,-0.05,GBP,-0.05,GBP,This is the charge for your July 2025 overdraft,,,July overdraft fees,,-0.05,
+tx_0000AwiTPF147x0KCX0MCn,01-08-2025,05:41:26,Card payment,Grind,☕,Eating out,-42.5,GBP,-42.5,GBP,,,,GRIND & CO             LONDON        GBR,,-42.5,
+tx_0000Awic32Q9AxQIxMH1Or,01-08-2025,07:18:16,Card payment,Tesco,🍏 ,Groceries,-3.94,GBP,-3.94,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-3.94,
+tx_0000AwjjKneZiEBavtS9Wl,01-08-2025,20:14:38,Card payment,Tesco,🍏 ,Groceries,-21.9,GBP,-21.9,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-21.9,
+tx_0000AwjkQJOLEoT7TzrXe5,01-08-2025,20:26:50,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000AwkqRNp92PE92730i1,02-08-2025,09:08:58,Card payment,Tesco,🍏 ,Groceries,-1.2,GBP,-1.2,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-1.2,
+tx_0000AwljFTfoxTYhH8STQ1,02-08-2025,19:23:05,Card payment,Tesco,🍏 ,Groceries,-11.5,GBP,-11.5,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-11.5,
+tx_0000AwpYYScSmPhTxHuH8T,04-08-2025,15:42:07,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Monday, 4 Aug","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-1.75,
+tx_0000AwqneCzFVUjF2CR4fR,05-08-2025,06:05:56,Pot transfer,Holiday Pot,,Savings,120,GBP,120,GBP,,,,,,,120
+tx_0000AwqniMffRYqQftbPnQ,05-08-2025,06:06:41,Faster payment,Apurv Renake,,Bills,-120,GBP,-120,GBP,Gas Elect,,,Gas Elect,,-120,
+tx_0000AwtC2impiL6r3EFnGL,06-08-2025,09:48:42,Card payment,Tesco,🍏 ,Groceries,-5.05,GBP,-5.05,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-5.05,
+tx_0000AwtC6oeRqpL1rZhM70,06-08-2025,09:49:27,Flex,Tesco,🍏 ,Groceries,5.05,GBP,5.05,GBP,Returned for Tesco,,,Flex,,,5.05
+tx_0000AwvvDfdIfH9EZE3CpI,07-08-2025,17:24:20,Pot transfer,Holiday Pot,,Savings,55,GBP,55,GBP,,,,,,,55
+tx_0000Awvw2ZY72kYwxZRb85,07-08-2025,17:33:32,Card payment,Klarna,💳,Bills,-53.55,GBP,-53.55,GBP,,,,Klarna*Klarna Shoppi   London        GBR,,-53.55,
+tx_0000AwxXkvaqKtOoNeVLtp,08-08-2025,12:10:51,Pot transfer,Holiday Pot,,Savings,300,GBP,300,GBP,,,,,,,300
+tx_0000AwxXoA4swInEs2bijp,08-08-2025,12:11:26,Faster payment,Apurv Renake,,Transfers,-300,GBP,-300,GBP,Revolute Self,,,Revolute Self,,-300,
+tx_0000AwxkFgQPyoD5kluGEm,08-08-2025,14:30:52,Card payment,Transport for London,🚆,Transport,-3.5,GBP,-3.5,GBP,"Travel charge for Thursday, 7 Aug",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-3.5,
+tx_0000AwxqeNUk6AWPPgDiKX,08-08-2025,15:42:34,signup_referral,,,Income,10,GBP,10,GBP,,,,Referral bonus 🎉,,,10
+tx_0000AwyAiz3CPJ72somZdZ,08-08-2025,19:27:30,Card payment,TK Maxx,👕👗,Shopping,-10.98,GBP,-10.98,GBP,,203-207 Oxford Street,,TK MAXX                LONDON        GBR,,-10.98,
+tx_0000AwzCceihTduAmqJQIL,09-08-2025,07:23:28,Pot transfer,Holiday Pot,,Savings,200,GBP,200,GBP,,,,,,,200
+tx_0000AwzCnRA6E51Fc6tunR,09-08-2025,07:25:25,Faster payment,Kaushalkumar Gajjar,,General,-200,GBP,-200,GBP,Funds,,,Funds,,-200,
+tx_0000AwzogM2kee7lja2fdR,09-08-2025,14:29:56,Card payment,Transport for London,🚆,Transport,-4.65,GBP,-4.65,GBP,"Travel charge for Friday, 8 Aug",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-4.65,
+tx_0000Ax0HK30Xe5HvERCBZB,09-08-2025,19:50:50,Card payment,Uber,🚖,Transport,0,GBP,0,GBP,Active card check,Aldgate Tower First Floor,,Uber UK Rides          London        GBR,,0,
+tx_0000Ax0HqIHKP9CeAWn8i1,09-08-2025,19:56:40,Card payment,Uber Eats,🍽,Eating out,-20.98,GBP,-20.98,GBP,,Aldgate Tower First Floor,,UBER   * EATS PENDING  London        GBR,,-20.98,
+tx_0000Ax0Ik54Uh99XhKgFlJ,09-08-2025,20:06:45,Pot transfer,Holiday Pot,,Savings,27.65,GBP,27.65,GBP,,,,,,,27.65
+tx_0000Ax1utgnplrTrGYARCT,10-08-2025,14:49:00,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Saturday, 9 Aug",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-1.75,
+tx_0000Ax4kLy0YsaqMNPGvh3,11-08-2025,23:34:59,Card payment,Uber,🚖,Transport,-60.36,GBP,-60.36,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,-60.36,
+tx_0000Ax4yXMvRyYWLGUcFij,12-08-2025,02:13:55,Card payment,Transport for London,🚆,Transport,-5.8,GBP,-5.8,GBP,"Travel charge for Monday, 11 Aug","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-5.8,
+tx_0000Ax5rlfckkNkaa1rPBB,12-08-2025,12:32:46,Card payment,Bism Supermarket LTD,🍎,Groceries,-2.99,GBP,-2.99,GBP,,234 Southwark Park Road,,BISM SUPERMARKET LTD   London        GBR,,-2.99,
+tx_0000Ax6m3pVwJFyCZLcG01,12-08-2025,23:03:32,Pot transfer,CCT Pot,,Savings,100,GBP,100,GBP,,,,,,,100
+tx_0000AxBeBfOI0KN8ThPVRq,15-08-2025,07:28:52,Card payment,Tesco,🍏 ,Groceries,-1.65,GBP,-1.65,GBP,,186-188 Southwark Park Road,,TESCO-STORES 6070      BERMONDSEY    GBR,,-1.65,
+tx_0000AxCErfzfkWercgD1kX,15-08-2025,14:19:51,Card payment,Transport for London,🚆,Transport,-4.65,GBP,-4.65,GBP,"Travel charge for Thursday, 14 Aug",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-4.65,
+tx_0000AxIMQMvEVwNGqZk7PN,18-08-2025,13:12:49,Pot transfer,CCT Pot,,Savings,120.5,GBP,120.5,GBP,,,,,,,120.5
+tx_0000AxINvbSOcj226kROr4,18-08-2025,13:29:40,Flex,,,Transfers,-25.53,GBP,-25.53,GBP,Early payment towards Cas Indiejewel Fashion,,,Flex,,-25.53,
+tx_0000AxINy0WoNe64RaeWvK,18-08-2025,13:30:06,Flex,,,Transfers,-3,GBP,-3,GBP,Early payment towards Iceland,,,Flex,,-3,
+tx_0000AxINzGHxGjrZHKzv2i,18-08-2025,13:30:20,Flex,,,Transfers,-11,GBP,-11,GBP,Early payment towards House of MoMo,,,Flex,,-11,
+tx_0000AxIO0IPypyhgpGN2Gn,18-08-2025,13:30:31,Flex,,,Transfers,-3.75,GBP,-3.75,GBP,Early payment towards Tesco,,,Flex,,-3.75,
+tx_0000AxIO1Q6Zk7K1O5HOAl,18-08-2025,13:30:43,Flex,,,Transfers,-5.05,GBP,-5.05,GBP,Early payment towards Tesco,,,Flex,,-5.05,
+tx_0000AxIO3b1y5mXY7SruSZ,18-08-2025,13:31:07,Flex,,,Transfers,-3.63,GBP,-3.63,GBP,Early payment towards Tesco,,,Flex,,-3.63,
+tx_0000AxIO8kJ12G5gyu14KY,18-08-2025,13:32:02,Flex,,,Transfers,-21.35,GBP,-21.35,GBP,Extra payment towards Tesco,,,Flex,,-21.35,
+tx_0000AxIOCDUSz4igVQoiyP,18-08-2025,13:32:40,Flex,,,Transfers,-6.33,GBP,-6.33,GBP,Early payment towards Tariq Halal Meats,,,Flex,,-6.33,
+tx_0000AxIODj2NB9RaTBqLRq,18-08-2025,13:32:56,Flex,,,Transfers,-17,GBP,-17,GBP,Early payment towards Tesco,,,Flex,,-17,
+tx_0000AxKCyOXaOMd1yc1SCH,19-08-2025,10:36:20,Faster payment,Apurv Renake,,Transfers,-15,GBP,-15,GBP,Apurv HSBC,,,Apurv HSBC,,-15,
+tx_0000AxKDJBK0jcqX2GgaFV,19-08-2025,10:40:06,Monzo-to-Monzo,Rakshanda Ranadive,,General,300,GBP,300,GBP,Flight ticket ,,,,,,300
+tx_0000AxKEfZoOSi09KPqodP,19-08-2025,10:55:21,Flex,,,Transfers,-60.69,GBP,-60.69,GBP,Early payment towards Chennai Dosa,,,Flex,,-60.69,
+tx_0000AxKEh3m6XtTq6jd9V4,19-08-2025,10:55:37,Flex,,,Transfers,-26.09,GBP,-26.09,GBP,Early payment towards National Express,,,Flex,,-26.09,
+tx_0000AxKEmczr1GASg9f37y,19-08-2025,10:56:37,Flex,,,Transfers,-35,GBP,-35,GBP,Early payment towards National Express,,,Flex,,-35,
+tx_0000AxKEpJJQf4YC2IYa6j,19-08-2025,10:57:06,Flex,,,Transfers,-45,GBP,-45,GBP,Early payment towards UK Visas & Immigration,,,Flex,,-45,
+tx_0000AxKEr2xASHAW8t4xW5,19-08-2025,10:57:25,Flex,,,Transfers,-45,GBP,-45,GBP,Early payment towards UK Visas & Immigration,,,Flex,,-45,
+tx_0000AxN1OfhGc20adaawvB,20-08-2025,19:10:46,Flex,,,Transfers,-30.7,GBP,-30.7,GBP,Early payment towards National Express,,,Flex,,-30.7,
+tx_0000AxOXhmO1M95p43zctF,21-08-2025,12:47:29,Card payment,Evri,🚚,General,-4.31,GBP,-4.31,GBP,,1 Capitol Close,,EVRI LIMITED           LEEDS         GBR,,-4.31,
+tx_0000AxWw6QQW5iSnTh3b0s,25-08-2025,13:58:33,Card payment,Raya Grocery Limited,🍎,Groceries,-1.6,GBP,-1.6,GBP,,Stoney Street,,Raya Grocery Limited   London        GBR,,-1.6,
+tx_0000AxY4V1G1nfsh11tbhC,26-08-2025,03:07:21,Direct Debit,PureGym,,Personal care,-28.99,GBP,-28.99,GBP,4.60038E+15,,,4.60038E+15,,-28.99,
+tx_0000AxaUDEEjn93OMXKurR,27-08-2025,07:04:53,Faster payment,Apurv Renake,,Transfers,-20,GBP,-20,GBP,Apurv HSBC,,,Apurv HSBC,,-20,
+tx_0000AxcjipLRlFYpOyCFdp,28-08-2025,09:08:05,Faster payment,RENAKE A,,Transfers,550,GBP,550,GBP,Rent Sept,,,Rent Sept,,,550
+tx_0000AxcjuBriN4SYWgjl6P,28-08-2025,09:10:08,Faster payment,Mr Atharv N Yenpure,,Rent,-525,GBP,-525,GBP,Rent sept,,,Rent sept,,-525,
+tx_0000AxgtjBFS6Laity6Gjh,30-08-2025,09:19:03,Card payment,Transport for London,🚆,Transport,-6,GBP,-6,GBP,"Travel charge for Saturday, 30 Aug","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-6,
+tx_0000Axh0wepW80Uefls3O6,30-08-2025,10:39:55,Faster payment,SAHIL DHAGE,,Income,59,GBP,59,GBP,CHASE,,,CHASE,,,59
+tx_0000Axh1QBVHj9mOmXY5C5,30-08-2025,10:45:16,Card payment,Dishoom Canary Wharf,🍽,Eating out,-52.2,GBP,-52.2,GBP,,13 Water Street,,Dishoom Canary Wharf   London        GBR,,-52.2,
+tx_0000AxijEHn17WlYgOxWs5,31-08-2025,06:30:51,monzo_paid,,,Bills,-7,GBP,-7,GBP,,,,Perks,,-7,
+tx_0000AxmSPHuO66Vo6NU7PO,02-09-2025,01:41:11,Flex,,,Income,30.7,GBP,30.7,GBP,Returned from Flex for National Express,,,Flex,,,30.7
+tx_0000AxmSXkoWVn7b3wosa1,02-09-2025,01:42:43,Faster payment,SAHIL DHAGE,,Income,54,GBP,54,GBP,CHASE,,,CHASE,,,54
+tx_0000AxpPgxf0OvwxYuY4Kg,03-09-2025,11:54:54,Faster payment,SAHIL DHAGE,,Income,500,GBP,500,GBP,CHASE,,,CHASE,,,500
+tx_0000AxrWdXVOHE5D73yEEr,04-09-2025,12:22:08,Monzo-to-Monzo,Rakshanda Ranadive,,General,410,GBP,410,GBP,American Express ,,,,,,410
+tx_0000AxrXMWTiwQSCbXwmRN,04-09-2025,12:30:16,Faster payment,AMERICAN EXP 3773,,Transfers,-765.02,GBP,-765.02,GBP,PB418391676825260,,,PB418391676825260,,-765.02,
+tx_0000AxtI557GJIqdIKKkTZ,05-09-2025,08:48:28,Faster payment,Apurv Renake,,Bills,-60,GBP,-60,GBP,Gas Elect,,,Gas Elect,,-60,
+tx_0000AxvSDHbJAFzviCEQOw,06-09-2025,09:51:25,Card payment,Transport for London,🚆,Transport,-1.75,GBP,-1.75,GBP,"Travel charge for Friday, 5 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-1.75,
+tx_0000AxwYOuMGCSFQlEO4B8,06-09-2025,22:35:28,Card payment,Currys,🔌,Shopping,-53.55,GBP,-53.55,GBP,,Aviation House  125 Kingsway,,Klarna*Currys          London        GBR,,-53.55,
+tx_0000Axxgn0jj86tES8VmoV,07-09-2025,11:44:10,Card payment,Transport for London,🚆,Transport,-2.9,GBP,-2.9,GBP,"Travel charge for Friday, 5 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-2.9,
+tx_0000AxyQOLVZMNoAh1lQSP,07-09-2025,20:15:09,Monzo-to-Monzo,Atharv Yenpure,,Expenses,-50,GBP,-50,GBP,,,,,,-50,
+tx_0000AxypLpgbCVAVBo5uqo,08-09-2025,00:54:49,Card payment,Google,💻,Entertainment,0,GBP,0,GBP,Active card check,,,GOOGLE *TEMPORARY HOLD g.co/helppay# GBR,,0,
+tx_0000AxypP9zABUcoydsc2k,08-09-2025,00:55:25,Card payment,Google Play,💻,Entertainment,-9.99,GBP,-9.99,GBP,,5 New Street Square,,Google Play Apps       London        GBR,,-9.99,
+tx_0000AxzktM6ZNr2UgRRGdt,08-09-2025,11:39:34,Card payment,Uber,🚖,Transport,-58.96,GBP,-58.96,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,-58.96,
+tx_0000Ay0Ks61LIPcDvTfNKb,08-09-2025,18:22:43,Card payment,Uber,🚖,Transport,1.5,GBP,1.5,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,,1.5
+tx_0000Ay0vfUllfL4fGX3H2A,09-09-2025,01:15:01,Card payment,Transport for London,🚆,Transport,-13.9,GBP,-13.9,GBP,"Travel charge for Monday, 8 Sep","Windsor House, 42-50 Victoria Street",,TfL Travel Charge      TFL.gov.uk/CP GBR,,-13.9,
+tx_0000Ay9GsjsKSywe656NHf,13-09-2025,01:50:25,Card payment,Uber,🚖,Transport,-16.37,GBP,-16.37,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,-16.37,
+tx_0000Ay9zbC6XGhIWRkYyqA,13-09-2025,10:11:28,Card payment,Transport for London,🚆,Transport,-2.3,GBP,-2.3,GBP,"Travel charge for Friday, 12 Sep",50 Victoria Street,,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,,-2.3,
+tx_0000AyC0RMOKefUipkVOwD,14-09-2025,09:30:19,Card payment,Uber Eats,🍽,Eating out,-1.96,GBP,-1.96,GBP,,Aldgate Tower First Floor,,UBER   * EATS PENDING  London        GBR,,-1.96,
+tx_0000AyGl6L3JuWl1uS326U,16-09-2025,16:32:00,Card payment,Jan Theodorse,,General,-22.42,GBP,-22.42,GBP,,York Road,,Jan Theodorse          London        GBR,,-22.42,
+tx_0000AyGlRoF2a8roi0eyWH,16-09-2025,16:35:52,Faster payment,SAHIL DHAGE,,Income,23,GBP,23,GBP,CHASE,,,CHASE,,,23
+tx_0000AyItWR7NAc3HFqxiOw,17-09-2025,17:15:47,Card payment,Tesco,🍏 ,Groceries,-3.2,GBP,-3.2,GBP,,Jamaica Road,,TESCO STORES 4359      LONDON        GBR,,-3.2,
+tx_0000AyLIeaRNHNJ8bSDoX3,18-09-2025,21:06:48,Card payment,Uber Payments UK,🍽,Eating out,-26.94,GBP,-26.94,GBP,,2 Leman Street,,Uber Payments UK       London        GBR,,-26.94,
+tx_0000AyLIwQUozUqYDVlr7Z,18-09-2025,21:10:01,Faster payment,A Yenpure,,Income,26,GBP,26,GBP,A Yenpure,,,A Yenpure,,,26
+tx_0000AyRLvGPUTEmronBkR7,21-09-2025,19:11:41,Faster payment,A Yenpure,,Income,14,GBP,14,GBP,A Yenpure,,,A Yenpure,,,14
+tx_0000AySkfIC0lc4GTCjI49,22-09-2025,11:23:39,Monzo-to-Monzo,Rakshanda Ranadive,,General,200,GBP,200,GBP,Gift 🎁,,,,,,200
+tx_0000AySuV6ezmyGmqndZPF,22-09-2025,13:13:51,Card payment,Seelans Superstore,🍎,Groceries,-58.02,GBP,-58.02,GBP,,332-338 High Street North,,SEELANS SUPERSTORE     London        GBR,,-58.02,
+tx_0000AySzlqhasD7ZkajNx6,22-09-2025,14:12:54,Card payment,Vasantha Vilas - East,🍽,Eating out,-14.82,GBP,-14.82,GBP,,206 High Street North,,VASANTHA VILAS - EAST  LONDON        GBR,,-14.82,
+tx_0000AyYFpF911Y1yysiuwL,25-09-2025,03:06:22,Direct Debit,PureGym,,Personal care,-34.99,GBP,-34.99,GBP,4.60038E+15,,,4.60038E+15,,-34.99,
+tx_0000AyizOgQvzkH1VI8Wyw,30-09-2025,07:24:06,monzo_paid,,,Bills,-7,GBP,-7,GBP,,,,Perks,,-7,
+tx_0000Ays7FjgP5kWaIMAyLi,04-10-2025,17:04:31,Faster payment,A Yenpure,,Income,54,GBP,54,GBP,A Yenpure,,,A Yenpure,,,54
+tx_0000AysITY9PrbhXElXsY9,04-10-2025,19:10:17,Flex,,,Transfers,-138.86,GBP,-138.86,GBP,"Early payment towards UK Visas & Immigration, UK Visas & Immigration and 3 more",,,Flex,,-138.86,
+tx_0000AyvPezn2iygwYDuKDx,06-10-2025,07:14:55,Faster payment,Apurv Renake,,Bills,-65,GBP,-65,GBP,Apurv HSBC,,,Apurv HSBC,,-65,
+tx_0000AyvjVYyN3jGxTwovOT,06-10-2025,10:57:19,Card payment,Klarna,💳,Bills,-53.55,GBP,-53.55,GBP,,,,KLARNA FSUK            LONDON        GBR,,-53.55,
+tx_0000AyyEAW6C2DHLK7dqFN,07-10-2025,15:50:17,Card payment,Uber,🚖,Transport,-18.01,GBP,-18.01,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,-18.01,
+tx_0000AyyKwDaikSgotc5vgQ,07-10-2025,17:06:08,Card payment,Uber,🚖,Transport,-19.51,GBP,-19.51,GBP,,Aldgate Tower First Floor,,UBER   *TRIP           London        GBR,,-19.51,
+tx_0000AyyKwkas2uRbYcbZRq,07-10-2025,17:06:14,Card payment,Uber,🚖,Transport,18.01,GBP,18.01,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,,18.01
+tx_0000Az0d4hNQ4rQ2FOzY13,08-10-2025,19:38:47,Card payment,Uber Eats,🍽,Eating out,-20.86,GBP,-20.86,GBP,,Aldgate Tower First Floor,,UBER   * EATS PENDING  London        GBR,,-20.86,
+tx_0000Az1ncwfSvRH2LqtcIc,09-10-2025,09:11:44,Monzo-to-Monzo,Rakshanda Ranadive,,General,400,GBP,400,GBP,Credit card ,,,,,,400
+tx_0000Az1ouhFD6kbREx7B7h,09-10-2025,09:26:09,Monzo-to-Monzo,Atharv Yenpure,,General,120,GBP,120,GBP,,,,,,,120
+tx_0000Az1pPyY2p58Vp15xBa,09-10-2025,09:31:48,Card payment,American Express,💳,Transfers,0,GBP,0,GBP,Active card check,,,American Express       London        GBR,,0,
+tx_0000Az1pbyzP0Z5kfJcJ7b,09-10-2025,09:33:58,Card payment,American Express,💳,Transfers,0,GBP,0,GBP,Active card check,,,American Express       London        GBR,,0,
+tx_0000Az1pmQQNrMY1FUfBvH,09-10-2025,09:35:51,Card payment,American Express,💳,Transfers,-383.55,GBP,-383.55,GBP,,,,American Express       London        GBR,,-383.55,
+tx_0000Az4WbnXmFOF4ZnfQ70,10-10-2025,16:45:10,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000Az4Wm33dQEDqDMQ1lh,10-10-2025,16:46:46,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000Az5647jOHWDy25lXQP,10-10-2025,23:22:28,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000Az56ASHInkL5uOSZ8c,10-10-2025,23:23:37,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000Az56C1QXbTqBmHBeGA,10-10-2025,23:23:54,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000Az56Lmb5ayl6gBm7CD,10-10-2025,23:25:40,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AzEo97K7MvzKNwmUBW,15-10-2025,15:48:48,Card payment,Human Forest,🚗,Transport,-6.99,GBP,-6.99,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-6.99,
+tx_0000AzEoEyH9vB57EEydaj,15-10-2025,15:49:51,Faster payment,SAHIL DHAGE,,Income,7,GBP,7,GBP,CHASE,,,CHASE,,,7
+tx_0000AzEpZX0UbKGNA5koeg,15-10-2025,16:04:46,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AzEpkThrDFaV2JkcLJ,15-10-2025,16:06:45,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AzEvSs8UFGTwhX3fJh,15-10-2025,17:10:48,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AzEve5nzlLJPx2BwGH,15-10-2025,17:12:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AzEz49Sf5mh31zm1tx,15-10-2025,17:51:09,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AzEzDaHClOkfZrueav,15-10-2025,17:52:52,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AzGTDAlumSJh1ffG9i,16-10-2025,11:03:39,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AzGTNoMYRAlmCEPrfd,16-10-2025,11:05:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AzHRXmElBpww1vSiwr,16-10-2025,22:19:40,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AzHRe0iYGT8Og6MxyT,16-10-2025,22:20:48,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AzTP4LhitJxId2FEOo,22-10-2025,16:48:29,Card payment,Human Forest,🚗,Transport,-6.99,GBP,-6.99,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-6.99,
+tx_0000AzXKij4ZhjTscyfOKI,24-10-2025,14:18:35,Faster payment,THE VAULTS SERVICE,,Income,85.5,GBP,85.5,GBP,VAULTS PAY (39),,,VAULTS PAY (39),,,85.5
+tx_0000Azbh4mprN1oWbg648n,26-10-2025,16:47:56,Faster payment,SAHIL DHAGE,,Income,56,GBP,56,GBP,CHASE,,,CHASE,,,56
+tx_0000AzcaGs697o2uA8QLkP,27-10-2025,03:06:24,Direct Debit,PureGym,,Personal care,-34.99,GBP,-34.99,GBP,4.60038E+15,,,4.60038E+15,,-34.99,
+tx_0000AzdYtBuZtxkKDmd3Ba,27-10-2025,14:25:37,Pot transfer,Holiday Pot,,Savings,-110,GBP,-110,GBP,,,,,,-110,
+tx_0000AzfHABDeJrXNUgR8J0,28-10-2025,10:16:25,Faster payment,SAHIL DHAGE,,Income,28,GBP,28,GBP,CHASE,,,CHASE,,,28
+tx_0000AzhJUAfCgPhpJU5Csb,29-10-2025,09:51:52,Card payment,Raz Nolan Edutech Priv,🏫,Bills,-0.85,GBP,-99,INR,,,,RAZ*NOLAN EDUTECH PRIV Bengaluru U   IND,,-0.85,
+tx_0000AziVfnfBPtqWCBhpI2,29-10-2025,23:43:09,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AziVnzoI8fEdYbu4n4,29-10-2025,23:44:38,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AzjwovU8b2ceqJI0ah,30-10-2025,16:22:02,Card payment,Human Forest,🚗,Transport,-3.99,GBP,-3.99,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-3.99,
+tx_0000AzjxAt3IK5MjzYA4hP,30-10-2025,16:26:01,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AzjxJYEB7JvHI1C5iL,30-10-2025,16:27:35,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AzkbzO8d14PxoJe20D,31-10-2025,00:03:20,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000Azkc7dRQ0HF5mWrc5V,31-10-2025,00:04:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000Azl7h8kufMoDeoFkI5,31-10-2025,05:58:36,monzo_paid,,,Bills,-7,GBP,-7,GBP,,,,Perks,,-7,
+tx_0000Azn958zNwF6GWUoUkM,01-11-2025,05:23:34,overdraft,,,General,-0.18,GBP,-0.18,GBP,This is the charge for your October 2025 overdraft,,,October overdraft fees,,-0.18,
+tx_0000AznXAGRC4Q0fjiKmxv,01-11-2025,09:53:25,Card payment,Evri,🚚,General,24.31,GBP,24.31,GBP,,1 Capitol Close,,EVRI LIMITED\1 CAPITOL CLOSE\08445437147\LS27 0WH     GBR,,,24.31
+tx_0000AzvVbwB4LRHLCfDnik,05-11-2025,06:13:42,Flex,,,Transfers,-44.57,GBP,-44.57,GBP,"National Express, On That Ass",,,Flex,,-44.57,
+tx_0000Azw437yvxh9FCici4D,05-11-2025,12:39:35,Pot transfer,Holiday Pot,,Savings,15,GBP,15,GBP,,,,,,,15
+tx_0000Azw480QhT3zx5YJa1B,05-11-2025,12:40:27,Faster payment,Apurv Renake,,Bills,-15,GBP,-15,GBP,Apurv HSBC,,,Apurv HSBC,,-15,
+tx_0000AzyJVlSIgFUWvZrVwH,06-11-2025,14:42:15,Card payment,Human Forest,🚗,Transport,-3.99,GBP,-3.99,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-3.99,
+tx_0000AzyK6nycGl1tzyh8Ft,06-11-2025,14:48:57,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AzyKDHyrd0I6ckEpGb,06-11-2025,14:50:07,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000AzyPfLRErjM19Jj8vh,06-11-2025,15:51:13,Pot transfer,Holiday Pot,,Savings,5,GBP,5,GBP,,,,,,,5
+tx_0000Azz2OlBFnfpD84Tvvt,06-11-2025,23:05:13,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000Azz2XtTELbvKBGxaLK,06-11-2025,23:06:52,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000Azzp4BFgZEAvJkFy3H,07-11-2025,08:10:32,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000AzzpAhluZXyNt1oWCw,07-11-2025,08:11:43,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B003avneRCJKCfurkx,07-11-2025,10:53:20,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B003jFL7fm4ilU187t,07-11-2025,10:54:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B05tucdvXTJuKclxD8,10-11-2025,06:33:06,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B05u4KWdkomotFsyPZ,10-11-2025,06:34:52,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B05uvlTgHDpE7k32P3,10-11-2025,06:44:31,Card payment,Human Forest,🚗,Transport,-1.87,GBP,-1.87,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-1.87,
+tx_0000B0A6i8OEGm5Ni61snr,12-11-2025,07:15:22,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B0A6phbviWiUyP2wlt,12-11-2025,07:16:44,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B0A7b6kO4uX7WhFqyn,12-11-2025,07:25:18,Card payment,Rentbrella,,Bills,-2,GBP,-2,GBP,,3rd Floor Chancery Housest. Nicholas Way,,RENTBRELLA             SUTTON        GBR,,-2,
+tx_0000B0A7hceKNa2Wj3SETO,12-11-2025,07:26:28,Card payment,Human Forest,🚗,Transport,-1,GBP,-1,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-1,
+tx_0000B0AewksJNNFxnuHBiP,12-11-2025,13:38:58,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B0Af56sDTCy0LcDQTx,12-11-2025,13:40:29,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B0AfyPLUUc18ocxLOL,12-11-2025,13:50:29,Card payment,Human Forest,🚗,Transport,-1,GBP,-1,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-1,
+tx_0000B0Aomf3n8jeO7TeAD3,12-11-2025,15:29:12,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B0Aoodpsf9qC9CyJrV,12-11-2025,15:29:33,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B0AovjqohI1upWnHPO,12-11-2025,15:30:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B0AozCVebMhY8Kq35V,12-11-2025,15:31:28,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B0AqEs0eghTld2JxPV,12-11-2025,15:45:30,Card payment,Human Forest,🚗,Transport,-1,GBP,-1,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-1,
+tx_0000B0AqKPto79X1C6Seht,12-11-2025,15:46:30,Card payment,Human Forest,🚗,Transport,-1,GBP,-1,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-1,
+tx_0000B0Gu4nSQK4Uc6jwhu6,15-11-2025,13:56:46,Pot transfer,Holiday Pot,,Savings,10,GBP,10,GBP,,,,,,,10
+tx_0000B0IbJh9AYegZc74AhX,16-11-2025,09:35:59,Card payment,Bism Supermarket LTD,🍎,Groceries,-0.96,GBP,-0.96,GBP,,234 Southwark Park Road,,BISM SUPERMARKET LTD   London        GBR,,-0.96,
+tx_0000B0Ss640qO9JCQvwios,21-11-2025,08:31:07,Card payment,Bism Supermarket LTD,🍎,Groceries,-0.76,GBP,-0.76,GBP,,234 Southwark Park Road,,BISM SUPERMARKET LTD   London        GBR,,-0.76,
+tx_0000B0fcLmwKYl2AJvD3i5,27-11-2025,12:05:56,Pot transfer,🏡 + 💍👰🏻‍♀️ Pot,,Savings,200,GBP,200,GBP,,,,,,,200
+tx_0000B0fcPaifw6Uqm3yVPd,27-11-2025,12:06:37,Pot transfer,Holiday Pot,,Savings,80.54,GBP,80.54,GBP,,,,,,,80.54
+tx_0000B0fces3Jm7FD927hmk,27-11-2025,12:09:23,Card payment,American Express,💳,Transfers,-427.38,GBP,-427.38,GBP,,,,American Express       London        GBR,,-427.38,
+tx_0000B0fqHida0qxNp0xw0J,27-11-2025,14:42:04,Card payment,Human Forest,🚗,Transport,0,GBP,0,GBP,Active card check,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,0,
+tx_0000B0fqKle9HUa9NV72en,27-11-2025,14:42:37,Card payment,Human Forest,🚗,Transport,0,GBP,0,GBP,Active card check,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,0,
+tx_0000B0g0GJMfURc6gSTbYQ,27-11-2025,16:33:52,Bacs (Direct Credit),Accor Hotels,,Income,621.67,GBP,621.67,GBP,2193    10135142,,,2193    10135142,,,621.67
+tx_0000B0hzxKA8gh0TrQcrPG,28-11-2025,15:39:51,Pot transfer,Holiday Pot,,Savings,-475,GBP,-475,GBP,,,,,,-475,
+tx_0000B0i0Wcx2p6w4COWXtj,28-11-2025,15:46:13,Faster payment,RANADIVE R,,Income,245.1,GBP,245.1,GBP,costume Zara,,,costume Zara,,,245.1
+tx_0000B0i0XtrnPxfsufXWnS,28-11-2025,15:46:28,Pot transfer,Amex Payment Pot,,Savings,-245.1,GBP,-245.1,GBP,,,,,,-245.1,
+tx_0000B0i7rpTo8aLbEupjYg,28-11-2025,17:08:30,Faster payment,RANADIVE R,,Income,89.1,GBP,89.1,GBP,costume river isl,,,costume river isl,,,89.1
+tx_0000B0i9yBRnZhn0QIq1Y6,28-11-2025,17:32:03,Pot transfer,Amex Payment Pot,,Savings,-89.1,GBP,-89.1,GBP,,,,,,-89.1,
+tx_0000B0iJ5QSZ3aTMjIsErb,28-11-2025,19:14:13,Faster payment,RANADIVE R,,Income,159,GBP,159,GBP,costume boots dune,,,costume boots dune,,,159
+tx_0000B0iJABftSG9WYrzIw6,28-11-2025,19:15:04,Pot transfer,Amex Payment Pot,,Savings,-159,GBP,-159,GBP,,,,,,-159,
+tx_0000B0ih6eeQB4nTyi9C4X,28-11-2025,23:43:21,Faster payment,SAHIL DHAGE,,Income,200,GBP,200,GBP,CHASE,,,CHASE,,,200
+tx_0000B0ihCvZECDzy8Q6IeP,28-11-2025,23:44:29,Pot transfer,Holiday Pot,,Savings,325,GBP,325,GBP,,,,,,,325
+tx_0000B0ihIqLQWirFBrFphN,28-11-2025,23:45:33,Monzo-to-Monzo,Atharv Yenpure,,Rent,-525,GBP,-525,GBP,Rent Dec,,,,,-525,
+tx_0000B0jYgsBybW9e3B21DO,29-11-2025,09:43:46,Faster payment,RANADIVE R,,Income,30.39,GBP,30.39,GBP,costume boots dune,,,costume boots dune,,,30.39
+tx_0000B0jYk6JKZGsQnPrsBu,29-11-2025,09:44:21,Pot transfer,Amex Payment Pot,,Savings,-30.39,GBP,-30.39,GBP,,,,,,-30.39,
+tx_0000B0k7Vm3YZbpeDGqBu5,29-11-2025,16:13:56,Faster payment,Sahil Dhage,,General,-50,GBP,-50,GBP,Sahil Dhage,,,Sahil Dhage,,-50,
+tx_0000B0k7jAcKZHUqWxqGJN,29-11-2025,16:16:21,Pot transfer,Holiday Pot,,Savings,50,GBP,50,GBP,,,,,,,50
+tx_0000B0kNFvD2NFbzRAQt85,29-11-2025,19:10:21,Pot transfer,Holiday Pot,,Savings,10,GBP,10,GBP,,,,,,,10
+tx_0000B0lHMcyu8cuaA1tzSl,30-11-2025,05:39:03,monzo_paid,,,Bills,-7,GBP,-7,GBP,,,,Perks,,-7,
+tx_0000B0n95rhDlUfpPD6pA9,01-12-2025,03:15:07,overdraft,,,General,-0.01,GBP,-0.01,GBP,This is the charge for your November 2025 overdraft,,,November overdraft fees,,-0.01,
+tx_0000B0nzqCVBw7qpvlACpu,01-12-2025,13:06:50,Faster payment,RANADIVE R,,Income,331.53,GBP,331.53,GBP,costume boots dune,,,costume boots dune,,,331.53
+tx_0000B0o24fUJAGWT9WU4Rw,01-12-2025,13:31:51,Pot transfer,Amex Payment Pot,,Savings,-331.53,GBP,-331.53,GBP,,,,,,-331.53,
+tx_0000B0sEkYqAFKFjPeOD1m,03-12-2025,14:12:44,Faster payment,SAHIL DHAGE,,Income,74,GBP,74,GBP,CHASE,,,CHASE,,,74
+tx_0000B0zLgjTAqPueQ1QDFh,07-12-2025,00:33:27,Pot transfer,Amex Payment Pot,,Savings,-75,GBP,-75,GBP,,,,,,-75,
+tx_0000B0zxQrDU4QyPAHhXRz,07-12-2025,07:36:23,Bank transfer,AIJ PRODUCTIONS LIMITED,,Income,440,GBP,440,GBP,USA V/S RAJ week1,,,USA V/S RAJ week1,,,440
+tx_0000B1062Qo9VKoGTQbs1L,07-12-2025,09:12:49,Pot transfer,Holiday Pot,,Savings,-440,GBP,-440,GBP,,,,,,-440,
+tx_0000B12jLeIvpnBV8XQv2b,08-12-2025,15:42:42,Faster payment,THE VAULTS SERVICE,,Income,4.1,GBP,4.1,GBP,VAULTSY TIPS (V31),,,VAULTSY TIPS (V31),,,4.1
+tx_0000B12mHyD6BMq3L9DkOp,08-12-2025,16:15:39,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B12mOouh971MJTwfBK,08-12-2025,16:16:53,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B13PpsNaGRegCgj9Zi,08-12-2025,23:38:47,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B13Q1FqLMlzqkc3lkR,08-12-2025,23:40:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B14r0QDIDVchaHketl,09-12-2025,16:17:56,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B14rAwVwyf7zcTKDVR,09-12-2025,16:19:50,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B14rGMcdKwjJq1dgW6,09-12-2025,16:20:49,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B14rQWUFVxT0Z1at4U,09-12-2025,16:22:39,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B15UJYzhgrgXUYLMZt,09-12-2025,23:38:23,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B15URCZWwImXloqrgX,09-12-2025,23:39:46,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B16zGIJuWFuTJQ6ZCz,10-12-2025,16:59:52,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B16zPkZQr2J4S7H0bZ,10-12-2025,17:01:34,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B17NyubRwZ4VEAGNV4,10-12-2025,21:36:51,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B17O8WFlKXFgSRchDl,10-12-2025,21:38:35,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B18X45cbUuHCHcpd0z,11-12-2025,10:53:20,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B18XAVALRC17XzVwPN,11-12-2025,10:54:30,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B18vaUlnvgS9YB1Jjg,11-12-2025,15:28:07,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B18vi4VlRVfeF8a5rN,11-12-2025,15:29:29,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B1ATKVbKfAYIvDknxx,12-12-2025,09:20:54,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B1ATUlWMKPTVg6H94D,12-12-2025,09:22:46,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B1Aj7peaOagYhaUWP4,12-12-2025,12:17:54,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B1AjI1v5e2lUv39Pij,12-12-2025,12:19:44,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B1AnNKQceopWP3TSG9,12-12-2025,13:05:31,Card payment,Human Forest,🚗,Transport,-10.85,GBP,-10.85,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-10.85,
+tx_0000B1B0kqiG5bg9pFxzP8,12-12-2025,15:35:26,Card payment,Uber Eats,🍽,Eating out,-25.53,GBP,-25.53,GBP,,Aldgate Tower First Floor,,UBER   * EATS PENDING  London        GBR,,-25.53,
+tx_0000B1BQZA7ih2Bvww9tgZ,12-12-2025,20:24:39,Pot transfer,Amex Payment Pot,,Savings,930.26,GBP,930.26,GBP,,,,,,,930.26
+tx_0000B1BQcOg12cQ22ZysVO,12-12-2025,20:25:14,Pot transfer,Holiday Pot,,Savings,250,GBP,250,GBP,,,,,,,250
+tx_0000B1BQl4Jy5lqp1xehHd,12-12-2025,20:26:48,Card payment,American Express,💳,Transfers,-1149.15,GBP,-1149.15,GBP,,,,American Express       London        GBR,,-1149.15,
+tx_0000B1DntVqsItxByNaegf,13-12-2025,23:55:28,Bank transfer,AIJ PRODUCTIONS LIMITED,,Income,588.72,GBP,588.72,GBP,USA V/S RAJ week2,,,USA V/S RAJ week2,,,588.72
+tx_0000B1Do3KBoWDxwhO3xje,13-12-2025,23:57:14,Pot transfer,Amex Payment Pot,,Savings,-58,GBP,-58,GBP,,,,,,-58,
+tx_0000B1Do4iOC1whXf49PGe,13-12-2025,23:57:29,Pot transfer,Holiday Pot,,Savings,-530,GBP,-530,GBP,,,,,,-530,
+tx_0000B1Ezj9YHkiaDwM9xX3,14-12-2025,13:42:46,Pot transfer,Holiday Pot,,Savings,100,GBP,100,GBP,Transfer to 🏡 + 💍👰🏻‍♀️,,,,,,100
+tx_0000B1Ezj9XZnLbRbL0yTT,14-12-2025,13:42:46,Pot transfer,🏡 + 💍👰🏻‍♀️ Pot,,Savings,-100,GBP,-100,GBP,Transfer from Holiday,,,,,-100,
+tx_0000B1HEzRLhEr1Yg7zEZ8,15-12-2025,15:43:12,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B1HF73xG6LWaRJBtdy,15-12-2025,15:44:35,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B1HFzw03NZwVNMVjfQ,15-12-2025,15:54:30,Card payment,Human Forest,🚗,Transport,-1,GBP,-1,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-1,
+tx_0000B1HvTNGTBVrk4oRtMD,15-12-2025,23:39:14,Card payment,Human Forest,🚗,Transport,-5,GBP,-5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-5,
+tx_0000B1Hvcf9e2WZXn51AOX,15-12-2025,23:40:54,Card payment,Human Forest,🚗,Transport,5,GBP,5,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,,5
+tx_0000B1HwZKWQOWLnqzTSQV,15-12-2025,23:51:31,Card payment,Human Forest,🚗,Transport,-1,GBP,-1,GBP,,207-209 Southwark Bridge Road,,FOREST                 LONDON        GBR,,-1,
+tx_0000B1I8cSkZSR620OQoOy,16-12-2025,02:06:32,Card payment,Human Forest,🚗,Transport,10.85,GBP,10.85,GBP,,207-209 Southwark Bridge Road,,FOREST\207-209 Southwark Bridge Road\LONDON\SE1 0DN   LNDGBR,,,10.85
+tx_0000B1It1yXN0VQiIyTI4f,16-12-2025,10:46:34,Faster payment,SAHIL DHAGE,,Income,25,GBP,25,GBP,15th dec,,,CHASE,,,25
+tx_0000B1ItcD8wBDmVLfZ9Pu,16-12-2025,10:53:08,Pot transfer,Amex Payment Pot,,Savings,-25,GBP,-25,GBP,,,,,,-25,
