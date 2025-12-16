@@ -1,0 +1,10 @@
+Transaction ID,Date,Time,Type,Name,Emoji,Category,Amount,Currency,Local amount,Local currency,Notes and #tags,Address,Receipt,Description,Category split,Money Out,Money In
+tx_0001,01-01-2025,11:10:53,Card payment,Tesco,🍎,Groceries,-12.45,GBP,-12.45,GBP,,123 Main Street,,TESCO-STORES 123,,-12.45,
+tx_0002,01-01-2025,14:38:49,Monzo.me / Top-up,,General,Income,100.00,GBP,100.00,GBP,Internal transfer,,,,,0,100.00
+tx_0003,02-01-2025,09:20:00,Card payment,Starbucks,☕,Coffee,-4.50,GBP,-4.50,GBP,,456 High Street,,STARBUCKS COFFEE,,-4.50,
+tx_0004,03-01-2025,15:02:46,Card payment,Electric Co,⚡,Bills,-75.00,GBP,-75.00,GBP,,789 Park Avenue,,ELECTRIC COMPANY,,-75.00,
+tx_0005,04-01-2025,18:45:12,Pot transfer,Savings Pot,,Savings,50.00,GBP,50.00,GBP,,,,,0,50.00
+tx_0006,05-01-2025,12:30:00,Card payment,Amazon,📦,Shopping,-25.99,GBP,-25.99,GBP,,321 Market Street,,AMAZON UK,,-25.99,
+tx_0007,06-01-2025,20:15:00,Card payment,Netflix,🎬,Entertainment,-9.99,GBP,-9.99,GBP,,22 Cinema Road,,NETFLIX,,-9.99,
+tx_0008,07-01-2025,10:05:00,Monzo.me / Top-up,,General,Income,200.00,GBP,200.00,GBP,Internal transfer,,,,,0,200.00
+tx_0009,08-01-2025,13:50:00,Card payment,McDonald's,🍔,Food,-8.75,GBP,-8.75,GBP,,55 Fast Food Lane,,MCDONALD'S,,-8.75,
