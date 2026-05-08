@@ -1,0 +1,86 @@
+version: '3.9'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: btea_postgres
+    environment:
+      POSTGRES_USER: btea_user
+      POSTGRES_PASSWORD: btea_password
+      POSTGRES_DB: btea_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U btea_user -d btea_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - btea_network
+
+  # Redis Cache
+  redis:
+    image: redis:7-alpine
+    container_name: btea_redis
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - btea_network
+
+  # Backend API
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: btea_backend
+    environment:
+      DATABASE_URL: postgresql://btea_user:btea_password@postgres:5432/btea_db
+      REDIS_URL: redis://redis:6379
+      PYTHONUNBUFFERED: 1
+      ENV: development
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - btea_network
+    command: python app/main.py
+
+  # Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: btea_frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    environment:
+      REACT_APP_API_URL: http://localhost:8000
+    depends_on:
+      - backend
+    networks:
+      - btea_network
+    command: npm start
+
+volumes:
+  postgres_data:
+
+networks:
+  btea_network:
+    driver: bridge
