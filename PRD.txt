@@ -1,0 +1,441 @@
+=====================================================
+B_TEA: INTELLIGENT EXPENSE ANALYSIS PLATFORM
+Product Requirements Document (PRD)
+=====================================================
+
+1. EXECUTIVE SUMMARY
+--------------------
+B_TEA is an AI-powered financial analysis platform that transforms raw expense data 
+into actionable insights. Users upload financial documents (CSV/PDF) and receive 
+professional-grade analysis, visualization, and forecasting—all automatically.
+
+Problem: Users struggle to understand their spending patterns without manual analysis.
+Solution: One-click document upload → comprehensive analytics dashboard.
+Positioning: Analyst-grade insights (better than Splitwise) + privacy-first (better than bank apps).
+
+
+2. CORE FEATURES (MVP - PHASE 1)
+---------------------------------
+
+2.1 FILE UPLOAD & DATA INGESTION
+- Drag-and-drop interface for CSV and PDF files
+- Support for common transaction formats (date, amount, description, category)
+- File validation and format detection
+- Real-time parsing feedback
+- Max file size: 10MB (scales to 100MB in Phase 2)
+
+2.2 INTELLIGENT DATA CLEANING
+- Automatic date standardization (multiple formats supported)
+- Currency normalization (removes symbols, handles decimals)
+- Duplicate detection and removal
+- Missing data handling (imputation for dates, flagging for amounts)
+- Text standardization (consistent merchant names, lowercase)
+- Outlier detection (flags unusual transactions for review)
+
+2.3 AUTO-CATEGORIZATION ENGINE
+- Machine learning model pre-trained on common transaction patterns
+- Categories: Food & Dining, Transportation, Bills & Utilities, Entertainment, 
+  Shopping, Healthcare, Education, Personal Care, Subscriptions, Other
+- User correction capability (Phase 2: retrains on feedback)
+- Confidence scores for each categorization
+- Custom categories support (Phase 2)
+
+2.4 ANALYTICS DASHBOARD
+Visual Representations:
+- Pie chart: Spending breakdown by category
+- Line chart: Spending trends over time
+- Bar chart: Monthly comparison
+- Heatmap: Spending intensity by day/week
+- Summary cards: Total spent, average transaction, largest transaction
+
+Key Metrics:
+- Total expenses (period)
+- Average daily/weekly/monthly spending
+- Top 5 spending categories
+- Category-wise percentages
+- Largest transactions
+- Most frequent merchants
+
+2.5 HIGH-VALUE INSIGHTS (Analyst-Level Analysis)
+The differentiator—things users naturally overlook:
+
+Subscriptions Detection:
+- Identify recurring monthly charges (Netflix, Spotify, gym memberships)
+- Calculate annual subscription cost
+- Flag unused/forgotten subscriptions
+
+Spending Anomalies:
+- Highlight unusual spikes in specific categories
+- Compare to user's baseline spending
+- Provide context (e.g., "30% above usual dining spend")
+
+Trend Analysis:
+- Category growth/decline over time
+- Seasonal patterns (e.g., higher shopping in Dec)
+- Day-of-week patterns (weekend vs weekday spending)
+
+Merchant Intelligence:
+- Top merchants by frequency and amount
+- Categorization accuracy check
+- Potential duplicate merchants (same place, different names)
+
+Behavioral Insights:
+- Budget adherence (if user sets targets)
+- Spending distribution (concentrated vs spread)
+- Peak spending times/days
+
+2.6 FORECASTING & PREDICTIONS
+- Next month spending prediction (based on historical average)
+- Category-wise forecasts
+- Confidence intervals for predictions
+- Seasonal adjustment (account for holidays/known events)
+- Burn rate calculation (days until 0 balance, if provided)
+
+2.7 SMART RECOMMENDATIONS
+- "You're spending 40% more on dining than average, consider meal prep"
+- "Found 3 forgotten subscriptions totaling $45/month, cancel to save"
+- "Your transport costs increased 20% this month, track mileage"
+- "Weekend spending is 3x weekday—plan budget accordingly"
+- "Alert: Unusual $500 transaction detected (electronics category)"
+
+2.8 EXPORT & REPORTS
+- PDF report: Full analysis with charts, insights, recommendations
+- CSV export: Cleaned, categorized transaction data
+- Summary text export
+- Email report delivery (Phase 2)
+
+
+3. TECHNICAL ARCHITECTURE
+--------------------------
+
+3.1 TECH STACK
+
+Frontend:
+- React 18+ (interactive UI)
+- Recharts (data visualization)
+- TailwindCSS (responsive styling)
+- Axios (API client)
+- Zustand/Redux (state management)
+- TypeScript (type safety)
+
+Backend:
+- Python 3.10+
+- FastAPI (high-performance API framework)
+- PostgreSQL (relational database)
+- Redis (caching, job queues)
+- Celery (async task processing)
+- SQLAlchemy (ORM)
+
+Data Processing:
+- Pandas (data manipulation and cleaning)
+- NumPy (numerical computations)
+- Scikit-learn (ML: classification, clustering)
+- pdfplumber (PDF parsing)
+- python-dateutil (date handling)
+- Matplotlib/Seaborn (additional analysis)
+
+DevOps & Deployment:
+- Docker (containerization)
+- Docker Compose (local development)
+- GitHub Actions (CI/CD)
+- AWS S3 (file storage, temp)
+- Heroku/DigitalOcean (deployment, Phase 2)
+
+3.2 SYSTEM ARCHITECTURE
+
+User → Frontend UI
+         ↓ (HTTP/REST API)
+       FastAPI Backend
+         ↓
+    [Authentication]
+    [File Upload Handler] → S3 Temp Storage
+         ↓
+    Data Processing Pipeline (Celery Tasks):
+    ├─ PDF/CSV Parser
+    ├─ Data Cleaner
+    ├─ Auto-Categorizer (ML Model)
+    └─ Analytics Engine
+         ↓
+    PostgreSQL Database (Results, Insights, User Data)
+         ↓
+    Dashboard Renderer
+         ↓
+    Frontend Displays Results (Charts + Text)
+
+3.3 CORE API ENDPOINTS (MVP)
+
+POST /api/v1/analysis/upload
+  - Input: File (CSV/PDF), optional user_id
+  - Output: analysis_id, processing_status
+  - Async processing with job queue
+
+GET /api/v1/analysis/{analysis_id}
+  - Output: Cleaned data, categorization results, basic metrics
+
+GET /api/v1/insights/{analysis_id}
+  - Output: JSON with all insights (subscriptions, anomalies, trends, etc.)
+
+GET /api/v1/forecast/{analysis_id}
+  - Output: Next month forecast by category, confidence intervals
+
+GET /api/v1/report/{analysis_id}
+  - Output: PDF file download
+
+3.4 DATA PIPELINE FLOW
+
+1. File Upload → Validation (format, size, encoding)
+2. Parsing → Extract transactions (date, amount, description)
+3. Cleaning → Standardize, deduplicate, handle missing data
+4. Categorization → ML model predicts category
+5. Analytics → Calculate metrics, detect patterns
+6. Insights → Generate actionable recommendations
+7. Forecasting → Predict future spending
+8. Storage → Save to DB, cleanup temp files
+9. Display → Return to frontend for visualization
+
+3.5 DATA MODELS (Database Schema)
+
+Analysis (table):
+- id (UUID)
+- user_id (optional, for Phase 2)
+- file_name (string)
+- upload_date (datetime)
+- processing_status (enum: uploading, processing, completed, failed)
+- total_transactions (int)
+- date_range (start_date, end_date)
+- created_at, updated_at
+
+Transaction (table):
+- id (UUID)
+- analysis_id (FK)
+- date (date)
+- amount (decimal)
+- description (string)
+- original_category (string, if provided)
+- predicted_category (string)
+- category_confidence (float 0-1)
+- merchant (string, extracted)
+- notes (text)
+
+Insight (table):
+- id (UUID)
+- analysis_id (FK)
+- insight_type (enum: subscription, anomaly, trend, recommendation)
+- title (string)
+- description (text)
+- metric_value (decimal, e.g., "3 subscriptions")
+- severity (enum: info, warning, alert)
+
+Forecast (table):
+- id (UUID)
+- analysis_id (FK)
+- category (string)
+- predicted_amount (decimal)
+- confidence_level (float)
+- forecast_date (date)
+
+3.6 SECURITY CONSIDERATIONS
+
+- File upload validation (whitelist MIME types, scan for viruses in Phase 2)
+- Encryption for uploaded files at rest (AES-256)
+- HTTPS for all communication
+- Rate limiting on API endpoints
+- Temporary file auto-deletion (30 days, configurable)
+- Optional user authentication (Phase 2)
+- Data anonymization for analytics
+- GDPR-compliant data retention policies
+
+
+4. MONETIZATION STRATEGY (PHASE 3)
+-----------------------------------
+
+4.1 FREEMIUM MODEL
+
+FREE TIER ($0)
+- 1 analysis per month
+- Basic insights (subscriptions, trends, top categories)
+- CSV files only
+- 7-day data retention
+- Standard PDF report
+- Community support
+→ Goal: Acquire users, build brand trust
+
+PRO TIER ($4.99/month)
+- Unlimited analyses (up to 100/month practical limit)
+- Full insights (+ anomalies, behavioral, recommendations)
+- CSV + PDF parsing
+- 90-day data retention
+- Advanced PDF report with custom sections
+- Email support
+- Forecast & predictions included
+→ Goal: Convert casual users to power users
+
+BUSINESS TIER ($14.99/month)
+- Team collaboration (5 users per account)
+- API access for developers (personal finance apps)
+- 1-year data retention
+- Custom categorization templates
+- Priority email support
+- Advanced forecasting (12-month ahead)
+→ Goal: Capture high-value segments (accountants, small businesses)
+
+4.2 PRICING RATIONALE
+- $5/month = $60/year (cost of lunch, vs $500+ for real analyst)
+- Free tier converts ~10-20% of users (industry average)
+- Estimated $2k/month MRR at 200 pro users
+- $15k/month at 1000 pro users
+
+4.3 ALTERNATIVE MONETIZATION (Phase 4)
+- White-label API for fintech partners
+- Integration fees with banking platforms
+- Premium template library for budget planning
+- Affiliate links to financial products (credit cards, savings accounts)
+
+4.4 WHY BETTER THAN COMPETITORS
+Splitwise:
+- ✓ Automatic parsing (vs manual entry)
+- ✓ Real insights (vs just expense log)
+- ✓ Cheaper ($5 vs $5.99)
+
+Bank Apps:
+- ✓ Privacy-first (we delete data vs bank keeping forever)
+- ✓ Better analysis (cross-bank, smarter algorithms)
+- ✓ Actionable recommendations vs generic summaries
+- ✓ Works with ANY financial source
+
+
+5. PRODUCT ROADMAP
+-------------------
+
+PHASE 1: MVP (Months 1-2) ⚡
+Goals:
+- Core upload → analyze → export pipeline working
+- Auto-categorization 85%+ accuracy
+- Professional dashboard
+- Deployment-ready
+
+Deliverables:
+✓ File parser (CSV, PDF)
+✓ Data cleaning pipeline
+✓ ML categorizer trained & deployed
+✓ Analytics engine (all metrics)
+✓ Insights generator (subscriptions, anomalies, trends)
+✓ Forecast module (basic)
+✓ React dashboard with charts
+✓ PDF report generator
+✓ Docker setup & deployment
+
+Success Metrics:
+- <5 second analysis time (for avg file)
+- 85%+ categorization accuracy on test set
+- Zero data loss in pipeline
+- Dashboard loads <2 seconds
+- 0 critical bugs in final release
+
+Deliverables Timeline:
+Week 1-2: Backend API + data pipeline scaffold
+Week 3-4: Core cleaning, categorization, analytics
+Week 5-6: Insights engine + forecasting
+Week 7-8: Frontend + integration + testing
+
+
+PHASE 2: POLISH & SCALE (Months 3-4) 🎨
+Goals:
+- User accounts & data persistence
+- UI/UX refinement
+- Mobile responsiveness
+- Performance optimization
+
+Deliverables:
+✓ User authentication (email, Google OAuth)
+✓ Save/manage analyses (history)
+✓ Edit transaction categorization UI
+✓ Mobile-responsive design
+✓ Advanced charts (interactive, drill-down)
+✓ Monthly comparison reports
+✓ Batch processing (multiple files)
+✓ Better PDF templates
+✓ Error handling & validation improvements
+
+Success Metrics:
+- 100+ active users (open beta)
+- 4.5+ star rating (user reviews)
+- 50%+ mobile traffic
+- <1% error rate
+- 99% uptime
+
+
+PHASE 3: MONETIZATION (Months 5-6) 💰
+Goals:
+- Freemium launch
+- Sustainable revenue
+- Enterprise feature set
+
+Deliverables:
+✓ Stripe integration
+✓ Freemium tier gating (feature flags)
+✓ Email subscription management
+✓ API documentation (for Business tier)
+✓ Custom category templates
+✓ Export to Notion/Google Sheets (via Zapier)
+
+Success Metrics:
+- 1000+ total users
+- 20% paid conversion rate
+- $2000+/month MRR (Monthly Recurring Revenue)
+- 10% monthly churn (acceptable)
+
+
+PHASE 4: GROWTH (Months 7+) 🚀
+Goals:
+- 10k+ users
+- Multi-channel distribution
+- Advanced features
+
+Deliverables:
+✓ Bank API integrations (Plaid, Yodlee)
+- Auto-pull transactions directly from banks
+- Real-time expense tracking
+✓ Budget planning tool
+✓ Savings goal tracker
+✓ Bill reminder system
+✓ Investment portfolio tracking
+✓ Native mobile apps (iOS, Android)
+✓ Partnership with financial apps
+✓ Marketing campaigns (Product Hunt, Growth loops)
+
+Success Metrics:
+- 10,000+ monthly active users
+- 30%+ paid conversion
+- $20k+/month MRR
+- Sustainable growth trajectory
+
+
+5.1 MILESTONES & CHECKPOINTS
+
+End of Week 4 (Phase 1):
+- API endpoints working
+- CSV parsing ✓
+- Basic categorization ✓
+- Dashboard shows data ✓
+
+End of Month 2 (Phase 1 Complete):
+- Full pipeline working
+- Frontend complete
+- Deployed & accessible
+- Ready for beta
+
+End of Month 4 (Phase 2 Complete):
+- User accounts working
+- 100 testers using it
+- Mobile responsive
+- Ready for public launch
+
+End of Month 6 (Phase 3 Complete):
+- Paying customers
+- Revenue flowing
+- Metrics validated
+
+=====================================================
+END OF DOCUMENT
+=====================================================
