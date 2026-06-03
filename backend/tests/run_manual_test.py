@@ -1,7 +1,11 @@
 """
 Manual integration test to demonstrate the pipeline
-Run with: python -m pytest tests/run_manual_test.py -v -s
+Run with: python -m backend.tests.run_manual_test
 """
+
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import pandas as pd
 from datetime import datetime, timedelta
