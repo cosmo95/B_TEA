@@ -10,7 +10,7 @@ scikit-learn==1.3.2
 
 # File Parsing
 pdfplumber==0.10.3
-openpyxl==3.11.0
+openpyxl==3.1.5
 python-dateutil==2.8.2
 
 # Database
