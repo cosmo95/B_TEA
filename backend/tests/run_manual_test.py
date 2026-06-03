@@ -5,10 +5,10 @@ Run with: python -m pytest tests/run_manual_test.py -v -s
 
 import pandas as pd
 from datetime import datetime, timedelta
-from app.data_pipeline.parser import FileParser
-from app.data_pipeline.cleaner import DataCleaner
-from app.data_pipeline.categorizer import Categorizer
-from app.data_pipeline.analyzer import AnalyticsEngine
+from data_pipeline.parser import FileParser
+from data_pipeline.cleaner import DataCleaner
+from data_pipeline.categorizer import Categorizer
+from data_pipeline.analyzer import AnalyticsEngine
 import json
 
 
